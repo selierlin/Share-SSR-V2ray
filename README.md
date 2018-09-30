@@ -42,7 +42,7 @@
 
 [逗比根据地分享](https://doub.io/sszhfx/)：【逗比自建】【网友分享】
 
-[FreeSS](https://ss.freess.org/)：【24小时更换】
+[FreeSS-Easy to Use](https://ss.freess.org/)：【24小时更换】
 
 [FreeSS](https://io.freess.today/)：【4小时更换】
 
@@ -50,7 +50,17 @@
 
 [免费ss账号](https://free.yitianjianss.com/)： 【F】【软件教程 】
 
-[GRIGOR'S](https://gdmi.weebly.com/3118523398online.html)：【未明确时效】
+[FreeV2ray](https://get.freev2ray.com/)：【V】
+
+[v2ray.party](https://v2ray.party/)：【V】
+
+[坚果极客](https://www.nutgeek.com/ssshadowsocks/)：【回复获取】
+
+[GRIGOR'S](https://gdmi.weebly.com/3118523398online.html)：
+
+[shadowsocket](http://webosss.com/tool/socket)：
+
+[Free shadowsocks](https://free.gyteng.com/)：
 
 
 
