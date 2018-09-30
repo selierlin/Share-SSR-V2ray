@@ -12,37 +12,45 @@
 
 ## 分享站点
 
-[ssrshare.com分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/) ：【每天更新】
+> 【F】表示访问需要使用科学上网
+>
+> 【xxx更新】的意思就是这个网站更换链接/密码的频率
+>
+> 【V】的表示支持V2ray，没写的默认支持SSR
 
-[ssrshare.com分享网站](https://www.ssrtool.com/tool/free_ssr)： 【有订阅链接】【24小时更换链接】
 
-[翻墙党论坛](https://fanqiangdang.com/)： 【不定期更新】 【可能会凉】
+
+[ssrshare.com分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/) ：【F】【V】【每天更新】
+
+[ssrshare.com分享网站](https://www.ssrtool.com/tool/free_ssr)： 【F】【V】【有订阅链接】【24小时更换链接】
+
+[翻墙党论坛](https://fanqiangdang.com/)： 【F】【V】【不定期更新】 【可能会凉】
 
 [Github/Alvin999](https://github.com/Alvin9999/ssr-accounts)：  【不定期更新】
 
-[iShadow](https://us.ishadowx.net/)：【6小时更换】  【提供软件教程】
+[Github/gfw-breaker](https://github.com/gfw-breaker/ssr-accounts)： 【不定期更新】
+
+[iShadow](https://us.ishadowx.net/)：【6小时更换】【软件教程】
 
 免费上网账号：	
 
-1. [A](https://free-ss.site/)  ：【翻墙】邮件获取镜像 ss@rohankdd.com 
+1. [A](https://free-ss.site/)  ：【F】【V】邮件获取镜像 ss@rohankdd.com 
 
-2. [B](https://free-ss.tk/)  ：【镜像免翻】
+2. [B](https://free-ss.tk/)  ：【V】【镜像】
 
-[免费SS账号](https://ssr.tips/46.html#respond)： 【评论显示】
+[免费SS账号](https://ssr.tips/46.html#respond)： 【F】
 
 [逗比根据地分享](https://doub.io/sszhfx/)：【逗比自建】【网友分享】
 
-[FreeSS](https://ss.freess.org/)： 【翻墙】
+[FreeSS](https://ss.freess.org/)：【24小时更换】
 
-[Github/gfw-breaker](https://github.com/gfw-breaker/ssr-accounts)： 【不定期更新】
+[FreeSS](https://io.freess.today/)：【4小时更换】
 
-[FreeSS](https://io.freess.today/)：【翻墙】 【4小时更换】
+[SS8](https://get.ss8.fun/)：【4小时更换】
 
-[SS8](https://get.ss8.fun/)： 【翻墙】 【4小时更换】
+[免费ss账号](https://free.yitianjianss.com/)： 【F】【软件教程 】
 
-[GRIGOR'S](https://gdmi.weebly.com/3118523398online.html)：
-
-[免费ss账号](https://free.yitianjianss.com/)： 【多平台教程 】
+[GRIGOR'S](https://gdmi.weebly.com/3118523398online.html)：【未明确时效】
 
 
 
@@ -56,11 +64,11 @@
 
 SSRSHARE_COM： [A](https://ssrshare.xyz/freessr) [B](https://yzzz.ml/freessr)
 
-ShadowSocks-Share：[A](https://share-shadowsocksr.herokuapp.com/subscribe?valid=1)  [B](https://shadowsocks-share.herokuapp.com/subscribe?valid=1)​	 
-Charles Xu：	[A](https://ourssr.herokuapp.com/subscribe) [B](https://eyyy.herokuapp.com/subscribe) [C](https://shadowsocksshare.herokuapp.com/subscribe)	 【可能失效】
+ShadowSocks-Share：[A](https://share-shadowsocksr.herokuapp.com/subscribe?valid=1)  [B](https://shadowsocks-share.herokuapp.com/subscribe?valid=1)
+Charles Xu：	[A](https://ourssr.herokuapp.com/subscribe) [B](https://eyyy.herokuapp.com/subscribe) [C](https://shadowsocksshare.herokuapp.com/subscribe)【可能失效】
 
 
 
 ### V2ray订阅
 
-待更新
+[油博士](https://ylbsfreev2ray.netlify.com/)
