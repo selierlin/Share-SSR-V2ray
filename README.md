@@ -32,6 +32,8 @@
 
 [iShadow](https://us.ishadowx.net/)：【6小时更换】【软件教程】
 
+[思山无线论坛](http://www.right.com.cn/forum/forum-159-1.html)
+
 
 免费上网账号：	
 
