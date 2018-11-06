@@ -39,7 +39,7 @@
 
 1. [A](https://free-ss.site/)  ：【F】【V】邮件获取镜像 ss@rohankdd.com 
 
-2. [B](https://free-ss.tk/)  ：【V】【镜像】
+2. [B](https://free-ss.tw)  ：【V】【镜像】
 
 [免费SS账号](https://ssr.tips/46.html#respond)： 【F】
 
