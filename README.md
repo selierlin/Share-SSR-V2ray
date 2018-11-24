@@ -26,11 +26,9 @@
 
 [翻墙党论坛](https://fanqiangdang.com/)： 【F】【V】【不定期更新】 【可能会凉】
 
-[Github/Alvin999](https://github.com/Alvin9999/ssr-accounts)：  【不定期更新】
-
 [Github/gfw-breaker](https://github.com/gfw-breaker/ssr-accounts)： 【不定期更新】
 
-[iShadow](https://us.ishadowx.net/)：【6小时更换】【软件教程】
+[iShadow](https://us.ishadowx.net/)：【F】【6小时更换】【软件教程】
 
 [思山无线论坛](http://www.right.com.cn/forum/forum-159-1.html)
 
@@ -43,15 +41,19 @@
 
 [ssray免费分享](https://ssray.club/) ：【V】
 
+[Free shadowsocks](https://free.gyteng.com/)：
+
+[Free Node](http://cacss.me/):【72小时更换】
+
 [免费SS账号](https://ssr.tips/46.html#respond)： 【F】
 
-[逗比根据地分享](https://doub.io/sszhfx/)：【逗比自建】【网友分享】
+[逗比根据地分享](https://doub.io/sszhfx/)：【F】【逗比自建】【网友分享】
 
-[FreeSS-Easy to Use](https://ss.freess.org/)：【24小时更换】
+[FreeSS-Easy to Use](https://ss.freess.org/)：【F】【24小时更换】
 
-[FreeSS](https://io.freess.today/)：【4小时更换】
+[FreeSS](https://io.freess.today/)：【F】【4小时更换】
 
-[SS8](https://get.ss8.fun/)：【4小时更换】
+[SS8](https://get.ss8.fun/)：【F】【4小时更换】
 
 [免费ss账号](https://free.yitianjianss.com/)： 【F】【软件教程 】
 
@@ -62,12 +64,6 @@
 [坚果极客](https://www.nutgeek.com/ssshadowsocks/)：【回复获取】
 
 [GRIGOR'S](https://gdmi.weebly.com/3118523398online.html)：
-
-[shadowsocket](http://webosss.com/tool/socket)：
-
-[Free shadowsocks](https://free.gyteng.com/)：
-
-[Free Node](http://cacss.me/):【72小时更换】
 
 
 
