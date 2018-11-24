@@ -37,9 +37,11 @@
 
 免费上网账号：	
 
-1. [A](https://free-ss.site/)  ：【F】【V】邮件获取镜像 ss@rohankdd.com 
+1. [A](https://free-ss.site/)  ：【F】【V】通过发送邮件获取镜像网址 ss@rohankdd.com 
 
 2. [B](https://free-ss.tw)  ：【V】【镜像】
+
+[ssray免费分享](https://ssray.club/) ：【V】
 
 [免费SS账号](https://ssr.tips/46.html#respond)： 【F】
 
@@ -73,7 +75,7 @@
 
 ### SSR订阅
 
-> 直接添加到SSR客户端的服务器订阅更新即可
+> 直接右击复制链接添加到SSR客户端的服务器订阅更新即可
 
 [WWW_SSRSHARE_COM](https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com)
 
@@ -87,4 +89,28 @@ Charles Xu：	[A](https://ourssr.herokuapp.com/subscribe) [B](https://eyyy.herok
 
 ### V2ray订阅
 
-[油博士](https://ylbsfreev2ray.netlify.com/)
+[油博士](https://fucktiyanqun.netlify.com/)
+
+
+### Telegram群组
+
+使用方法：
+
+1. 需要下载安装 [Telegram](https://telegram.org/)
+2. 第一次使用必须先能够翻出去
+3. 登录账号，添加下面的群组
+4. 添加一个TG代理后可不用翻就可以上网了
+
+[tg代理](https://t.me/socks5list)
+
+[SSR SHARE](https://t.me/gyjclub)
+
+[SSR节点免费发放](https://t.me/SSRlist)
+
+[油脸博士翻墙交流群](https://t.me/youlianboshi_group)
+
+[SSR V2ray Share](https://t.me/freeshadowsock)
+
+[Share Proxy free](https://t.me/shareproxyfree)
+
+注：如果需要相关工具，请 [点击此处](https://github.com/it-andy-hou/fq)
