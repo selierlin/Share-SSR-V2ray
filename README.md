@@ -59,7 +59,7 @@
 
 [FreeV2ray](https://get.freev2ray.com/)：【V】
 
-[v2ray.party](https://v2ray.party/)：【V】
+[v2fire.tk](https://v2fire.tk/)：【V】
 
 [坚果极客](https://www.nutgeek.com/ssshadowsocks/)：【回复获取】
 
