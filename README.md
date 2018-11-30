@@ -32,6 +32,9 @@
 
 [思山无线论坛](http://www.right.com.cn/forum/forum-159-1.html)
 
+[SSR爬取账号](http://ss.pythonic.life/) ：【可以使用SSR订阅】
+
+[Fress](https://io.freess.org/)
 
 免费上网账号：	
 
