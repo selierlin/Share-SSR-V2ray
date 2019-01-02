@@ -10,7 +10,7 @@
 
 
 
-## 分享站点
+### 分享站点
 
 > 【F】表示访问需要使用科学上网
 >
@@ -39,7 +39,7 @@
 
 [Fress](https://io.freess.org/)
 
-免费上网账号：	
+### 免费上网账号
 
 1. [A](https://free-ss.site/)  ：【F】【V】通过发送邮件获取镜像网址 ss@rohankdd.com 
 
