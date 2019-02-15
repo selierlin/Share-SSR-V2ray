@@ -18,6 +18,7 @@
 >
 > 【V】的表示支持V2ray，没写的默认支持SSR
 
+[OKSS](https://web2019.okss.xyz/auth/register?code=XW0G)：免费站点，需要注册，推荐
 
 [SSRAY](https://ssray.club/) ：
 
