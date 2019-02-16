@@ -1,8 +1,8 @@
 [TOC]
 
-### SSR-V2ray 分享
+### SS-SSR-V2ray 分享
 
-[SSR-V2ray 分享网站推荐](1-share-ssr-v2ray.md)
+[SS-SSR-V2ray 分享网站推荐](1-share-ssr-v2ray.md)
 
 
 
