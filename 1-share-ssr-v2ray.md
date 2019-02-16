@@ -42,6 +42,9 @@
 
 [Fress](https://io.freess.org/)
 
+[SSCAP](https://tool.ssrshare.us/tool/free_ssr)
+
+
 ### 免费上网账号
 
 1. [A](https://free-ss.site/)  ：【F】【V】通过发送邮件获取镜像网址 ss@rohankdd.com 
