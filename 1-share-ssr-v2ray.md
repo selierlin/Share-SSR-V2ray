@@ -20,7 +20,7 @@
 
 ---
 
-[OKSS](https://web2019.okss.xyz/auth/register?code=XW0G)：免费站点，需要注册，推荐
+[OKSS](https://web2019.okss.xyz/auth/register?code=code)：免费站点，需要注册，推荐
 
 [SSRAY](https://ssray.club/) ：
 
