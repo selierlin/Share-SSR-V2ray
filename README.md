@@ -1,5 +1,7 @@
 [TOC]
 
+本文档仅提供紧急使用方式，并非常期使用的好方法。
+
 ### SS-SSR-V2ray 分享
 
 [SS-SSR-V2ray 分享网站推荐](1-share-ssr-v2ray.md)
