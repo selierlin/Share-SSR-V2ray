@@ -20,11 +20,11 @@
 
 ---
 
+[免费节点 Incn](https://lncn.org/) ：【每周更新】
+
 [OKSS](https://web2019.okss.xyz/auth/register?code=code)：免费站点，需要注册，推荐，[已更新]
 
 [SSRAY](https://ssray.club/) ：
-
-[免费节点 Incn](https://lncn.org/) ：【每周更新】
 
 [ssrshare.com分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/) ：【F】【V】【每天更新】
 
