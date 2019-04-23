@@ -20,6 +20,8 @@
 
 ---
 
+[球加速](https://qiujiasu.net/?iv=1242) ：免费站点，带有7个不同节点，每个月重置流量，推荐
+
 [免费节点 Incn](https://lncn.org/) ：【每周更新】
 
 [OKSS](https://web2019.okss.xyz/auth/register?code=code)：免费站点，需要注册，推荐，[已更新]
