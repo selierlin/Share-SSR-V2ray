@@ -20,7 +20,11 @@
 
 ---
 
-[球加速](https://qiujiasu.net/?iv=1242) ：免费站点，带有7个不同节点，每个月重置流量，推荐
+[球加速](https://qiujiasu.net/?iv=1242) ：免费共享站点，带有7个不同节点，每个月重置流量，推荐
+
+[Free-SS-SSR](https://github.com/dxxzst/Free-SS-SSR)：免费，长期更新
+
+[Github/gfw-breaker](https://github.com/gfw-breaker/ssr-accounts)： 【不定期更新】
 
 [免费节点 Incn](https://lncn.org/) ：【每周更新】
 
@@ -34,11 +38,7 @@
 
 [翻墙党论坛](https://fanqiangdang.com/)： 【F】【V】【不定期更新】 【可能会凉】
 
-[Github/gfw-breaker](https://github.com/gfw-breaker/ssr-accounts)： 【不定期更新】
-
 [iShadow](https://us.ishadowx.net/)：【F】【6小时更换】【软件教程】
-
-[思山无线论坛](http://www.right.com.cn/forum/forum-159-1.html)
 
 [SSR爬取账号](http://ss.pythonic.life/) ：【可以使用SSR订阅】
 
@@ -49,9 +49,9 @@
 
 ### 免费上网账号
 
-1. [A](https://free-ss.site/)  ：【F】【V】通过发送邮件获取镜像网址 ss@rohankdd.com 
+1. [A](https://free-ss.site/)  ：【F】【V】可以通过发送邮件获取镜像网址 ss@rohankdd.com 
 
-2. [B](https://free-ss.tw)  ：【V】【镜像】
+2. [B](https://free-ss.ooo/)  ：【V】【镜像】
 
 [ssray免费分享](https://ssray.club/) ：【V】
 
