@@ -4,6 +4,11 @@
 
 通过本文档您可以解决临时上网问题，但是这并不是长期使用的最好方法，当你成功上网后，请另寻更加稳定的方法
 
+### 直连网站
+
+[zjcqoo](https://zjcqoo.github.io/) ：直接打开即可使用【推荐】
+
+
 ### SS-SSR-V2ray 分享
 
 [SS-SSR-V2ray 分享网站推荐](1-share-ssr-v2ray.md)
