@@ -78,6 +78,8 @@
 
 ### 附免费节点：
 
+> 以下节点皆为 球加速 中我自己的节点共享出来的，如果有需要可以自行注册获取。
+
 ssr://eGpwYS5xaXVqaWFzdS5jb206NDA1MTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46TjBVNGJsRjJXbmRGUWxCeS8_cmVtYXJrcz01cGF3NVlxZzVaMmhRUT09Jmdyb3VwPTU1Q0Q1WXFnNllDZg==
 
 ssr://eGpwYi5xaXVqaWFzdS5jb206NDA1MTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46TjBVNGJsRjJXbmRGUWxCeS8_cmVtYXJrcz01cGF3NVlxZzVaMmhRZz09Jmdyb3VwPTU1Q0Q1WXFnNllDZg==
