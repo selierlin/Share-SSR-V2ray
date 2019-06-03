@@ -13,7 +13,13 @@
 
 [SS-SSR-V2ray 分享网站推荐](1-share-ssr-v2ray.md)
 
+### 镜像网站【推荐】
 
+> 可临时访问谷歌，且不需要使用任何工具
+
+[http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)
+
+[https://booklook.ga/](https://booklook.ga/)
 
 ### 使用教程
 
