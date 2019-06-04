@@ -1,12 +1,22 @@
-[@TOC]
+@TOC
 
 本文档只保证可科学上网，并不保证稳定、速度。如果有需要请付费购买！
 
 通过本文档您可以解决科学上网问题，但是这并不意味着是长期使用的方法，当你成功上网后，请另寻更加稳定的方法
 
+## 上网方式
+
 ### 直连网站
 
 [zjcqoo](https://zjcqoo.github.io/) ：直接打开即可使用【推荐】
+
+### 谷歌插件
+
+[谷歌访问助手](http://www.ggfwzs.com/)
+
+[Google Helper](http://googlehelper.net/)
+
+[谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka/)
 
 
 ### SS-SSR-V2ray 分享
@@ -21,7 +31,7 @@
 
 [https://booklook.ga/](https://booklook.ga/)
 
-### 使用教程
+## 使用教程
 
 #### Shadowsocks 使用教程
 
