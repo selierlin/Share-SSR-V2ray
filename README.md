@@ -8,7 +8,9 @@
 
 ### 直连网站
 
-[zjcqoo](https://zjcqoo.github.io/) ：直接打开即可使用【推荐】
+> 直接打开即可使用
+
+[zjcqoo](https://zjcqoo.github.io/) ：【推荐】
 
 ### 谷歌插件
 
