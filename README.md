@@ -12,7 +12,21 @@
 
 [zjcqoo](https://zjcqoo.github.io/) ：【推荐】
 
-### 谷歌插件
+
+### 镜像网站【推荐】
+
+> 可临时访问谷歌，且不需要使用任何工具
+
+[https://g.bd6mm.cn/](https://g.bd6mm.cn/)
+
+[http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)
+
+[https://booklook.ga/](https://booklook.ga/)
+
+
+### 浏览器插件
+
+> 建议使用Chrome安装插件
 
 [谷歌访问助手](http://www.ggfwzs.com/)
 
@@ -25,13 +39,6 @@
 
 [SS-SSR-V2ray 分享网站推荐](1-share-ssr-v2ray.md)
 
-### 镜像网站【推荐】
-
-> 可临时访问谷歌，且不需要使用任何工具
-
-[http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)
-
-[https://booklook.ga/](https://booklook.ga/)
 
 ## 使用教程
 
