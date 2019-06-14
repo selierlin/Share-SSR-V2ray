@@ -12,14 +12,14 @@
 
 > 直接打开即可使用
 
-[zjcqoo](https://zjcqoo.github.io/) ：【推荐】
+[zjcqoo](https://zjcqoo.github.io/) 
 
 
-### 镜像网站【推荐】
+### 镜像网站
 
 > 可临时访问谷歌，且不需要使用任何工具
 
-[https://g.bd6mm.cn/](https://g.bd6mm.cn/)
+[https://g.bd6mm.cn/](https://g.bd6mm.cn/)：【推荐】
 
 [http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)
 
