@@ -10,16 +10,22 @@
 
 ### 直连网站
 
-> 直接打开即可使用
+> 打开即可使用，优点可以访问所有的站点
 
-[zjcqoo](https://zjcqoo.github.io/) 
+[jsproxy](https://jsproxy.ga/)：【推荐】
 
 
 ### 镜像网站
 
-> 可临时访问谷歌，且不需要使用任何工具
+> 临时访问谷歌，且不需要使用任何工具，缺点无法访问非谷歌站点
 
 [https://g.bd6mm.cn/](https://g.bd6mm.cn/)：【推荐】
+
+[http://proxy.yunpanx.com/](http://proxy.yunpanx.com/)
+
+[https://s.niaoer.org/](https://s.niaoer.org/)
+
+[https://google.cjlu.ren/](https://google.cjlu.ren/)
 
 [http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)
 
