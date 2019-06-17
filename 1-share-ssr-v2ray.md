@@ -19,7 +19,8 @@
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [球加速](https://qiujiasu.net/?iv=1242)                      | 无       | ❌        | ✅        | 推荐         |
 | [OKSS](https://web2019.okss.xyz/auth/register?code=code)     | 无       | ❌        | ✅        | 推荐         |
-| [Free-SS-SSR](https://github.com/dxxzst/Free-SS-SSR)         | 天       | ✅        | ✅        | 推荐         |
+| [Free-SS](https://www.youneed.win/free-ss)         | 天       | ✅        | ✅        | 推荐         |
+| [Free-SSR](https://www.youneed.win/free-ssr)         | 天       | ✅        | ✅        | 推荐         |
 | [免费节点 Incn](https://lncn.org/)                           | 周       | ✅        | ❌        | 推荐         |
 | [Github/gfw-breaker](https://github.com/gfw-breaker/ssr-accounts) | 周       | ✅        | ✅        |              |
 | [ssrshare.com分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/) | 天       | ✅        | ❌        |              |
