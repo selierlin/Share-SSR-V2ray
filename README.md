@@ -9,14 +9,14 @@
 
 ## 上网方式
 
-### 直连网站
+### 1. 直连网站
 
 > 打开即可使用，优点可以访问所有的站点
 
 [jsproxy](https://jsproxy.ga/)：【推荐】
 
 
-### 镜像网站
+### 2. 镜像网站
 
 > 临时访问谷歌，且不需要使用任何工具，缺点无法访问非谷歌站点
 
@@ -33,7 +33,7 @@
 [https://booklook.ga/](https://booklook.ga/)
 
 
-### 浏览器插件
+### 3. 浏览器插件
 
 > 建议使用Chrome安装插件
 
@@ -44,7 +44,7 @@
 [谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka/)
 
 
-### SS-SSR-V2ray 分享
+### 4. SS-SSR-V2ray
 
 [SS-SSR-V2ray 分享网站推荐](1-share-ssr-v2ray.md)
 
