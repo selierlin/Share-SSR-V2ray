@@ -1,10 +1,11 @@
-@TOC
-
 本文档只保证可科学上网，并不保证稳定、速度。如果有需要请付费购买！
 
 通过本文档您可以解决科学上网问题，但是这并不意味着是长期使用的方法，当你成功上网后，请另寻更加稳定的方法
 
 如果有什么需求或问题、建议，欢迎提出，也可以发送邮件：[aselierlin@gmail.com](Mailto://aselierlin@gmail.com)
+
+若本项目对您有所帮助，[欢迎Star](https://github.com/selierlin/Share-SSR-V2ray)
+
 
 ## 上网方式
 
