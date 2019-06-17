@@ -15,11 +15,11 @@
 
 * 首先前往[插件商店页面](https://addons.mozilla.org/en-US/firefox/addon/switchyomega/)安装 "Proxy SwitchyOmega" 扩展。
 
-![安装foxyproxy](files/images/bro-firefoxinstall.png)
+![安装foxyproxy](../files/images/bro-firefoxinstall.png)
 
 * 安装后重启 Firefox > 单击右侧 “打开菜单”图标 >  “附加组件” >  找到 "Proxy SwitchyOmega"  > 点击 ”选项“ 进行配置。
 
-![附加组件](files/images/bro-firefoxAddon.png)
+![附加组件](../files/images/bro-firefoxAddon.png)
 
 ## 扩展的配置
 
@@ -48,7 +48,7 @@
 
 > 本站提供的配置使用了 "GFWList", 可以使大部分无法直接访问的网站默认使用代理，推荐日常使用， 在下文中会包含 "自定义配置规则"。
 
- ![从备份文件中恢复](files/images/bro-switchyomega.png)
+ ![从备份文件中恢复](../files/images/bro-switchyomega.png)
 
 ## 自定义规则
 
@@ -60,4 +60,4 @@
 
 >* 情景模式： 选 "Shadowsocks" 则经过代理， 选 “直接连接” 则不经过代理。
 
-![自定义规则](files/images/bro-swocustomize.png)
+![自定义规则](../files/images/bro-swocustomize.png)

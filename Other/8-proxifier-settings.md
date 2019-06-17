@@ -34,21 +34,21 @@ sudo nvram boot-args="kext-dev-mode=1"
 
 在其中填寫 `socks5` 的代理地址 `127.0.0.1:1080` 請確保與圖中一致
 
-![img](files\images\565c75c39e2fa.jpg)
-![img](files\images\565c78968c9e6.jpg)
+![img](../files/images/565c75c39e2fa.jpg)
+![img](../files/images/565c78968c9e6.jpg)
 
 接下來填寫代理規則
 
-![1549870860276](files\images\1549870860276.png)
+![1549870860276](../files/images/1549870860276.png)
 
 中最重要的就是請將 Shadowsocks 客戶端設置為全局模式
 
 如圖，點擊*+* 添加 APP，再在 `Action` 中選擇 `Direct`
 
-![1549870908639](files\images\1549870908639.png)
+![1549870908639](../files/images/1549870908639.png)
 
 此時就可以添加其他 APP 了，比如讓 Steam 和 CS:GO 走 Shadowsocks 以降低延遲，那麼如圖：
 
-![1549870973407](files\images\1549870973407.png)
+![1549870973407](../files/images/1549870973407.png)
 
 確保選擇的是走 `socks5` 就可以了
