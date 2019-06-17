@@ -17,33 +17,21 @@
 
 | 名称                                                         | 更新频率 | 无须注册 | 无须翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [球加速](https://qiujiasu.net/?iv=1242)                      | 无       | ❌        | ✅        | 推荐         |
-| [OKSS](https://web2019.okss.xyz/auth/register?code=code)     | 无       | ❌        | ✅        | 推荐         |
+| [Free Node](http://cacss.me/)                             | 5天      | ✅        | ✅        | 推荐                      |
+| [free-ss](https://free-ss.ooo/)                           | 时       | ✅        | ✅        | 发送邮件获取最新网址 ss@rohankdd.com |
 | [Free-SS](https://www.youneed.win/free-ss)         | 天       | ✅        | ✅        | 推荐         |
 | [Free-SSR](https://www.youneed.win/free-ssr)         | 天       | ✅        | ✅        | 推荐         |
-| [免费节点 Incn](https://lncn.org/)                           | 周       | ✅        | ❌        | 推荐         |
+| [FreeV2ray](https://connect.freev2ray.org/)               | 天       | ✅        | ✅        | 推荐                |
+| [球加速](https://qiujiasu.net/?iv=1242)                      | 无       | ❌        | ✅        |          |
+| [OKSS](https://web2019.okss.xyz/auth/register?code=code)     | 无       | ❌        | ✅        |          |
+| [免费节点 Incn](https://lncn.org/)                           | 周       | ✅        | ❌        |            |
 | [Github/gfw-breaker](https://github.com/gfw-breaker/ssr-accounts) | 周       | ✅        | ✅        |              |
 | [ssrshare.com分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/) | 天       | ✅        | ❌        |              |
 | [ssrshare.com分享网站](https://www.ssrtool.com/tool/free_ssr) | 天       | ✅        | ❌        |              |
 | [翻墙党论坛](https://fanqiangdang.com/)                      | 天       | ❌        | ❌        |              |
 | [iShadow](https://d.ishadowx.com/)                           | 6小时    | ✅        | ✅        | 节点位于中间 |
 | [SSR爬取账号](http://ss.pythonic.life/)                      | 天       | ✅        | ❌        | 可以自己搭建 |
-| [Fress](https://a.freess.biz/#portfolio-preview)             | 时       | ✅        | ✅        |              |
-| [Fress-Easy](https://do.freess.today/)                       | 时       | ✅        | ✅        |              |
-| [我爱酸酸乳](http://52ss.fun/)                               | 周       | ✅        | ✅        |              |
-
-
-
-### 免费上网账号
-
-| 名称                                                      | 更新频率 | 无须注册 | 无须翻墙 | 备注                                 |
-| --------------------------------------------------------- | -------- | -------- | -------- | ------------------------------------ |
-| [free-ss](https://free-ss.ooo/)                           | 时       | ✅        | ✅        | 发送邮件获取最新网址 ss@rohankdd.com |
-| [Free shadowsocks](https://free1.gyteng.com/)             | 周       | ✅        | ✅        |                                      |
-| [Free Node](http://cacss.me/)                             | 5天      | ✅        | ✅        |                                      |
 | [逗比根据地分享](https://doubibackup.com/95f80__8.html)   | 3天      | ✅        | ❌        |                                      |
-| [免费ss账号](https://free.yitianjianss.com/)              | 未知     | ✅        | ❌        | 包含教程                             |
-| [FreeV2ray](https://connect.freev2ray.org/)               | 天       | ✅        | ✅        |                                      |
 | [GRIGOR'S](https://gdmi.weebly.com/3118523398online.html) | 未知     | ✅        | ✅        | 包含教程                             |
 
 
@@ -55,8 +43,6 @@
 > 直接右击复制链接添加到客户端（SS、SSR、V2ray、SSTap）的服务器订阅更新即可
 
 [WWW_SSRSHARE_COM](https://raw.githubusercontent.com/ImLaoD/sub/master/ssrshare.com) ：部分节点失效，建议使用SSTap添加
-
-[SSRSHARE_COM](https://yzzz.ml/freessr)
 
 ### V2ray订阅
 
