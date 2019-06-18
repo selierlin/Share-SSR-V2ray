@@ -12,14 +12,14 @@
 
 
 - [上网方式](#上网方式)
-	- [1. 直连网站](#1. 直连网站)
-	- [2. 镜像网站](#2. 镜像网站)
-	- [3. SS/SSR/V2ray分享账号](#3. ssssrv2ray分享账号)
-	- [4. 浏览器插件](#4. 浏览器插件)
+	- [1. 直连网站](#1-直连网站)
+	- [2. 镜像网站](#2-镜像网站)
+	- [3. SS/SSR/V2ray分享账号](#3-ssssrv2ray分享账号)
+	- [4. 浏览器插件](#4-浏览器插件)
 - [使用教程](#使用教程)
-	- [Shadowsocks 使用教程](#shadowsocks 使用教程)
-	- [ShadowsockR使用教程](#shadowsockR使用教程)
-	- [V2ray 使用教程](#v2ray 使用教程)
+	- [Shadowsocks 使用教程](#shadowsocks-使用教程)
+	- [ShadowsockR 使用教程](#shadowsockR-使用教程)
+	- [V2ray 使用教程](#v2ray-使用教程)
 	- [其它教程](#其它教程)
 
 
@@ -80,7 +80,7 @@
 
 [Linux](SS/6-linux-setup-guide-cn.md)
 
-### ShadowsockR使用教程
+### ShadowsockR 使用教程
 
 [Windows](SSR/11-windows-setup-guide-cn.md)  
 

@@ -1,7 +1,7 @@
 # 自定义设置 DNS 服务器
 
 - [常用第公共 DNS 提供商](#常用第公共-dns-提供商)
-- [设置方法 - Windows 7/8/10](#Windows 7/8/10)
+- [设置方法 - Windows 7/8/10](#windows-7810)
 - [设置方法 - Windows XP](#windows-xp)
 - [设置方法 - macOS](#macos)
 

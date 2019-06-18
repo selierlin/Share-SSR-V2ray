@@ -4,8 +4,8 @@
 - [系统要求](#系统要求)
 - [Apps 下载](#apps-下载)
 - [Shadowsocks 配置 - Potatso Lite](#shadowsocks-配置---potatso-lite)
-	- [1. 获取SS账号](#1. 获取ss账号)
-	- [2. 添加服务器](#2. 添加服务器)
+	- [1. 获取SS账号](#1-获取ss账号)
+	- [2. 添加服务器](#2-添加服务器)
 - [Shadowsocks 配置 - Shadowrocket](#shadowsocks-配置---shadowrocket)
 
 
