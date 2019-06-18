@@ -18,7 +18,7 @@
 | [free-ss](https://free-ss.ooo/)                           | 时       | ✅        | ✅        | 发送邮件获取最新网址 ss@rohankdd.com |
 | [Free-SS](https://www.youneed.win/free-ss)         | 天       | ✅        | ✅        | 推荐         |
 | [Free Node](http://cacss.me/)                             | 5天      | ✅        | ✅        | 推荐                      |
-| [球加速](https://qiujiasu.net/?iv=1242)                      | 无       | ❌        | ✅        |          |
+| [球加速](https://qiujiasu.net/?iv=1242)                      | 无       | ❌        | ✅        | 推荐         |
 | [iShadow](https://d.ishadowx.com/)                           | 6小时    | ✅        | ❌        | 节点位于中间 |
 
 
