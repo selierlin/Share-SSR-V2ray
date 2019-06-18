@@ -8,6 +8,20 @@
 
 欢迎加入TG群：[Share-SSR-V2ray](https://t.me/Share-SSR-V2ray)
 
+---
+
+
+- [上网方式](#上网方式)
+	- [1. 直连网站](#1. 直连网站)
+	- [2. 镜像网站](#2. 镜像网站)
+	- [3. SS/SSR/V2ray分享账号](#3. ssssrv2ray分享账号)
+	- [4. 浏览器插件](#4. 浏览器插件)
+- [使用教程](#使用教程)
+	- [Shadowsocks 使用教程](#shadowsocks 使用教程)
+	- [ShadowsockR使用教程](#shadowsockR使用教程)
+	- [V2ray 使用教程](#v2ray 使用教程)
+	- [其它教程](#其它教程)
+
 
 ## 上网方式
 
@@ -42,7 +56,7 @@
 
 ### 4. 浏览器插件
 
-> 建议使用Chrome安装插件
+> 建议使用Chrome安装插件，安装方法参考：[Chrome 设置教程#安装扩展](Other/7-2-chrome-setup-guide-cn.md#安装扩展)  
 
 [谷歌访问助手](http://www.ggfwzs.com/)
 
@@ -52,41 +66,37 @@
 
 
 
-
-
 ## 使用教程
 
-#### Shadowsocks 使用教程
+### Shadowsocks 使用教程
 
-[Windows 下安装配置 Shadowsocks 使用教程](SS/2-windows-setup-guide-cn.md)  
+[Windows](SS/2-windows-setup-guide-cn.md)  
 
-[macOS 下安装配置 Shadowsocks 使用教程](SS/3-macos-setup-guide-cn.md)  
+[macOS](SS/3-macos-setup-guide-cn.md)  
 
-[iOS 下安装配置 Shadowsocks 使用教程](SS/4-ios-setup-guide-cn.md)  
+[iOS](SS/4-ios-setup-guide-cn.md)  
 
-[Android 下安装配置 Shadowsocks 使用教程](SS/5-android-setup-guide-cn.md)
+[Android](SS/5-android-setup-guide-cn.md)
 
-[Linux 下安装配置 Shadowsocks 使用教程](SS/6-linux-setup-guide-cn.md)
+[Linux](SS/6-linux-setup-guide-cn.md)
 
-#### ShadowsockR使用教程
+### ShadowsockR使用教程
 
-[Windows 下安装配置 ShadowsocksR 使用教程](SSR/11-windows-setup-guide-cn.md)  
+[Windows](SSR/11-windows-setup-guide-cn.md)  
 
-TODO:
+[macOS](SSR/12-macos-setup-guide-cn.md)  
 
-[macOS 下安装配置 ShadowsocksR 使用教程](SSR/12-macos-setup-guide-cn.md)  
+[iOS](SSR/13-ios-setup-guide-cn.md)  
 
-[iOS 下安装配置 ShadowsocksR 使用教程](SSR/13-ios-setup-guide-cn.md)  
+[Android](SSR/14-android-setup-guide-cn.md)
 
-[Android 下安装配置 ShadowsocksR 使用教程](SSR/14-android-setup-guide-cn.md)
+[Linux](SSR/15-linux-setup-guide-cn.md)
 
-[Linux 下安装配置 ShadowsocksR 使用教程](SSR/15-linux-setup-guide-cn.md)
+### V2ray 使用教程
 
-#### V2ray 使用教程
+TODO
 
-待更新...
-
-#### 其它
+### 其它教程
 
 [Firefox Quantum 设置教程 (Proxy SwitchyOmega)](Other/7-1-firefox-setup-guide-cn.md)
 

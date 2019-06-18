@@ -1,5 +1,17 @@
 # Shadowsocks 设置方法 (Windows)
 
+- [系统要求](#系统要求)
+- [安装 Shadowsocks](#安装-shadowsocks)
+	- [1. 下载客户端](#1-下载客户端)
+	- [2. 解压客户端](#2-解压客户端)
+- [配置 Shadowsocks 账号](#配置-shadowsocks-账号)
+	- [手动添加账号](#手动添加账号)
+	- [二维码方式增加节点](#二维码方式增加节点)
+	- [配置文件添加账号](#配置文件添加账号)
+- [配置系统代理模式](#配置系统代理模式)
+- [注意事项](#注意事项)
+
+
 ## 系统要求
 **在安装之前，请始终确保您的系统满足最低系统要求。**
 
@@ -38,23 +50,15 @@
 
 >  在您的计算机上， 执行下列任一操作
 
-#### 一、使用`gui-config.json`文件添加账号
 
-* 将 `gui-config.json` 拖移到和 `Shadowsocks.exe` 同一个文件目录下。
+#### 手动添加账号
 
-![gui-config.json 拖到和 Shadowsocks.exe 同目录](../files/images/win-together.png)
+从分享节点的网站中依次填入相应信息，确定即可
 
-* 双击 `Shadowsocks.exe` > 右键状态栏 ![ss icon](../files/images/win-icon.png) >  单击 “服务器”  > 即可看到服务器信息已自动填充完成。
-
-![即可看到服务器信息已自动填充完成](../files/images/win-autofill.png)
+![1549868618888](../files/images/1549868618888.png)
 
 
-
-* 右键状态栏![ss icon](../files/images/win-icon.png) > "启用系统代理”。
-
-![右键图标](../files/images/win-enable.png)
-
-#### 二、通过二维码方式单独增加节点
+#### 二维码方式增加节点
 
 **在分享节点的网站中一般都有查看二维码的功能。**
 
@@ -68,17 +72,20 @@
 ![QR](../files/images/win-QR.png)
 
 
+#### 配置文件添加账号
 
-#### 三、手动配置账号
+* 将 `gui-config.json` 拖移到和 `Shadowsocks.exe` 同一个文件目录下。
 
->  如果以上的功能都不存在的话，那么你可以选择此种方式来添加账号
+![gui-config.json 拖到和 Shadowsocks.exe 同目录](../files/images/win-together.png)
 
-从分享节点的网站中依次填入相应信息，确定即可
+* 双击 `Shadowsocks.exe` > 右键状态栏 ![ss icon](../files/images/win-icon.png) >  单击 “服务器”  > 即可看到服务器信息已自动填充完成。
 
-![1549868618888](../files/images/1549868618888.png)
+![即可看到服务器信息已自动填充完成](../files/images/win-
+fill.png)
 
+* 右键状态栏![ss icon](../files/images/win-icon.png) > "启用系统代理”。
 
-
+![右键图标](../files/images/win-enable.png)
 
 
 ## 配置系统代理模式
@@ -97,10 +104,10 @@
 ## 	配置 Firefox 的代理
 
 **如需使用 Firefox 浏览器	通过代理浏览网页，请参考下面链接：**  
-[Firefox上设置代理](7-1-firefox-setup-guide-cn.md)
+[Firefox上设置代理](../Other/7-1-firefox-setup-guide-cn.md)
 
 
 ## 配置 Chrome 的代理
 
 **如需使用 Chrome 浏览器通过代理浏览网页，请参考下面链接：**  
-[Chrome + Proxy SwitchyOmega 设置](7-2-chrome-setup-guide-cn.md)
+[Chrome + Proxy SwitchyOmega 设置](../Other/7-2-chrome-setup-guide-cn.md)

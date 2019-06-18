@@ -1,5 +1,14 @@
 # Shadowsocks 设置方法 (iOS)
 
+
+- [系统要求](#系统要求)
+- [Apps 下载](#apps-下载)
+- [Shadowsocks 配置 - Potatso Lite](#shadowsocks-配置---potatso-lite)
+	- [1. 获取SS账号](#1. 获取ss账号)
+	- [2. 添加服务器](#2. 添加服务器)
+- [Shadowsocks 配置 - Shadowrocket](#shadowsocks-配置---shadowrocket)
+
+
 ## 系统要求
 **在安装之前，请始终确保您的系统满足最低系统要求。**
 
@@ -15,11 +24,13 @@
 * [Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8) （收费）
 * [Potatso 2](https://itunes.apple.com/us/app/potatso-2/id1162704202?mt=8)（收费）
 
-**App Store 上的 App 由其作者进行维护，并非由我们开发，如有疑问，请联系其作者。**
+**App Store 上的 App 由其作者进行维护，如有疑问，请联系其作者。**
+
+下面对Potatso Lite、Shadowrocket做介绍
 
 ## Shadowsocks 配置 - Potatso Lite
 
-#### 登陆SS网站, 执行下列操作：
+#### 1. 获取SS账号
 
 * 单击 “服务” > "我的服务" > 选择 "你可用的产品/服务"。
 * 查看你的节点信息。
@@ -28,19 +39,22 @@
 
 ![查看你的节点信息。](../files/images/int-portal-productdetail.png)
 
-#### Potatso Lite 的设置过程：
+#### 2. 添加服务器
+
+Potatso Lite 的设置过程：
 
 * 从 App Store 安装后打开 Potatso Lite。
 * 点击 "立即使用" > "现在添加"。
 
 ![从App Store安装后打开 Potatso Lite](../files/images/ios-step1.png)
 
+以下两种方法，任选其一
 
-**扫码配置**
+**一、扫码配置**
 
 * 点击 "二维码" > "Potatso Lite 想访问您的相机"的窗口，选择 "好" > 扫描你节点的二维码，节点将自动添加成功。
 
-**手动配置**
+**二、手动配置**
 
 * 点击 "添加" > 填写代理。
 * 选择 "Shadowsocks“ > 填写 "服务器" > 填写 "端口" > 选择 "加密" > 填写 "密码" 。

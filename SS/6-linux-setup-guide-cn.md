@@ -25,16 +25,18 @@
 
 ## 配置 Shadowsocks 账号
 
-#### 登陆SS网站, 执行下列操作：
+#### 获取SS账号
 
 * 单击 “服务” > "我的服务" > 选择 "你可用的产品/服务"。
 * 查看你的节点信息。
 
->  以上操作可能不相同，主要就是从分享节点的网站中获取节点配置信息。
+>  以上操作可能不相同，主要目的就是从分享节点的网站中获取节点配置信息。
 
 ![查看你的节点信息。](../files/images/int-portal-productdetail.png)
 
-#### 在您的电脑上， 执行下列操作：
+下面两种方法，任选其一
+
+#### 手动输入服务器配置
 
 * 双击`Shadowsocks-Qt5-x.x.x-x86_64.AppImage` > "Connection" > "Add" > "Manually"。
 
@@ -48,7 +50,7 @@
 
 ![服务器设置](../files/images/ubuntu-shadowsocksSetting.png)
 
-#### 您也可以通过二维码方式单独增加节点，在您的计算机上， 执行下列操作：
+#### 二维码方式添加服务器
 此二维码同样适用于其他客户端。
 
 * 双击`Shadowsocks-Qt5-x.x.x-x86_64.AppImage` > "Connection" > "Add" > "Scan QR code on Screen" > 当弹出新的 "Profile Editor"后，点击 "OK"。
@@ -114,7 +116,7 @@ Python 版客户端命令是 sslocal ， Shadowsocks-libev 客户端命令为 ss
 ```
 
 
-### 4、终端内使用，需安裝 proxychains
+### 4、终端内使用，需安装 proxychains
 
 Debian / Ubuntu：
 
@@ -158,10 +160,10 @@ kill 相应的 pid 即可
 ## 	配置 Firefox 的代理
 
 **如需使用 Firefox 浏览器	通过代理浏览网页，请参考下面链接：**  
-[Firefox上设置代理](7-1-firefox-setup-guide-cn.md)
+[Firefox上设置代理](../Other/7-1-firefox-setup-guide-cn.md)
 
 
 ## 配置 Chrome 的代理
 
 **如需使用 Chrome 浏览器通过代理浏览网页，请参考下面链接：**  
-[Chrome + Proxy SwitchyOmega 设置](7-2-chrome-setup-guide-cn.md)
+[Chrome + Proxy SwitchyOmega 设置](../Other/7-2-chrome-setup-guide-cn.md)

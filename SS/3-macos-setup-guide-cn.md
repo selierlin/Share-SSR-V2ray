@@ -1,5 +1,17 @@
 # Shadowsocks 设置方法 (macOS)
 
+
+- [系统要求](#系统要求)
+- [安装 ShadowsocksX-NG](#安装-shadowsocksx-ng)
+	- [1. 下载客户端](#1. 下载客户端)
+	- [2. 安装客户端](#2. 安装客户端)
+- [配置 Shadowsocks 账号](#配置-shadowsocks-账号)
+	- [手动添加](#手动添加)
+	- [二维码方式](#二维码方式)
+- [配置系统代理模式](#配置系统代理模式)
+- [注意事项](#注意事项)
+
+
 ## 系统要求
 **在安装之前，请始终确保您的系统满足最低系统要求。**
 
@@ -33,7 +45,7 @@
 
 ## 配置 Shadowsocks 账号
 
-#### 在您的电脑上， 执行下列操作：
+#### 手动添加
 
 * 点击屏幕顶部菜单栏的 ![menu_icon_disabled](../files/images/mac-menu_icon_disabled.png)> "服务器" > "服务器设置"。
 
@@ -46,7 +58,7 @@
 
 ![服务器设置，打开ss](../files/images/mac-shadowsocksSetting.png)
 
-#### 可以通过二维码方式单独增加节点， 在您的电脑上， 执行下列操作：
+#### 二维码方式
 
 此二维码同样适用于其他客户端。
 
@@ -68,10 +80,10 @@
 ## 	配置 Firefox 的代理
 
 **如需使用 Firefox 浏览器	通过代理浏览网页，请参考下面链接：**  
-[Firefox上设置代理](7-1-firefox-setup-guide-cn.md)
+[Firefox上设置代理](../Other/7-1-firefox-setup-guide-cn.md)
 
 
 ## 配置 Chrome 的代理
 
 **如需使用 Chrome 浏览器通过代理浏览网页，请参考下面链接：**  
-[Chrome + Proxy SwitchyOmega 设置](7-2-chrome-setup-guide-cn.md)
+[Chrome + Proxy SwitchyOmega 设置](../Other/7-2-chrome-setup-guide-cn.md)
