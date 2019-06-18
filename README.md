@@ -33,7 +33,12 @@
 [https://booklook.ga/](https://booklook.ga/)
 
 
-### 3. 浏览器插件
+### 3. SS/SSR/V2ray分享账号
+
+[SS-SSR-V2ray 分享账号](1-share-ssr-v2ray.md)
+
+
+### 4. 浏览器插件
 
 > 建议使用Chrome安装插件
 
@@ -44,9 +49,7 @@
 [谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka/)
 
 
-### 4. SS-SSR-V2ray
 
-[SS-SSR-V2ray 分享网站推荐](1-share-ssr-v2ray.md)
 
 
 ## 使用教程
