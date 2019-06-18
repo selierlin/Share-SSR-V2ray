@@ -6,6 +6,8 @@
 
 若本项目对您有所帮助，[欢迎Star](https://github.com/selierlin/Share-SSR-V2ray)
 
+欢迎加入TG群：[Share-SSR-V2ray](https://t.me/Share-SSR-V2ray)
+
 
 ## 上网方式
 
