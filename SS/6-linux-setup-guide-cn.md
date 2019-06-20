@@ -19,9 +19,25 @@
 
 #### 2. 安装客户端
 
-右键单击 "Shadowsocks-Qt5-x.x.x-x86_64.AppImage"  > 选择 "Properties" > 单击 "Permissions" > 在"Allow excuting file as program" 上打勾。
+1. **右键**单击 "Shadowsocks-Qt5-x.x.x-x86_64.AppImage"  > 选择 "Properties" > 单击 "Permissions" > 在"Allow excuting file as program" 上打勾。
+2. 双击即可运行
 
 ![下载客户端](../files/images/ubuntu-permission.png)
+
+对于32位的系统可能无法运行，所以需要按下面的步骤来安装客户端
+
+1. 打开终端（搜索 Terminal 或者按 `Ctrl+Alt+T` 键）
+2. 执行以下命令
+
+```shell
+sudo add-apt-repository ppa:hzwhuang/ss-qt5
+sudo apt-get update
+sudo apt-get install shadowsocks-qt5
+```
+
+3. 如果安装成功之后，按`win键`搜索应该能够找到软件，如下图所示：
+
+![1561006456277](../files/images/1561006456277.png)
 
 ## 配置 Shadowsocks 账号
 
