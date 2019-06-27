@@ -36,17 +36,9 @@
 
 > 临时访问谷歌，且不需要使用任何工具，缺点无法访问非谷歌站点
 
-[https://g.bd6mm.cn/](https://g.bd6mm.cn/)：【推荐】
-
-[http://proxy.yunpanx.com/](http://proxy.yunpanx.com/)
-
-[https://s.niaoer.org/](https://s.niaoer.org/)
-
-[https://google.cjlu.ren/](https://google.cjlu.ren/)
+[http://proxy.yunpanx.com/](http://proxy.yunpanx.com/)：【推荐】
 
 [http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)
-
-[https://booklook.ga/](https://booklook.ga/)
 
 
 ### 3. SS/SSR/V2ray分享账号
