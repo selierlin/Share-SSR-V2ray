@@ -24,7 +24,7 @@
 
 | 名称                                                         | 更新频率 | 无须注册 | 无须翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [fqfq](https://web.fqfq.xyz/#/auth/register?code=vr0S)     | 无       | ❌        | ✅        | 推荐         |
+| [fqfq](https://www.fqfq.xyz/auth/register?code=code)     | 无       | ❌        | ✅        | 推荐         |
 | [球加速](https://qiujiasu.net/?iv=1242)                      | 无       | ❌        | ✅        | 推荐         |
 
 
