@@ -8,6 +8,8 @@
 
 欢迎加入TG群：[Share-SSR-V2ray](https://t.me/Share-SSR-V2ray)
 
+为了更好的体验，请使用标有推荐的方法
+
 ---
 
 
