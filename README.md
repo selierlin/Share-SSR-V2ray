@@ -31,7 +31,7 @@
 
 > 打开即可使用，优点可以访问所有的站点
 
-[jsproxy](https://jsproxy.ga/)：【推荐】
+[jsproxy](https://jsproxy.cf/)：【推荐】
 
 
 ### 2. 镜像网站
