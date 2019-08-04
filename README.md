@@ -31,16 +31,14 @@
 
 > 打开即可使用，优点可以访问所有的站点
 
-[jsproxy](https://jsproxy.cf/)：【推荐】
+[jsproxy](https://jsproxy.cf/)
 
 
 ### 2. 镜像网站
 
 > 临时访问谷歌，且不需要使用任何工具，缺点无法访问非谷歌站点
 
-[http://proxy.yunpanx.com/](http://proxy.yunpanx.com/)：【推荐】
-
-[http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)
+[http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)：【推荐】
 
 
 ### 3. SS/SSR/V2ray分享账号
