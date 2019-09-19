@@ -6,10 +6,6 @@
 
 若本项目对您有所帮助，[欢迎Star](https://github.com/selierlin/Share-SSR-V2ray)
 
-欢迎加入TG群：[Share-SSR-V2ray](https://t.me/Share-SSR-V2ray)
-
-为了更好的体验，请使用标有推荐的方法
-
 ---
 
 
