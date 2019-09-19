@@ -39,7 +39,7 @@
 > 临时访问谷歌，且不需要使用任何工具，缺点无法访问非谷歌站点
 
 [http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)：【推荐】
-
+[http://ac.scmor.com/](http://ac.scmor.com/)
 
 ### 3. SS/SSR/V2ray分享账号
 
