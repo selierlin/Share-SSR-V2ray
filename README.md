@@ -53,7 +53,12 @@
 
 [谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka/)
 
-
+无法访问的可以点击这里，[下载地址](https://www.lanzous.com/b1008660) 
+安装方法：
+1. 下载里面的 *谷歌访问助手2.3.0.zip* ，并解压
+2. 浏览器打开扩展程序，勾选 **开发者模式**
+3. 点击 **加载已解压的扩展程序** ，选择刚刚解压好的 **目录**
+4. 完成插件安装，即可使用
 
 ## 使用教程
 
