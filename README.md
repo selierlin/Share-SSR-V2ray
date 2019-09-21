@@ -47,13 +47,14 @@
 
 > 建议使用Chrome安装插件，安装方法参考：[Chrome 设置教程#安装扩展](Other/7-2-chrome-setup-guide-cn.md#安装扩展)  
 
-[谷歌访问助手](http://www.ggfwzs.com/)
+[谷歌访问助手](http://www.ggfwzs.com/) 【推荐】
 
 [Google Helper](http://googlehelper.net/)
 
 [谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka/)
 
-无法访问的可以点击这里，[下载地址](https://www.lanzous.com/b1008660) 
+无法访问的可以点击这里，[下载地址](https://www.lanzous.com/b1008660)  密码: *6j5h*
+
 安装方法：
 1. 下载里面的 *谷歌访问助手2.3.0.zip* ，并解压
 2. 浏览器打开扩展程序，勾选 **开发者模式**
