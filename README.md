@@ -59,27 +59,11 @@
 
 ### Shadowsocks 使用教程
 
-[Windows](SS/2-windows-setup-guide-cn.md)  
-
-[macOS](SS/3-macos-setup-guide-cn.md)  
-
-[iOS](SS/4-ios-setup-guide-cn.md)  
-
-[Android](SS/5-android-setup-guide-cn.md)
-
-[Linux](SS/6-linux-setup-guide-cn.md)
+[Windows](SS/2-windows-setup-guide-cn.md)  |  [macOS](SS/3-macos-setup-guide-cn.md)  |  [iOS](SS/4-ios-setup-guide-cn.md)  |  [Android](SS/5-android-setup-guide-cn.md)  |  [Linux](SS/6-linux-setup-guide-cn.md)
 
 ### ShadowsockR 使用教程
 
-[Windows](SSR/11-windows-setup-guide-cn.md)  
-
-[macOS](SSR/12-macos-setup-guide-cn.md)  
-
-[iOS](SSR/13-ios-setup-guide-cn.md)  
-
-[Android](SSR/14-android-setup-guide-cn.md)
-
-[Linux](SSR/15-linux-setup-guide-cn.md)
+[Windows](SSR/11-windows-setup-guide-cn.md)  |  [macOS](SSR/12-macos-setup-guide-cn.md)  |  [iOS](SSR/13-ios-setup-guide-cn.md)  |  [Android](SSR/14-android-setup-guide-cn.md)  |  [Linux](SSR/15-linux-setup-guide-cn.md)
 
 ### V2ray 使用教程
 
