@@ -45,7 +45,7 @@
 
 ### 4. 浏览器插件
 
-> 建议使用Chrome安装插件，安装方法参考：[Chrome 设置教程#安装扩展](Other/7-2-chrome-setup-guide-cn.md#安装扩展)  
+> 建议使用Chrome浏览器安装插件
 
 [谷歌访问助手](http://www.ggfwzs.com/) 【推荐】
 
