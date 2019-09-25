@@ -6,6 +6,8 @@
 
 若本项目对您有所帮助，[欢迎Star](https://github.com/selierlin/Share-SSR-V2ray)
 
+临时存储网盘：[蓝奏云](https://www.lanzous.com/b1008660)  密码: *6j5h*
+
 ---
 
 
