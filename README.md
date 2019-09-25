@@ -2,10 +2,6 @@
 
 通过本文档您可以解决科学上网问题，但是这并不意味着是长期使用的方法，当你成功上网后，请另寻更加稳定的方法
 
-如果有什么需求或问题、建议，欢迎提出，也可以发送邮件：[aselierlin@gmail.com](Mailto://aselierlin@gmail.com)
-
-若本项目对您有所帮助，[欢迎Star](https://github.com/selierlin/Share-SSR-V2ray)
-
 临时存储网盘：[蓝奏云](https://www.lanzous.com/b1008660)  密码: *6j5h*
 
 ---
@@ -53,19 +49,17 @@
 
 > 建议使用Chrome浏览器安装插件
 
+[集装箱](https://chrome.google.com/webstore/detail/%E9%9B%86%E8%A3%85%E7%AE%B1/kbgigmcnifmaklccibmlepmahpfdhjch) 【推荐】
+
+[谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka/)【推荐】
+
 [谷歌访问助手](http://www.ggfwzs.com/) 【推荐】
 
 [Google Helper](http://googlehelper.net/)
 
-[谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka/)
-
 无法访问的可以点击这里，[下载地址](https://www.lanzous.com/b1008660)  密码: *6j5h*
 
-安装方法：
-1. 下载里面的 *谷歌访问助手2.3.0.zip* ，并解压
-2. 浏览器打开扩展程序，勾选 **开发者模式**
-3. 点击 **加载已解压的扩展程序** ，选择刚刚解压好的 **目录**
-4. 完成插件安装，即可使用
+安装方法：[百度经验](https://jingyan.baidu.com/article/a681b0de7ddd313b19434661.html)
 
 ---
 
@@ -93,3 +87,7 @@ TODO
 
 [设置自定义 DNS 服务器](Other/9-dns-setup-guide-cn.md)
 
+
+如果有什么需求或问题、建议，欢迎提出，也可以发送邮件：[aselierlin@gmail.com](Mailto://aselierlin@gmail.com)
+
+若本项目对您有所帮助，[欢迎Star](https://github.com/selierlin/Share-SSR-V2ray)
