@@ -39,12 +39,6 @@
 | [iShadow](https://d.ishadowx.com/)                           | 6小时    | ✅        | ❌        | 节点位于中间 |
 
 
-分享账号：
-
-ss://bm9uZTpzdXBlcnNzci5tZUBzMTM3Lndld2FsbC50b3A6NDQz
-
-ss://bm9uZTpzdXBlcnNzci5tZUBzNTcud2V3YWxsLnRvcDo0NDM=
-
 
 ### SSR 分享
 
@@ -63,10 +57,7 @@ ss://bm9uZTpzdXBlcnNzci5tZUBzNTcud2V3YWxsLnRvcDo0NDM=
 
 分享账号：
 
-ssr://czEzNy53ZXdhbGwudG9wOjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6YzNWd1pYSnpjM0l1YldVLz9vYmZzcGFyYW09TURFM1ptTTJOek14TUM1bFpIVXVZMjQmcHJvdG9wYXJhbT1OamN6TVRBNmNYZGxZV1poZDJWbWQyVSZyZW1hcmtzPVUwY2d3cmZDdDNZemVEQXVNU014TXpjJmdyb3VwPVpuRm1jV1p4TG5oNWVnJnVkcHBvcnQ9NzIwOTA2JnVvdD0xNjU1MjgyNA
-
-ssr://czU3Lndld2FsbC50b3A6NDQzOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aWNrZXRfYXV0aDpjM1Z3WlhKemMzSXViV1UvP29iZnNwYXJhbT1NREUzWm1NMk56TXhNQzVsWkhVdVkyNCZwcm90b3BhcmFtPU5qY3pNVEE2Y1hkbFlXWmhkMlZtZDJVJnJlbWFya3M9VTBmQ3Q4SzNkak40TVNNMU53Jmdyb3VwPVpuRm1jV1p4TG5oNWVnJnVkcHBvcnQ9NjU1Mzc0JnVvdD0xNjU1MjgyNA
-
+ssr://czE4NS53ZXdhbGwudG9wOjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6YzNWd1pYSnpjM0l1YldVLz9vYmZzcGFyYW09TURFM1ptTTJOek14TUM1bFpIVXVZMjQmcHJvdG9wYXJhbT1OamN6TVRBNmNYZGxZV1poZDJWbWQyVSZyZW1hcmtzPVNFdkN0OEszd3JkMk5YZ3lMamtqTVRnMSZncm91cD01WS12NTVTbw
 
 ### V2ray 分享
 
