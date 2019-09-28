@@ -44,7 +44,7 @@
 
 > 临时访问谷歌，且不需要使用任何工具，缺点无法访问非谷歌站点
 
-[zmirror](https://g.zmirrordemo.com)：【推荐】打开网站时需要埴写来源信息，可以填写“github” 
+[zmirror](https://g.zmirrordemo.com)：【推荐】打开网站时需要填写来源信息，可以填写“github” 
 
 [谷歌镜像1](http://s.isway.cn/)
 
