@@ -24,7 +24,7 @@
 
 | 名称                                                         | 更新频率 | 无须注册 | 无须翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [球速度](http://qiusudu.com/auth/register?code=6VGm)         | 无       | ❌        | ✅        | 新机场，速度快         |
+| [球速度](http://qiusudu.com/auth/register?code=dQcJ)         | 无       | ❌        | ✅        | 新机场，速度快         |
 | [fqfq](https://www.fqfq.xyz/auth/register?code=code)     | 无       | ❌        | ✅        | 推荐         |
 
 ---
@@ -37,15 +37,6 @@
 | [Free-SS](https://www.youneed.win/free-ss)         | 天       | ✅        | ✅        | 推荐         |
 | [Free Node](http://cacss.me/)                             | 5天      | ✅        | ✅        | 推荐                      |
 | [iShadow](https://d.ishadowx.com/)                           | 6小时    | ✅        | ❌        | 节点位于中间 |
-
-分享账号：
-
-ss://YWVzLTI1Ni1jZmI6M2w1Z0tzRUJtbElNQDUyLjE5NC4yNTUuNDQ6NDI4OTg=
-ss://YWVzLTI1Ni1jZmI6RGdSelA4Z3ZranV0QDUyLjE5Ny4xODIuMjU1OjM2Mjcw
-ss://YWVzLTI1Ni1jZmI6VWlvVnQyT2xMUVJoQDMuMTEyLjE5OS4yMjE6NDM2MTU=
-ss://YWVzLTI1Ni1jZmI6RExNTHo1YWVNbnc5QDMuMTEyLjIwMS4xNjk6NDI4Mzg=
-ss://YWVzLTI1Ni1jZmI6bTBORWlLakhTaXZjQDEzOS4xNjIuMjAyLjI0MzozODU2Ng==
-ss://YWVzLTI1Ni1jZmI6ckxhdFhsajhGT0Z0QDE3Ni41OC4xMDIuMTQwOjE1MTcz
 
 ---
 
