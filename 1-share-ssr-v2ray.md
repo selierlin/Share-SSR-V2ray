@@ -69,18 +69,6 @@ BD24970C6AB9
 | [逗比根据地分享](https://doubibackup.com/95f80__8.html)   | 3天      | ✅        | ❌        |                                      |
 | [GRIGOR'S](https://gdmi.weebly.com/3118523398online.html) | 未知     | ✅        | ✅        | 包含教程                             |
 
-分享账号：
-
-ssr://NTIuMTk0LjI1NS40NDo0Mjg5ODpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46TTJ3MVowdHpSVUp0YkVsTi8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTU3LTc1YUtaNVlXYU9URXVORERtbDZYbW5Ldz0mZ3JvdXA9NXBlbDVweXM=
-
-ssr://My4xMTIuMTk5LjIyMTo0MzYxNTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46VldsdlZuUXlUMnhNVVZKby8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTU3LTc1YUtaNVlXYU9UY3VPRGJudm83bG03MD0mZ3JvdXA9NTc2TzVadTk=
-
-ssr://My4xMTIuMjAxLjE2OTo0MjgzODpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46UkV4TlRIbzFZV1ZOYm5jNS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTU3LTc1YUtaNVlXYU9UWXVORGZudm83bG03MD0mZ3JvdXA9NTc2TzVadTk=
-
-ssr://MTM5LjE2Mi4yMDIuMjQzOjM4NTY2Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpiVEJPUldsTGFraFRhWFpqLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NTctNzVhS1o1WVdhTXpjM0xqVTM2SXV4NVp1OSZncm91cD02SXV4NVp1OQ==
-
-ssr://MTc2LjU4LjEwMi4xNDA6MTUxNzM6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmNreGhkRmhzYWpoR1QwWjAvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01Ny03NWFLWjVZV2FNek16TGpVMDZJdXg1WnU5Jmdyb3VwPTZJdXg1WnU5
-
 ---
 
 ### V2ray 分享
@@ -88,10 +76,6 @@ ssr://MTc2LjU4LjEwMi4xNDA6MTUxNzM6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmNreGhkRmhzYW
 | 名称                                                         | 更新频率 | 无须注册 | 无须翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [FreeV2ray](https://connect.freev2ray.org/)               | 天       | ✅        | ✅        | 推荐                |
-
-账号分享：
-
-vmess://eyJhZGQiOiJmci5zaXh1LmNmIiwiYWlkIjoiMjMzIiwiaG9zdCI6ImZyLnNpeHUuY2YiLCJpZCI6IjdkZDQ2ZGIzLTkzMTAtNDE4OC1iZmYyLWRiNWY0OTZkNmJmYiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo0NDMsInBzIjoiU1NSVE9PTC5DT00iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 ---
 
