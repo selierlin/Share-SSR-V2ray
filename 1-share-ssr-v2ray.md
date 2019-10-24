@@ -24,7 +24,8 @@
 
 | 名称                                                         | 更新频率 | 无须注册 | 无须翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [蚂蚁加速器](https://ant.antss029.com/aff/ACVB)         | 无       | ❌        | ❌        | 使用**多开分身**可刷邀请         |
+| [极速](https://www.jisu365.vip/auth/register?code=VYTS)         | 无       | ❌        | ✅        | 新机场白嫖，免费使用         |
+| [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ❌        | 使用**多开分身**可刷邀请         |
 | [球速度](http://qiujasu.com/auth/register?code=GEh8)         | 无       | ❌        | ✅        | 新机场，速度快         |
 | [fqfq](https://www.fqfq.xyz/auth/register?code=code)     | 无       | ❌        | ✅        | 推荐         |
 
