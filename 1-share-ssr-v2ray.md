@@ -24,10 +24,23 @@
 
 | 名称                                                         | 更新频率 | 无须注册 | 无须翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
+| [好好学习](https://edu.upday.xyz/register?aff=73688)         | 无       | ❌        | ✅        | 可能好用，需要邀请注册。下面是邀请码         |
 | [极速](https://www.jisu365.vip/auth/register?code=VYTS)         | 无       | ❌        | ✅        | 新机场白嫖，免费使用         |
 | [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ❌        | 使用**多开分身**可刷邀请         |
 | [球速度](http://qiujasu.com/auth/register?code=GEh8)         | 无       | ❌        | ✅        | 新机场，速度快         |
 | [fqfq](https://www.fqfq.xyz/auth/register?code=code)     | 无       | ❌        | ✅        | 推荐         |
+
+好好学习邀请码：
+59AE61A36353
+DF384F5B14C5
+FAE3F881DE97
+29B990D11093
+B233F62BEC97
+C7B49629014E
+28F53F32D1B4
+BD24970C6AB9
+004F5C4D0C49
+
 
 ---
 
