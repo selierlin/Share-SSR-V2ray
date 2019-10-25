@@ -25,15 +25,13 @@
 | 名称                                                         | 更新频率 | 无须注册 | 无须翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [飞鱼](https://yuyu.cool/register?aff=3026)         | 无       | ❌        | ✅        | 速度稳定         |
-| [好好学习](https://edu.upday.xyz/register?aff=73688)         | 无       | ❌        | ✅        | 可能好用，需要邀请注册。下面是邀请码         |
+| [好好学习](https://edu.upday.xyz/register?aff=73688)         | 无       | ❌        | ✅        | 需要邀请注册，下面是邀请码。建议通过v2ray使用         |
 | [极速](https://www.jisu365.vip/auth/register?code=VYTS)         | 无       | ❌        | ✅        | 新机场白嫖，免费使用         |
 | [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ❌        | 使用**多开分身**可刷邀请         |
 | [球速度](http://qiujasu.com/auth/register?code=GEh8)         | 无       | ❌        | ✅        | 新机场，速度快         |
 | [fqfq](https://www.fqfq.xyz/auth/register?code=code)     | 无       | ❌        | ✅        | 推荐         |
 
-已更新 好好学习邀请码：76A05C52A4F5
-
-447E17A3442F
+已更新 好好学习邀请码：
 
 132AB945F986
 
@@ -45,11 +43,8 @@ EDA55BF6C1DF
 
 6D9CB61BA7AC
 
-890BBC7640B0
-
 4AC68466777F
 
-BBF33018482A
 
 
 ---
