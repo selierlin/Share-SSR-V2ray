@@ -31,7 +31,7 @@
 | [球速度](http://qiujasu.com/auth/register?code=GEh8)         | 无       | ❌        | ✅        | 新机场，速度快         |
 | [fqfq](https://www.fqfq.xyz/auth/register?code=code)     | 无       | ❌        | ✅        | 推荐         |
 
-好好学习邀请码：76A05C52A4F5
+已更新 好好学习邀请码：76A05C52A4F5
 
 447E17A3442F
 
