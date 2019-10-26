@@ -39,10 +39,9 @@
 
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [free-ss](https://free-ss.ooo/)                           | 时       | ❌        | ❌        | 发送邮件获取最新网址 ss@rohankdd.com |
-| [Free-SS](https://www.youneed.win/free-ss)         | 天       | ❌        | ❌        | 推荐         |
-| [Free Node](http://cacss.me/)                             | 5天      | ❌        | ❌        | 推荐                      |
-| [iShadow](https://d.ishadowx.com/)                           | 6小时    | ❌        | ✅        | 节点位于中间 |
+| [free-ss](https://free-ss.site/)                           | 时       | ❌        | ✅        | ss@rohankdd.com |
+| [放牧的风](https://www.youneed.win/free-ss)         | 天       | ❌        | ✅        | 推荐         |
+| [iShadow](https://get.ishadowx.biz/)                           | 6小时    | ❌        | ❌        | 位于页面中间 |
 
 ---
 
@@ -50,12 +49,12 @@
 
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [Free-SSR](https://www.youneed.win/free-ssr)         | 天       | ❌        | ❌        | 推荐         |
+| [放牧的风](https://www.youneed.win/free-ssr)         | 天       | ❌        | ✅        | 推荐         |
 | [免费节点 Incn](https://lncn.org/)                           | 周       | ❌        | ✅        |            |
 | [Github/gfw-breaker](https://github.com/gfw-breaker/ssr-accounts) | 周       | ❌        | ❌        |              |
 | [ssrshare.com分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/) | 天       | ❌        | ❌        |              |
 | [ssrshare.com分享网站](https://www.ssrtool.com/tool/free_ssr) | 天       | ❌        | ✅        |              |
-| [SSR爬取账号](http://ss.pythonic.life/)                      | 天       | ❌        | ✅        | 可以自己搭建 |
+| [SSR爬取账号](http://ss.pythonic.life/)                      | 天       | ❌        | ❌        | 可以自己搭建 |
 | [翻墙党论坛](https://fanqiangdang.com/)                      | 天       | ✅        | ✅        |              |
 | [逗比根据地分享](https://doubibackup.com/95f80__8.html)   | 3天      | ❌        | ✅        |                                      |
 | [GRIGOR'S](https://gdmi.weebly.com/3118523398online.html) | 未知     | ❌        | ❌        | 包含教程                             |
@@ -66,7 +65,7 @@
 
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [FreeV2ray](https://connect.freev2ray.org/)               | 天       | ❌        | ❌        | 推荐                |
+| [放牧的风](https://www.youneed.win/free-v2ray)               | 天       | ❌        | ✅        | 推荐                |
 
 ---
 
