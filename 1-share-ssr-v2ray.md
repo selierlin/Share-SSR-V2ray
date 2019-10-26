@@ -31,33 +31,7 @@
 | [球速度](http://qiujasu.com/auth/register?code=GEh8)         | 无       | ❌        | ✅        | 新机场，速度快         |
 | [fqfq](https://www.fqfq.xyz/auth/register?code=code)     | 无       | ❌        | ✅        | 推荐         |
 
-已更新 好好学习邀请码：
-
-03DE8C3FD814
-05A0F1531594	未使用	
-
-E112FBB7FF1B	未使用	
-
-27B31A1D368A	未使用	
-
-60B6FA9CCEDF	未使用	
-
-58672DC81318	未使用	
-
-62C8FE97CC99	未使用	
-
-0D4C76C0F962	未使用	
-
-C020E4BAC4C4	未使用	
-
-721022D627CE	未使用	
-
-3EC6558FC7A7	未使用	
-
-6706F0FEAB6E	未使用
-
-
-
+好好学习邀请码：https://shimo.im/docs/PjpKGRKvxPphgxwh/
 
 ---
 
