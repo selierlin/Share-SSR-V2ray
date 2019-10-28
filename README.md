@@ -44,11 +44,15 @@
 
 > 临时访问谷歌，且不需要使用任何工具，缺点无法访问非谷歌站点
 
+[谷歌镜像](https://google.yuncs.design/)：【推荐】
+
 [谷歌镜像1](http://s.isway.cn/)：【推荐】
 
 [http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)
 
 [http://ac.scmor.com/](http://ac.scmor.com/)
+
+[PH](https://pornhub.yuncs.design/)：未满18请勿点击
 
 ---
 
