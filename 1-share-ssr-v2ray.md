@@ -84,6 +84,10 @@
 
 [SSR节点国际共享](https://t.me/ShadowsocksRssr)
 
+[SS节点公益发放](https://t.me/ssList)
+
+[SSR节点公益发放](https://t.me/ssrList)
+
 [2ray,Vmess节点免费发放](https://t.me/V2List)
 
 [Share-SSR-V2ray](https://t.me/Share-SSR-V2ray)
@@ -93,6 +97,8 @@
 [TG代理（直连telegram）](https://t.me/socks5list)
 
 [SSR SHARE | 免费SSR](https://t.me/gyjclub)
+
+[MTPROTO公益TG代理发放频道](https://t.me/onessr)
 
 注：如果需要相关工具，请 [点击此处](https://github.com/selierlin/fq)
 
