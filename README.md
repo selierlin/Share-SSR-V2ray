@@ -54,6 +54,8 @@
 
 其它镜像：
 
+[ins](https://www.veryins.com/)：建议手机观看
+
 [PH](https://pornhub.yuncs.design/)：未满18请勿点击
 
 ---
