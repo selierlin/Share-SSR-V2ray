@@ -39,6 +39,7 @@
 
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
+| [the0demiurge爬虫账号](http://ss.pythonic.life/)         | 天       | ❌        | ❌        | 推荐         |
 | [free-ss](https://free-ss.site/)                           | 时       | ❌        | ✅        | ss@rohankdd.com |
 | [放牧的风](https://www.youneed.win/free-ss)         | 天       | ❌        | ✅        | 推荐         |
 | [iShadow](https://get.ishadowx.biz/)                           | 6小时    | ❌        | ❌        | 位于页面中间 |
@@ -81,6 +82,8 @@
 2. 第一次使用必须先能够翻出去
 3. 登录账号，添加下面的群组
 4. 添加一个 **TG代理** 后可不用翻就可以上网了
+
+[SS/SSR/TG代理分享](https://t.me/SSRSUB)
 
 [SSR节点国际共享](https://t.me/ShadowsocksRssr)
 
