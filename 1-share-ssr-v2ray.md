@@ -40,6 +40,7 @@
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [the0demiurge爬虫账号](http://ss.pythonic.life/)         | 天       | ❌        | ❌        | 推荐         |
+| [FreeSS](https://my.freess.info/)         | 天       | ❌        | ❌        | 推荐         |
 | [free-ss](https://free-ss.site/)                           | 时       | ❌        | ✅        | ss@rohankdd.com |
 | [放牧的风](https://www.youneed.win/free-ss)         | 天       | ❌        | ✅        | 推荐         |
 | [iShadow](https://get.ishadowx.biz/)                           | 6小时    | ❌        | ❌        | 位于页面中间 |
