@@ -29,14 +29,6 @@
 
 [jsproxy1](https://proxy.fan.workers.dev/)
 
-[jsproxy2](https://js.jimmytinsley.workers.dev/)
-
-[jsproxy3](https://pikaqiu.pikaqiu1.workers.dev/)
-
-[jsproxy4](https://noisy-0110.0905.workers.dev/)
-
-~~[jsproxy](https://jsproxy.cf/)~~
-
 
 ---
 
@@ -45,8 +37,6 @@
 > 临时访问谷歌，且不需要使用任何工具，缺点无法访问非谷歌站点
 
 [谷歌镜像](https://google.yuncs.design/)：【推荐】
-
-[谷歌镜像1](http://s.isway.cn/)：【推荐】
 
 [http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)
 
