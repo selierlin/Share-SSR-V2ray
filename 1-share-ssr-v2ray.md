@@ -53,6 +53,7 @@
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [放牧的风](https://www.youneed.win/free-ssr)         | 天       | ❌        | ✅        | 推荐         |
+| [Get SSR](https://onessr.ml/)         | 天       | ❌        | ❌        | 推荐         |
 | [免费节点 Incn](https://lncn.org/)                           | 周       | ❌        | ✅        |            |
 | [Github/gfw-breaker](https://github.com/gfw-breaker/ssr-accounts) | 周       | ❌        | ❌        |              |
 | [ssrshare.com分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/) | 天       | ❌        | ❌        |              |
@@ -62,7 +63,15 @@
 | [逗比根据地分享](https://doubibackup.com/95f80__8.html)   | 3天      | ❌        | ✅        |                                      |
 | [GRIGOR'S](https://gdmi.weebly.com/3118523398online.html) | 未知     | ❌        | ❌        | 包含教程                             |
 
+账号分享：
+ssr://czIzOC53ZXdhbGwudG9wOjgwOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOmMzVndaWEp6YzNJdWJXVS8_b2Jmc3BhcmFtPU1ERTNabU0yTnpNeE1DNWxaSFV1WTI0JnByb3RvcGFyYW09Tmpjek1UQTZjWGRsWVdaaGQyVm1kMlUmcmVtYXJrcz1TbEFnVkc5cmVXOGdmRll6ZkZJeUxqRTRmREl6T0EmZ3JvdXA9YldVdWMzTnlZMll1ZEc5dw
+
+ssr://czcyLndld2FsbC50b3A6ODA6YXV0aF9jaGFpbl9hOm5vbmU6cGxhaW46YzNWd1pYSnpjM0l1YldVLz9vYmZzcGFyYW09TURFM1ptTTJOek14TUM1bFpIVXVZMjQmcHJvdG9wYXJhbT1OamN6TVRBNmNYZGxZV1poZDJWbWQyVSZyZW1hcmtzPVNFc2dmRlkwZkZJekxqYzBmRGN5Jmdyb3VwPWJXVXVjM055WTJZdWRHOXc
+
+
+
 ---
+
 
 ### V2ray 分享
 
