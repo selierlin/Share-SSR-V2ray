@@ -25,14 +25,13 @@
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [飞鱼](https://yuyu.cool/register?aff=3026)         | 无       | ✅        | ❌        | 速度稳定         |
-| [好好学习](https://edu.upday.xyz/register?aff=73688)         | 无       | ✅        | ❌        | 需要邀请注册，建议通过v2ray使用         |
+| [好好学习](https://edu.upday.xyz/register?aff=73688)         | 无       | ✅        | ❌        | 建议通过v2ray使用         |
 | [西部世界](https://westssr.club/i/iv191031/NYyp0Iw)         | 无       | ✅        | ❌        | 验证邮箱送6天，可做备用方案         |
 | [极速](https://www.jisu365.vip/auth/register?code=VYTS)         | 无       | ✅        | ❌        | 新机场白嫖，免费使用         |
 | [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ❌        | 使用**多开分身**可刷邀请         |
 | [球速度](http://qiujasu.com/auth/register?code=6VGm)         | 无       | ✅        | ❌        | 新机场，速度快         |
 | [凿壁偷光](https://new.ssrcf.top/auth/register?code=Jkai)     | 无       | ✅        | ✅        | 老牌机场，上百个节点，用户多         |
 
-好好学习邀请码：https://shimo.im/docs/PjpKGRKvxPphgxwh/
 
 ---
 
