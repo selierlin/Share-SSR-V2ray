@@ -24,7 +24,8 @@
 ### 1. 🥒直连
 
 [酷鸟浏览器](https://ie.kuniao.com/)：国内首家合法合规访问国外网站的浏览器，需要用手机号码注册，请大家文明科学上网
-大家可以将 酷鸟邀请码 写在这个文档中，[石墨文档](https://shimo.im/docs/wG6G68cTxyWdWvWK)
+
+> 大家可以将 **酷鸟邀请码** 写在这个文档中，[石墨文档](https://shimo.im/docs/wG6G68cTxyWdWvWK)
 
 [UPX浏览器](https://play.google.com/store/apps/details?id=net.upx.proxy.browser&hl=zh)：一款自带科学上网的安卓浏览器
 
@@ -33,7 +34,7 @@
 [Chromium浏览器](https://github.com/jjqqkk/chromium)：解决科学上网的浏览器（支持Windows和macOS），与上面的区别就是此浏览器的版本较高
 
 
-> 以上工具如果无法下载，可在临时网盘中获取
+> **以上工具如果无法下载，可在临时网盘中获取**
 
 ---
 
