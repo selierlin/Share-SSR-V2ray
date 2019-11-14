@@ -81,6 +81,8 @@
 
 [谷歌访问助手](http://www.ggfwzs.com/) 【推荐】
 
+[Setup $$](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp?hl=zh-CN)
+
 [Google Helper](http://googlehelper.net/)
 
 无法访问的可以点击这里，[下载地址](https://www.lanzous.com/b1008660)  密码: *6j5h*
