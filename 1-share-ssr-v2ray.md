@@ -63,12 +63,14 @@
 | [逗比根据地分享](https://doubibackup.com/95f80__8.html)   | 3天      | ❌        | ✅        |                                      |
 | [GRIGOR'S](https://gdmi.weebly.com/3118523398online.html) | 未知     | ❌        | ❌        | 包含教程                             |
 
-账号分享：
-ssr://czIzOC53ZXdhbGwudG9wOjgwOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOmMzVndaWEp6YzNJdWJXVS8_b2Jmc3BhcmFtPU1ERTNabU0yTnpNeE1DNWxaSFV1WTI0JnByb3RvcGFyYW09Tmpjek1UQTZjWGRsWVdaaGQyVm1kMlUmcmVtYXJrcz1TbEFnVkc5cmVXOGdmRll6ZkZJeUxqRTRmREl6T0EmZ3JvdXA9YldVdWMzTnlZMll1ZEc5dw
 
-ssr://czcyLndld2FsbC50b3A6ODA6YXV0aF9jaGFpbl9hOm5vbmU6cGxhaW46YzNWd1pYSnpjM0l1YldVLz9vYmZzcGFyYW09TURFM1ptTTJOek14TUM1bFpIVXVZMjQmcHJvdG9wYXJhbT1OamN6TVRBNmNYZGxZV1poZDJWbWQyVSZyZW1hcmtzPVNFc2dmRlkwZkZJekxqYzBmRGN5Jmdyb3VwPWJXVXVjM055WTJZdWRHOXc
+SSR订阅链接分享：
 
+https://sub.sswow.xyz/link/XevJgkMTsaT6zyLF?mu=1
 
+https://sub.sswow.xyz/link/KEYZ5KvkY849CJsm?mu=1
+
+https://sub.sswow.xyz/link/ScMxxM93aneazbcU?mu=1
 
 ---
 
@@ -79,6 +81,15 @@ ssr://czcyLndld2FsbC50b3A6ODA6YXV0aF9jaGFpbl9hOm5vbmU6cGxhaW46YzNWd1pYSnpjM0l1Yl
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [放牧的风](https://www.youneed.win/free-v2ray)               | 天       | ❌        | ✅        | 推荐                |
 | [FreeV2ray](https://view.freev2ray.org/)               | 天       | ❌        | ❌        | 推荐                |
+
+V2ray订阅链接分享：
+
+https://sub.sswow.xyz/link/XevJgkMTsaT6zyLF?mu=2
+
+https://sub.sswow.xyz/link/KEYZ5KvkY849CJsm?mu=2
+
+https://sub.sswow.xyz/link/ScMxxM93aneazbcU?mu=2
+
 
 ---
 
