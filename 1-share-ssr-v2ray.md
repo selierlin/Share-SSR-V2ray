@@ -66,6 +66,8 @@
 
 SSR订阅链接分享：
 
+https://sub.sswow.xyz/link/1kvPwBvSDwwSu4s9?mu=1
+
 https://sub.sswow.xyz/link/XevJgkMTsaT6zyLF?mu=1
 
 https://sub.sswow.xyz/link/KEYZ5KvkY849CJsm?mu=1
@@ -83,6 +85,8 @@ https://sub.sswow.xyz/link/ScMxxM93aneazbcU?mu=1
 | [FreeV2ray](https://view.freev2ray.org/)               | 天       | ❌        | ❌        | 推荐                |
 
 V2ray订阅链接分享：
+
+https://sub.sswow.xyz/link/1kvPwBvSDwwSu4s9?mu=2
 
 https://sub.sswow.xyz/link/XevJgkMTsaT6zyLF?mu=2
 
