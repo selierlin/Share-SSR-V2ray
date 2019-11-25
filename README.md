@@ -16,6 +16,7 @@
 	- [2. 镜像网站](#2-镜像网站)
 	- [3. SS/SSR/V2ray分享账号](#3-ssssrv2ray分享账号)
 	- [4. 浏览器插件](#4-浏览器插件)
+- [工具下载](#工具下载)
 - [使用教程](#使用教程)
 	- [Shadowsocks 使用教程](#shadowsocks-使用教程)
 	- [ShadowsockR 使用教程](#shadowsockR-使用教程)
