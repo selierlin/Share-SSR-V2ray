@@ -24,15 +24,14 @@
 
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [凿壁偷光](https://hi.ssrcf.top/auth/register?code=007)     | 无       | ✅        | ✅        | 老牌机场，上百个节点，用户多         |
+| [凿壁偷光](https://hi.ssrcf.top/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，上百个节点，用户多         |
 | [飞鱼](https://yuyu.cool/register?aff=3026)         | 无       | ✅        | ❌        | 速度稳定         |
 | [好好学习](https://edu.upday.xyz/register?aff=73688)         | 无       | ✅        | ❌        | 建议通过v2ray使用         |
-| [SockBoom](https://sockboom.cn/auth/register?affid=96955)         | 无       | ✅        | ❌        | 5元购买永久VIP，流量包需另购买，也可以通过签到获取         |
+| [SockBoom](https://sockboom.cn/auth/register?affid=96955)         | 无       | ✅        | ❌        | 5元购买永久VIP，流量包需另购买，也可通过签到获取         |
 | [球速度](http://qiujasu.com/auth/register?code=6VGm)         | 无       | ✅        | ❌        | 新机场，速度快         |
 | [极速](https://www.jisu365.vip/auth/register?code=VYTS)         | 无       | ✅        | ❌        | 新机场白嫖，免费使用         |
 | [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ❌        | 使用**多开分身**可刷邀请         |
-| [西部世界](https://westssr.club/i/iv191031/NYyp0Iw)         | 无       | ✅        | ❌        | 验证邮箱送6天，可做备用方案         |
-
+| [西部世界](https://westssr.club/i/iv191031/NYyp0Iw)         | 无       | ✅        | ❌        | 验证邮箱送6天，可做备选方案        |
 
 
 
@@ -42,7 +41,7 @@
 
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [the0demiurge爬虫账号](http://ss.pythonic.life/)         | 天       | ❌        | ❌        | 推荐         |
+| [the0demiurge爬虫账号](http://ss.pythonic.life/)         | 天       | ❌        | ✅       | 推荐         |
 | [FreeSS](https://my.freess.info/)         | 天       | ❌        | ❌        | 推荐         |
 | [free-ss](https://free-ss.site/)                           | 时       | ❌        | ✅        | ss@rohankdd.com |
 | [放牧的风](https://www.youneed.win/free-ss)         | 天       | ❌        | ✅        | 推荐         |
@@ -58,13 +57,12 @@
 | [Get SSR](https://onessr.ml/)         | 天       | ❌        | ❌        | 推荐         |
 | [免费节点 Incn](https://lncn.org/)                           | 周       | ❌        | ✅        |            |
 | [Github/gfw-breaker](https://github.com/gfw-breaker/ssr-accounts) | 周       | ❌        | ❌        |              |
-| [ssrshare.com分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/) | 天       | ❌        | ❌        |              |
+| [ssrshare.com分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/) | 天       | ❌        | ✅       |              |
 | [ssrshare.com分享网站](https://www.ssrtool.com/tool/free_ssr) | 天       | ❌        | ✅        |              |
 | [TShareSSR](https://fx.tmioe.com/freessr)                      | ?       | ❌        | ❌        |  |
-| [SSR爬取账号](http://ss.pythonic.life/)                      | 天       | ❌        | ❌        | 可以自己搭建 |
 | [翻墙党论坛](https://fanqiangdang.com/)                      | 天       | ✅        | ✅        |              |
 | [逗比根据地分享](https://doubibackup.com/95f80__8.html)   | 3天      | ❌        | ✅        |                                      |
-| [GRIGOR'S](https://gdmi.weebly.com/3118523398online.html) | 未知     | ❌        | ❌        | 包含教程                             |
+| [GRIGOR'S](https://gdmi.weebly.com/3118523398online.html) | 未知     | ❌        | ✅       | 包含教程                             |
 
 
 SSR订阅链接分享：
@@ -91,11 +89,11 @@ https://rss.ssyes.top/s/uCKmK?ver=2
 
 ### Telegram群组
 
-作用：每天以下群组都会免费分享各种类型的节点，所以建议加入以下的群组以获取可用节点。
+作用：以下群组每天都会免费分享各种类型的节点，建议加入以下的群组以获取可用节点。
 
 使用方法：
 
-1. 需要下载安装 [Telegram](https://telegram.org/)
+1. 下载安装 [Telegram](https://telegram.org/)
 2. 第一次使用必须先能够翻出去
 3. 登录账号，添加下面的群组
 4. 添加一个 **TG代理** 后可不用翻就可以上网了

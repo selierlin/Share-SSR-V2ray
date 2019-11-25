@@ -7,6 +7,10 @@
 ---
 
 
+
+### 目录
+
+
 - [上网方式](#上网方式)
 	- [1. 直连网站](#1-直连网站)
 	- [2. 镜像网站](#2-镜像网站)
@@ -19,18 +23,17 @@
 	- [其它教程](#其它教程)
 
 
-## 💻上网方式
+### 💻上网方式
 
-### 1. 🥒直连
+#### 1. 🥒直连
+
+> 以下工具可在临时网盘中获取
 
 [UPX浏览器](https://play.google.com/store/apps/details?id=net.upx.proxy.browser&hl=zh)：一款自带科学上网的安卓浏览器
 
 [龙卷风浏览器](http://s1.longs1.vip/)：Windows端解决科学上网的浏览器
 
 [Chromium浏览器](https://github.com/jjqqkk/chromium)：解决科学上网的浏览器（支持Windows和macOS），与上面的区别就是此浏览器的版本较高
-
-
-> **以上工具如果无法下载，可在临时网盘中获取**
 
 ---
 
@@ -40,10 +43,9 @@
 
 [jsproxy1](https://proxy.fan.workers.dev/)
 
-
 ---
 
-### 2. 🍆镜像网站
+#### 2. 🍆镜像网站
 
 > 临时访问谷歌，且不需要使用任何工具，缺点无法访问非谷歌站点
 
@@ -61,13 +63,13 @@
 
 ---
 
-### 3. 🍄SS/SSR/V2ray分享账号
+#### 3. 🍄SS/SSR/V2ray分享账号
 
 [SS-SSR-V2ray 分享账号](1-share-ssr-v2ray.md)
 
 ---
 
-### 4. 🌰浏览器插件
+#### 4. 🌰浏览器插件
 
 > 建议使用Chrome浏览器安装插件
 
@@ -87,21 +89,29 @@
 
 ---
 
-## 使用教程
+### 工具下载
 
-### Shadowsocks 使用教程
+[工具下载](tools.md)
+
+
+
+---
+
+### 使用教程
+
+#### Shadowsocks 使用教程
 
 [Windows](SS/2-windows-setup-guide-cn.md)  |  [macOS](SS/3-macos-setup-guide-cn.md)  |  [iOS](SS/4-ios-setup-guide-cn.md)  |  [Android](SS/5-android-setup-guide-cn.md)  |  [Linux](SS/6-linux-setup-guide-cn.md)
 
-### ShadowsockR 使用教程
+#### ShadowsockR 使用教程
 
 [Windows](SSR/11-windows-setup-guide-cn.md)  |  [macOS](SSR/12-macos-setup-guide-cn.md)  |  [iOS](SSR/13-ios-setup-guide-cn.md)  |  [Android](SSR/14-android-setup-guide-cn.md)  |  [Linux](SSR/15-linux-setup-guide-cn.md)
 
-### V2ray 使用教程
+#### V2ray 使用教程
 
 TODO
 
-### 其它教程
+#### 其它教程
 
 [Firefox Quantum 设置教程 (Proxy SwitchyOmega)](Other/7-1-firefox-setup-guide-cn.md)
 
