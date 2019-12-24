@@ -28,7 +28,6 @@
 | [飞鱼](https://yuyu.cool/register?aff=3026)         | 无       | ✅        | ❌        | 速度稳定         |
 | [好好学习](https://edu.upday.xyz/register?aff=73688)         | 无       | ✅        | ❌        | 建议通过v2ray使用         |
 | [SockBoom](https://sockboom.cn/auth/register?affid=96955)         | 无       | ✅        | ❌        | 5元购买永久VIP，流量包需另购买，也可通过签到获取         |
-| [球速度](http://qiujasu.com/auth/register?code=6VGm)         | 无       | ✅        | ❌        | 新机场，速度快         |
 | [极速](https://www.jisu365.vip/auth/register?code=VYTS)         | 无       | ✅        | ❌        | 新机场白嫖，免费使用         |
 | [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ❌        | 使用**多开分身**可刷邀请         |
 | [西部世界](https://westssr.club/i/iv191031/NYyp0Iw)         | 无       | ✅        | ❌        | 验证邮箱送6天，可做备选方案        |
