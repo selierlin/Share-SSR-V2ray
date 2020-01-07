@@ -40,9 +40,9 @@
 
 打开网站即可使用，可以访问所有的站点：
 
-[jsproxy](https://gamedun.github.io/)：【推荐】
+[---jsproxy---](https://gamedun.github.io/)
 
-[jsproxy1](https://proxy.fan.workers.dev/)
+[---jsproxy1---](https://proxy.fan.workers.dev/)
 
 ---
 
@@ -50,9 +50,7 @@
 
 > 临时访问谷歌，且不需要使用任何工具，缺点无法访问非谷歌站点
 
-[谷歌镜像](https://google.yuncs.design/)：【推荐】
-
-[http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)
+[http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)：【推荐】
 
 [http://ac.scmor.com/](http://ac.scmor.com/)
 
@@ -77,8 +75,6 @@
 [集装箱](https://chrome.google.com/webstore/detail/%E9%9B%86%E8%A3%85%E7%AE%B1/kbgigmcnifmaklccibmlepmahpfdhjch) 【推荐】
 
 [谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka/)【推荐】
-
-[谷歌访问助手](http://www.ggfwzs.com/) 【推荐】
 
 [Setup $$](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp?hl=zh-CN)
 
