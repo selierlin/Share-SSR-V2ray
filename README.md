@@ -12,10 +12,10 @@
 
 
 - [上网方式](#上网方式)
-	- [1. 直连网站](#1-直连网站)
+	- [1. 浏览器插件](#1-浏览器插件)
 	- [2. 镜像网站](#2-镜像网站)
 	- [3. SS/SSR/V2ray分享账号](#3-ssssrv2ray分享账号)
-	- [4. 浏览器插件](#4-浏览器插件)
+	- [4. 直连网站](#4-直连网站)
 - [工具下载](#工具下载)
 - [使用教程](#使用教程)
 	- [Shadowsocks 使用教程](#shadowsocks-使用教程)
@@ -26,23 +26,21 @@
 
 ### 💻上网方式
 
-#### 1. 🥒直连
+#### 1. 🌰浏览器插件
 
-> 以下工具可在临时网盘中获取
+> 建议使用Chrome浏览器安装插件
 
-[UPX浏览器](https://play.google.com/store/apps/details?id=net.upx.proxy.browser&hl=zh)：一款自带科学上网的安卓浏览器
+[集装箱](https://chrome.google.com/webstore/detail/%E9%9B%86%E8%A3%85%E7%AE%B1/kbgigmcnifmaklccibmlepmahpfdhjch) 【推荐】
 
-[龙卷风浏览器](http://s1.longs1.vip/)：Windows端解决科学上网的浏览器
+[谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka/)【推荐】
 
-[Chromium浏览器](https://github.com/jjqqkk/chromium)：解决科学上网的浏览器（支持Windows和macOS），与上面的区别就是此浏览器的版本较高
+[Setup $$](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp?hl=zh-CN)
 
----
+[Google Helper](http://googlehelper.net/)
 
-打开网站即可使用，可以访问所有的站点：
+无法访问的可以点击这里，[下载地址](https://www.lanzous.com/b1008660)  密码: *6j5h*
 
-[---jsproxy---](https://gamedun.github.io/)
-
-[---jsproxy1---](https://proxy.fan.workers.dev/)
+安装方法：[百度经验](https://jingyan.baidu.com/article/a681b0de7ddd313b19434661.html)
 
 ---
 
@@ -68,21 +66,25 @@
 
 ---
 
-#### 4. 🌰浏览器插件
+#### 4. 
+🥒直连
 
-> 建议使用Chrome浏览器安装插件
+> 以下工具可在临时网盘中获取
 
-[集装箱](https://chrome.google.com/webstore/detail/%E9%9B%86%E8%A3%85%E7%AE%B1/kbgigmcnifmaklccibmlepmahpfdhjch) 【推荐】
+[UPX浏览器](https://play.google.com/store/apps/details?id=net.upx.proxy.browser&hl=zh)：一款自带科学上网的安卓浏览器
 
-[谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka/)【推荐】
+[龙卷风浏览器](http://s1.longs1.vip/)：Windows端解决科学上网的浏览器
 
-[Setup $$](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp?hl=zh-CN)
+[Chromium浏览器](https://github.com/jjqqkk/chromium)：解决科学上网的浏览器（支持Windows和macOS），与上面的区别就是此浏览器的版本较高
 
-[Google Helper](http://googlehelper.net/)
+---
 
-无法访问的可以点击这里，[下载地址](https://www.lanzous.com/b1008660)  密码: *6j5h*
+打开网站即可使用，可以访问所有的站点：
 
-安装方法：[百度经验](https://jingyan.baidu.com/article/a681b0de7ddd313b19434661.html)
+[---jsproxy---](https://gamedun.github.io/)
+
+[---jsproxy1---](https://proxy.fan.workers.dev/)
+
 
 ---
 
