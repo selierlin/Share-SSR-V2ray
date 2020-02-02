@@ -52,13 +52,12 @@
 
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
+| [Get SSR](https://jichangdaquan.com/node/429.html)         | 天       | ❌        | ❌        | 推荐         |
 | [放牧的风](https://www.youneed.win/free-ssr)         | 天       | ❌        | ✅        | 推荐         |
-| [Get SSR](https://onessr.ml/)         | 天       | ❌        | ❌        | 推荐         |
 | [免费节点 Incn](https://lncn.org/)                           | 周       | ❌        | ✅        |            |
 | [Github/gfw-breaker](https://github.com/gfw-breaker/ssr-accounts) | 周       | ❌        | ❌        |              |
 | [ssrshare.com分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/) | 天       | ❌        | ✅       |              |
 | [ssrshare.com分享网站](https://www.ssrtool.com/tool/free_ssr) | 天       | ❌        | ✅        |              |
-| [TShareSSR](https://fx.tmioe.com/freessr)                      | ?       | ❌        | ❌        |  |
 | [翻墙党论坛](https://fanqiangdang.com/)                      | 天       | ✅        | ✅        |              |
 | [逗比根据地分享](https://doubibackup.com/95f80__8.html)   | 3天      | ❌        | ✅        |                                      |
 | [GRIGOR'S](https://gdmi.weebly.com/3118523398online.html) | 未知     | ❌        | ✅       | 包含教程                             |
