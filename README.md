@@ -71,6 +71,8 @@
 
 > 以下工具可在临时网盘中获取
 
+[老王猥屁恩](https://play.google.com/store/apps/details?id=com.findtheway)：自称永久免费，目前确实好用
+
 [UPX浏览器](https://play.google.com/store/apps/details?id=net.upx.proxy.browser&hl=zh)：一款自带科学上网的安卓浏览器
 
 [龙卷风浏览器](http://s1.longs1.vip/)：Windows端解决科学上网的浏览器
