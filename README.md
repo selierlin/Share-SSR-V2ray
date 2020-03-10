@@ -80,7 +80,7 @@
 
 [龙卷风浏览器](http://s1.longs1.vip/)：Windows端解决科学上网的浏览器
 
-[Chromium浏览器](https://github.com/jjqqkk/chromium)：解决科学上网的浏览器（支持Windows和macOS），与上面的区别就是此浏览器的版本较高
+[Chromium浏览器](https://github.com/jjqqkk/jjqqkk)：解决科学上网的浏览器（支持Windows和macOS），与上面的区别就是此浏览器的版本较高，现安装包名为：JJQQKK-2.6.7 ，安装的时候可能需要.net 4.6的环境，可以在网盘中下载安装
 
 ---
 
