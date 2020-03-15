@@ -12,15 +12,17 @@
 
 ### 注册站点
 
+> 有的机场刚刚开的，会员人数不多的，网站域名奇葩的，满足这些条件的不建议大家充值，在充值前可以加入机场的官方群或者TG群组
+
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [中信加速器](https://api.233fly.com:39786/)     | 无       | ✅        | ❌       | 速度快，不建议用来看视频，每月签到能有3G左右，可购买套餐2G¥7.5，个人觉得很划算，填写邀请码可多获得流量，邀请码：XYKZ9         |
+| [好好学习](https://edu.upday.xyz/register?aff=73688)         | 无       | ✅        | ❌        | 节点多，用户多         |
 | [凿壁偷光](https://hi.ssrcf.top/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，上百个节点，用户多         |
-| [飞鱼](https://yuyu.cool/register?aff=3026)         | 无       | ✅        | ❌        | 速度稳定         |
-| [好好学习](https://edu.upday.xyz/register?aff=73688)         | 无       | ✅        | ❌        | 节点多         |
-| [极速](https://www.jisu365.vip/auth/register?code=VYTS)         | 无       | ✅        | ❌        | 新机场白嫖，免费使用         |
+| [飞鱼云](https://yuyu.cool/register?aff=3026)         | 无       | ✅        | ❌        | 速度稳定         |
 | [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ❌        | 使用**多开分身**可刷邀请         |
-| [西部世界](https://westssr.club/i/iv191031/NYyp0Iw)         | 无       | ✅        | ❌        | 验证邮箱送6天，可做备选方案        |
+| [西部世界](https://xbsj9895.xyz/i/iv200315/NYyp0Iw)         | 无       | ✅        | ❌        | 验证邮箱送6天会员        |
+| [iimaple](https://cloud.iimaple.com/auth/register?code=jI7A)         | 无       | ✅        | ❌        | 送7天会员，这个就白嫖吧 |
 
 
 
