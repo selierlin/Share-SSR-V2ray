@@ -19,3 +19,5 @@
 | 自由門       | [自由門专业版](https://git.io/fgp)                           |                                                              | [自由門](https://git.io/fgma)                                |                                                              |                                                     |
 | 赛风         | [psiphon3](https://psiphon3.com/zh/download.html)            |                                                              | [Psiphon Pro](https://play.google.com/store/apps/details?id=com.psiphon3.subscription) | [Psiphon](https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&mt=8) | [用户指南](https://psiphon3.com/zh/user-guide.html) |
 
+
+[Stair SpeedTest](https://github.com/tindy2013/stairspeedtest-reborn/releases)：节点检测工具，支持SS\SSR\V2ray协议
