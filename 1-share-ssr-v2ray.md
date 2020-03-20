@@ -22,9 +22,8 @@
 | [飞鱼云](https://yuyu.cool/register?aff=3026)         | 无       | ✅        | ❌        | 速度稳定         |
 | [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ❌        | 使用**多开分身**可刷邀请         |
 | [西部世界](https://xbsj9895.xyz/i/iv200315/NYyp0Iw)         | 无       | ✅        | ❌        | 验证邮箱送6天会员        |
-| [iimaple](https://cloud.iimaple.com/auth/register?code=jI7A)         | 无       | ✅        | ❌        | 送7天会员，这个就白嫖吧 |
-| [鲸蓝](https://jetstream.xyz/invite/10289643)         | 无       | ✅        | ❌        | 送7天50G会员，需要先在安卓手机里下载注册，网盘里有安装包，邀请码：10289643 |
-| [Hidden Nation](https://hidden.blogdiy.net/auth/register?code=SFWk)         | 无       | ✅        | ❌        | 送3天36G会员，目前速度不错 |
+| [iimaple](https://cloud.iimaple.com/auth/register?code=jI7A)         | 无       | ✅        | ❌        | 送7天会员，速度还可以 |
+| [Hidden Nation](https://hidden.blogdiy.net/auth/register?code=SFWk)         | 无       | ✅        | ❌        | 送3天36G会员 |
 
 
 
