@@ -22,7 +22,6 @@
 | [飞鱼云](https://yuyu.cool/register?aff=3026)         | 无       | ✅        | ❌        | 速度稳定         |
 | [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ❌        | 使用**多开分身**可刷邀请         |
 | [西部世界](https://xbsj9895.xyz/i/iv200315/NYyp0Iw)         | 无       | ✅        | ❌        | 验证邮箱送6天会员        |
-| [iimaple](https://cloud.iimaple.com/auth/register?code=jI7A)         | 无       | ✅        | ❌        | 送7天会员，速度还可以 |
 
 
 ---
