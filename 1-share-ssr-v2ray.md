@@ -20,10 +20,11 @@
 | [好好学习](https://edu.upday.xyz/register?aff=73688)         | 无       | ✅        | ❌        | 节点多，用户多         |
 | [凿壁偷光](https://hi.ssrcf.top/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，上百个节点，用户多         |
 | [飞鱼云](https://yuyu.cool/register?aff=3026)         | 无       | ✅        | ❌        | 速度稳定         |
-| [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ❌        | 使用**多开分身**可刷邀请         |
+| [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ❌        | 备选，使用**多开分身**可刷邀请         |
 | [西部世界](https://xbsj9895.xyz/i/iv200315/NYyp0Iw)         | 无       | ✅        | ❌        | 验证邮箱送6天会员        |
 | [iimaple](https://cloud.iimaple.com/auth/register?code=jI7A)         | 无       | ✅        | ❌        | 送7天会员，白嫖就行了，没必要充 |
 | [IPIP](https://www.ipip.plus/auth/register?code=c0JU)         | 无       | ✅        | ❌        | 新机场，速度延迟都还不错 |
+| [奇异之旅](https://www.ustravel.cloud/aff.php?aff=4868)         | 无       | ✅        | ❌        | 好像只有买套餐，大部分是香港节点，延迟低 |
 
 
 ---
