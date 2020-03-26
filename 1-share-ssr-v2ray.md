@@ -24,7 +24,7 @@
 | [西部世界](https://xbsj9895.xyz/i/iv200315/NYyp0Iw)         | 无       | ✅        | ❌        | 验证邮箱送6天会员        |
 | [iimaple](https://cloud.iimaple.com/auth/register?code=jI7A)         | 无       | ✅        | ❌        | 送7天会员，白嫖就行了，没必要充 |
 | [IPIP](https://www.ipip.plus/auth/register?code=c0JU)         | 无       | ✅        | ❌        | 新机场，速度延迟都还不错 |
-| [奇异之旅](https://www.ustravel.cloud/aff.php?aff=4868)         | 无       | ✅        | ❌        | 好像只有买套餐，大部分是香港节点，延迟低 |
+| [奇异之旅](https://www.ustravel.cloud/aff.php?aff=4868)         | 无       | ✅        | ❌        | 无免费流量，大部分是香港节点，延迟低 |
 
 
 ---
