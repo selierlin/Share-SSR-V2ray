@@ -16,16 +16,15 @@
 
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [中信加速器](https://api.233fly.com:39786/)     | 无       | ✅        | ❌       | 手机端使用方便，每月签到能有3G左右，邀请码：XYKZ9         |
+| [中信加速器](https://api.233fly.com:39786/)     | 无       | ✅        | ❌       | 较稳定，每月签到能有3G左右，送500M邀请码：XYKZ9         |
 | [好好学习](https://edu.upday.xyz/register?aff=73688)         | 无       | ✅        | ❌        | 节点多，用户多         |
 | [凿壁偷光](https://hi.ssrcf.top/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，上百个节点，用户多         |
 | [飞鱼云](https://yuyu.cool/register?aff=3026)         | 无       | ✅        | ❌        | 速度稳定         |
 | [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ❌        | 备选，使用**多开分身**可刷邀请         |
 | [西部世界](https://xbsj9895.xyz/i/iv200315/NYyp0Iw)         | 无       | ✅        | ❌        | 验证邮箱送6天会员        |
 | [iimaple](https://cloud.iimaple.com/auth/register?code=vjS8)         | 无       | ✅        | ❌        | 送3天会员 |
-| [IPIP](https://www.ipip.plus/auth/register?code=c0JU)         | 无       | ✅        | ❌        | 新机场，速度延迟都还不错 |
+| [IPIP](https://www.ipip.plus/auth/register?code=c0JU)         | 无       | ✅        | ❌        | 速度延迟都还不错 |
 | [奇异之旅](https://www.ustravel.cloud/aff.php?aff=4868)         | 无       | ✅        | ❌        | 无免费流量，大部分是香港节点，延迟低 |
-
 
 ---
 
@@ -56,10 +55,6 @@
 | [GRIGOR'S](https://gdmi.weebly.com/3118523398online.html) | 未知     | ❌        | ✅       | 包含教程                             |
 
 
-SSR订阅链接分享：
-
-https://rss.ssyes.top/s/uCKmK?ver=1
-
 ---
 
 
@@ -70,17 +65,13 @@ https://rss.ssyes.top/s/uCKmK?ver=1
 | [放牧的风](https://www.youneed.win/free-v2ray)               | 天       | ❌        | ✅        | 推荐                |
 | [FreeV2ray](https://view.freev2ray.org/)               | 天       | ❌        | ❌        | 推荐                |
 
-V2ray订阅链接分享：
-
-https://rss.ssyes.top/s/uCKmK?ver=2
-
 ---
 
 ## 订阅链接
 
 ### Telegram群组
 
-作用：以下群组每天都会免费分享各种类型的节点，建议加入以下的群组以获取可用节点。
+作用：以下群组每天都会免费分享各种类型的节点，建议加入以下的群组以备不时之需。
 
 使用方法：
 
@@ -109,5 +100,5 @@ https://rss.ssyes.top/s/uCKmK?ver=2
 
 [MTPROTO公益TG代理发放频道](https://t.me/onessr)
 
-注：如果需要相关工具，请 [点击此处](https://github.com/selierlin/fq)
+注：如果需要相关工具，请 [点击此处](https://github.com/selierlin/Share-SSR-V2ray/blob/master/tools.md)
 
