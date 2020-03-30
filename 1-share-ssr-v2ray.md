@@ -24,7 +24,8 @@
 | [西部世界](https://xbsj9895.xyz/i/iv200315/NYyp0Iw)         | 无       | ✅        | ❌        | 验证邮箱送6天会员        |
 | [iimaple](https://cloud.iimaple.com/auth/register?code=vjS8)         | 无       | ✅        | ❌        | 送3天会员 |
 | [IPIP](https://www.ipip.plus/auth/register?code=c0JU)         | 无       | ✅        | ❌        | 速度延迟都还不错 |
-| [奇异之旅](https://www.ustravel.cloud/aff.php?aff=4868)         | 无       | ✅        | ❌        | 无免费流量，大部分是香港节点，延迟低 |
+| [SockBoom](https://sockboom.tel/auth/register?affid=96955)         | 无       | ✅        | ❌        | 白菜价套餐 |
+
 
 ---
 
