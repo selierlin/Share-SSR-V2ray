@@ -22,7 +22,7 @@
 | [飞鱼云](http://suo.im/6h8Rqw)         | 无       | ✅        | ❌        | 速度稳定         |
 | [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ❌        | 备选，使用**多开分身**可刷邀请         |
 | [西部世界](http://suo.im/6oF4vd)         | 无       | ✅        | ❌        | 验证邮箱送6天会员        |
-| [iimaple](http://suo.im/6wbhzU         | 无       | ✅        | ❌        | 送3天会员 |
+| [iimaple](http://suo.im/6wbhzU)         | 无       | ✅        | ❌        | 送3天会员 |
 | [IPIP](http://suo.im/5FxLbC)         | 无       | ✅        | ❌        | 速度延迟都还不错 |
 | [SockBoom](http://suo.im/5NOALM)         | 无       | ✅        | ❌        | 白菜价套餐 |
 | [墙裂](http://suo.im/5VkNQt)         | 无       | ✅        | ❌        | 性价比高的v2ray |
