@@ -22,4 +22,4 @@
 
 [Stair SpeedTest](https://github.com/tindy2013/stairspeedtest-reborn/releases)：批量节点检测工具，支持单链接、订阅地址，支持SS\SSR\V2ray协议
 
-临时存储网盘：[蓝奏云](https://www.lanzous.com/b1008660)  密码: *6j5h*
+临时存储网盘：[蓝奏云](http://suo.im/5A56zM)  密码: *6j5h*
