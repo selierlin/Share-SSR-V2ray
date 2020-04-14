@@ -20,7 +20,7 @@
 | [中信加速器](http://suo.im/5GinGV)     | 无       | ✅        | ❌       | 较稳定，每月签到能有3G左右，送500M邀请码：XYKZ9         |
 | [飞鱼云](http://suo.im/6h8Rqw)         | 无       | ✅        | ❌        | 速度稳定         |
 | [SockBoom](http://suo.im/5NOALM)         | 无       | ✅        | ❌        | 白菜价套餐 |
-| [IPIP](http://suo.im/5FxLbC)         | 无       | ✅        | ❌        | 速度延迟都还不错 |
+| [IPIP](http://suo.im/5FxLbC)         | 无       | ✅        | ❌        | 速度延迟都还不错，选择19元的顶配套餐，优惠码 2020，0元购买 |
 | [墙裂](http://suo.im/5VkNQt)         | 无       | ✅        | ❌        | 性价比高的v2ray |
 | [好好学习](http://suo.im/5VkNQj)         | 无       | ✅        | ❌        | 节点多，用户多         |
 | [凿壁偷光](http://suo.im/6aj1QF)     | 无       | ✅        | ❌       | 老牌机场，上百个节点，用户多         |
