@@ -21,7 +21,7 @@
 | [SockBoom](http://suo.im/5NOALM)         | 无       | ✅        | ❌        | 白菜价套餐 |
 | [墙裂](http://suo.im/5VkNQt)         | 无       | ✅        | ❌        | 性价比高的v2ray |
 | [速鹰666](http://suo.im/5VkP5z)         | 无       | ✅        | ❌        | 注册送10G |
-| [好好学习](http://suo.im/5VkNQj)         | 无       | ✅        | ❌        | 节点多，用户多         |
+| [好好学习](http://suo.im/6vexcN)         | 无       | ✅        | ❌        | 节点多，用户多         |
 | [凿壁偷光](http://suo.im/6aj1QF)     | 无       | ✅        | ❌       | 老牌机场，上百个节点，用户多         |
 | [西部世界](http://suo.im/6oF4vd)         | 无       | ✅        | ❌        | 验证邮箱送6天会员        |
 | [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ❌        | 备选，使用**多开分身**可刷邀请         |
