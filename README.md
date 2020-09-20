@@ -103,6 +103,10 @@
 
 ### 使用教程
 
+#### Clash 使用教程
+
+[Windows](Clash/Clash_Windows.md)  |  [Mac](SSR/Clash_Mac.md) |  [Android](Clash/Clash_Android.md) 
+
 #### Shadowsocks 使用教程
 
 [Windows](SS/2-windows-setup-guide-cn.md)  |  [macOS](SS/3-macos-setup-guide-cn.md)  |  [iOS](SS/4-ios-setup-guide-cn.md)  |  [Android](SS/5-android-setup-guide-cn.md)  |  [Linux](SS/6-linux-setup-guide-cn.md)
@@ -113,7 +117,8 @@
 
 #### V2ray 使用教程
 
-TODO
+[Windows](V2ray/V2rayN_Windows.md)  |  [Android](V2ray/V2ray_Android.md) 
+
 
 #### 其它教程
 
