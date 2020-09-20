@@ -106,7 +106,7 @@
 
 #### Clash 使用教程
 
-[Windows](Clash/Clash_Windows.md)  |  [Mac](SSR/Clash_Mac.md) |  [Android](Clash/Clash_Android.md) 
+[Windows](Clash/Clash_Windows.md)  |  [Mac](Clash/Clash_Mac.md) |  [Android](Clash/Clash_Android.md) 
 
 #### Shadowsocks 使用教程
 
