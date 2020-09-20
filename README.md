@@ -18,6 +18,7 @@
 	- [4. 直连网站](#4-直连)
 - [工具下载](#工具下载)
 - [使用教程](#使用教程)
+	- [Clash 使用教程](#Clash-使用教程)
 	- [Shadowsocks 使用教程](#shadowsocks-使用教程)
 	- [ShadowsockR 使用教程](#shadowsockR-使用教程)
 	- [V2ray 使用教程](#v2ray-使用教程)
