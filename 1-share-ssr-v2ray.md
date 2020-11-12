@@ -21,7 +21,7 @@
 | [木瓜云](http://suo.im/6kE2vb)     | 无       | ✅        | ❌       | 注册送200G，一元包月         |
 | [蒲云](http://l5o.cn/?if3d02)     | 无       | ✅        | ❌       | 送一个月会员，可以体验一下         |
 | [中信加速器](http://suo.im/6xCHr6)     | 无       | ✅        | ❌       | 速度延迟稳定，每月签到能有3G左右，送500M邀请码：XYKZ9         |
-| [箭鱼云](http://suo.im/6x1Fpm)         | 无       | ✅        | ❌        | 速度稳定         |
+| [飞鸟云](http://suo.im/6x1Fpm)         | 无       | ✅        | ❌        | 原：箭鱼云         |
 | [SockBoom](http://suo.im/5vAANX)         | 无       | ✅        | ❌        | 白菜价套餐 |
 | [速鹰666](http://suo.im/5VkP5z)         | 无       | ✅        | ❌        | 注册送10G |
 | [好好学习](http://suo.im/6vexcN)         | 无       | ✅        | ❌        | 节点多，用户多         |
