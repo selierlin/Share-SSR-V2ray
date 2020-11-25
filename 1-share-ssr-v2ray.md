@@ -14,17 +14,16 @@
 
 > 有的机场刚刚开的，会员人数不多的，网站域名奇葩的，建议大家只充值短时间的套餐，在充值前可以加入机场的官方群或者TG群组
 
-| 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
+| 名称                                                         | 试用天数 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [中信加速器](https://api.233fly.com:39786/main_page?aff=XYKZ9&c=1)     | 无       | ✅        | ❌       | 速度延迟稳定，每月签到能有3G左右，送500M邀请码：XYKZ9         |
 | [速鹰666(极客云)](https://jike0.com/auth/register?code=kP24)         | 无       | ✅        | ❌        | 注册送10G |
-| [西部世界](https://xbsj9895.xyz/i/iv200315/NYyp0Iw)         | 无       | ✅        | ❌        | 验证邮箱送6天会员        |
+| [西部世界](https://xbsj9895.xyz/i/iv200315/NYyp0Iw)         | 6       | ✅        | ❌        | 验证邮箱送6天会员，推荐        |
 | [飞鸟云](https://yy-vm.yuyu.cool/auth/register?code=HN8t)         | 无       | ✅        | ❌        | 原：箭鱼云         |
-| [凿壁偷光](https://hi.ssrcf.top/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，上百个节点，用户多         |
-| [好好学习](https://vip.600mbps.xyz/register?aff=73688)         | 无       | ✅        | ❌        | 节点多，用户多         |
-| [SockBoom](https://sockboom.mobi/auth/register?affid=96955)         | 无       | ✅        | ❌        | 白菜价套餐 |
+| [凿壁偷光](https://hi.ssrcf.top/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，用户多         |
+| [SockBoom](https://sockboom.mobi/auth/register?affid=96955)         | 1       | ✅        | ❌        | 白菜价套餐 |
 | [Miaona!](https://miaona.xyz/#/register/aal4G8rw)     | 无       | ✅        | ❌       | 六折优惠码：Miaona!涅槃，6元一个月，18元一季         |
-| [木瓜云](https://xn--9kq521dyvj.com/auth/register?code=Qqj0)     | 无       | ✅        | ❌       | 注册送200G，一元包月         |
+| [木瓜云](https://xn--9kq521dyvj.com/auth/register?code=Qqj0)     | 无       | ✅        | ❌       | 注册送200G，白嫖的免费机场         |
 | [筋斗云](https://jdycloud.xyz/auth/register?code=k56R)     | 无       | ✅        | ❌       | 注册送30G，每天签到送1GB-5GB流量         |
 | [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ❌       | 注册送10G，每日签到送1-7G流量         |
 
