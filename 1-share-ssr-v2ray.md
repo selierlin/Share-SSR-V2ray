@@ -16,17 +16,17 @@
 
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [中信加速器](http://suo.im/6xCHr6)     | 无       | ✅        | ❌       | 速度延迟稳定，每月签到能有3G左右，送500M邀请码：XYKZ9         |
-| [速鹰666](http://suo.im/5VkP5z)         | 无       | ✅        | ❌        | 注册送10G |
-| [西部世界](http://suo.im/6oF4vd)         | 无       | ✅        | ❌        | 验证邮箱送6天会员        |
-| [飞鸟云](http://suo.im/6x1Fpm)         | 无       | ✅        | ❌        | 原：箭鱼云         |
-| [凿壁偷光](http://suo.im/6aj1QF)     | 无       | ✅        | ❌       | 老牌机场，上百个节点，用户多         |
-| [好好学习](http://suo.im/6vexcN)         | 无       | ✅        | ❌        | 节点多，用户多         |
-| [SockBoom](http://suo.im/5vAANX)         | 无       | ✅        | ❌        | 白菜价套餐 |
-| [Miaona!](http://suo.im/6sJ8ws)     | 无       | ✅        | ❌       | 六折优惠码：Miaona!涅槃，6元一个月，18元一季         |
-| [木瓜云](http://suo.im/6kE2vb)     | 无       | ✅        | ❌       | 注册送200G，一元包月         |
-| [筋斗云](http://suo.im/5YJbw1)     | 无       | ✅        | ❌       | 注册送30G，每天签到送1GB-5GB流量         |
-| [优云666](http://suo.im/5uIWbj)     | 无       | ✅        | ❌       | 注册送10G，每日签到送1-7G流量         |
+| [中信加速器](https://api.233fly.com:39786/main_page?aff=XYKZ9&c=1)     | 无       | ✅        | ❌       | 速度延迟稳定，每月签到能有3G左右，送500M邀请码：XYKZ9         |
+| [速鹰666](https://suying666.net/auth/register?code=MwSm)         | 无       | ✅        | ❌        | 注册送10G |
+| [西部世界](https://xbsj9895.xyz/i/iv200315/NYyp0Iw)         | 无       | ✅        | ❌        | 验证邮箱送6天会员        |
+| [飞鸟云](https://yy-vm.yuyu.cool/auth/register?code=HN8t)         | 无       | ✅        | ❌        | 原：箭鱼云         |
+| [凿壁偷光](https://hi.ssrcf.top/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，上百个节点，用户多         |
+| [好好学习](https://vip.600mbps.xyz/register?aff=73688)         | 无       | ✅        | ❌        | 节点多，用户多         |
+| [SockBoom](https://sockboom.mobi/auth/register?affid=96955)         | 无       | ✅        | ❌        | 白菜价套餐 |
+| [Miaona!](https://miaona.xyz/#/register/aal4G8rw)     | 无       | ✅        | ❌       | 六折优惠码：Miaona!涅槃，6元一个月，18元一季         |
+| [木瓜云](https://xn--9kq521dyvj.com/auth/register?code=Qqj0)     | 无       | ✅        | ❌       | 注册送200G，一元包月         |
+| [筋斗云](https://jdycloud.xyz/auth/register?code=k56R)     | 无       | ✅        | ❌       | 注册送30G，每天签到送1GB-5GB流量         |
+| [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ❌       | 注册送10G，每日签到送1-7G流量         |
 
 
 
@@ -71,6 +71,8 @@
 | [FreeV2ray](https://view.freev2ray.org/)               | 天       | ❌        | ❌        | 推荐                |
 
 链接分享：
+
+vmess://eyJhZGQiOiIyMy45Ny42Ny4xNzQiLCJhaWQiOiIyIiwiaG9zdCI6IkhLMDMtMS1LUEJBUC4yMzNjbG91ZC1ub2RlLmNvbSIsImlkIjoiNDBkMjQ1YzctMTM4Zi0zYTI1LWFhMjYtMmJiY2JmNGExN2FmIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5LzIzM3l1bi54eXoiLCJwb3J0IjoiMjMzIiwicHMiOiLpppnmuK98VEfpopHpgZMoQGJhaXBpYW9qaWVkaWFuKSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiIxMy4yNDguMTYwLjExMyIsImFpZCI6IjIiLCJob3N0IjoiIiwiaWQiOiI1Y2YzMzVkOS1mNzgzLTRkOTUtODliMi04OThmZWM0YjE5ZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6Iummmea4rzN8VEfpopHpgZMoQGJhaXBpYW9qaWVkaWFuKSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
@@ -117,6 +119,9 @@ vmess://eyJhZGQiOiIxMjAuMjMyLjE2My4xMjUiLCJhaWQiOiIyIiwiaG9zdCI6IiIsImlkIjoiMTMx
 [SSR SHARE | 免费SSR](https://t.me/gyjclub)
 
 [MTPROTO公益TG代理发放频道](https://t.me/onessr)
+
+[每天白嫖节点订阅](https://t.me/baipiaojiedian)
+
 
 注：如果需要相关工具，请 [点击此处](https://github.com/selierlin/Share-SSR-V2ray/blob/master/tools.md)
 
