@@ -22,7 +22,6 @@
 | [飞鸟云](https://yy-vm.yuyu.cool/auth/register?code=HN8t)         | 无       | ✅        | ❌        | 原：箭鱼云         |
 | [凿壁偷光](https://hi.ssrcf.top/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，用户多         |
 | [SockBoom](https://sockboom.mobi/auth/register?affid=96955)         | 1       | ✅        | ❌        | 白菜价套餐 |
-| [Miaona!](https://miaona.xyz/#/register/aal4G8rw)     | 无       | ✅        | ❌       | 六折优惠码：Miaona!涅槃，6元一个月，18元一季         |
 | [木瓜云](https://xn--9kq521dyvj.com/auth/register?code=Qqj0)     | 无       | ✅        | ❌       | 注册送200G，白嫖的免费机场         |
 | [筋斗云](https://jdycloud.xyz/auth/register?code=k56R)     | 无       | ✅        | ❌       | 注册送30G，每天签到送1GB-5GB流量         |
 | [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ❌       | 注册送10G，每日签到送1-7G流量         |
