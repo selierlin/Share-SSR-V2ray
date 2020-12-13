@@ -10,6 +10,13 @@
 使用方法参考：[使用教程](README.md#使用教程)
 
 
+### 临时分享节点
+
+由于临时存在时效性，且分享的节点占用空间过多，所以我将使用文档的形式分享。
+
+[查看节点分享](https://docs.qq.com/doc/DZHZKdlN6V3BrSll2)
+
+
 ### 注册站点
 
 > 有的机场刚刚开的，会员人数不多的，网站域名奇葩的，建议大家只充值短时间的套餐，在充值前可以加入机场的官方群或者TG群组
@@ -66,20 +73,6 @@
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [放牧的风](https://www.youneed.win/free-v2ray)               | 天       | ❌        | ✅        | 推荐                |
 | [FreeV2ray](https://view.freev2ray.org/)               | 天       | ❌        | ❌        | 推荐                |
-
-链接分享：
-
-vmess://eyJhZGQiOiIyMy45Ny42Ny4xNzQiLCJhaWQiOiIyIiwiaG9zdCI6IkhLMDMtMS1LUEJBUC4yMzNjbG91ZC1ub2RlLmNvbSIsImlkIjoiNDBkMjQ1YzctMTM4Zi0zYTI1LWFhMjYtMmJiY2JmNGExN2FmIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YycmF5LzIzM3l1bi54eXoiLCJwb3J0IjoiMjMzIiwicHMiOiLpppnmuK98VEfpopHpgZMoQGJhaXBpYW9qaWVkaWFuKSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxMy4yNDguMTYwLjExMyIsImFpZCI6IjIiLCJob3N0IjoiIiwiaWQiOiI1Y2YzMzVkOS1mNzgzLTRkOTUtODliMi04OThmZWM0YjE5ZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6Iummmea4rzN8VEfpopHpgZMoQGJhaXBpYW9qaWVkaWFuKSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxNTguMjQ3LjE5My4xMTUiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYWI2Y2Q2Y2YtMDA0MS00MTZmLWI3YjMtYTI0Njc0YTNkOWJlIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDI5MDgiLCJwcyI6Iue+juWbvXxUR+mikemBkyhAYmFpcGlhb2ppZWRpYW4pIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiI4LjIxMC4xMzYuMTAxIiwiYWlkIjoiMSIsImhvc3QiOiJzNzIuc25vZGUueHl6IiwiaWQiOiI5N2Y1ZjA0MS00MDgwLTNmYmUtOWUxMS03NGIyYzlkOTQzMjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGFuZWwiLCJwb3J0IjoiNDQzIiwicHMiOiLmlrDliqDlnaEyfFlvdVR1YmXljrvlub/lkYp8VEfpopHpgZMoQGJhaXBpYW9qaWVkaWFuKSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiI4LjIxMC4xNjkuMjA5IiwiYWlkIjoiMSIsImhvc3QiOiJzMTIxLnNub2RlLnh5eiIsImlkIjoiOTdmNWYwNDEtNDA4MC0zZmJlLTllMTEtNzRiMmM5ZDk0MzIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhbmVsIiwicG9ydCI6IjQ0MyIsInBzIjoi5paw5Yqg5Z2hfFlvdVR1YmXljrvlub/lkYp8VEfpopHpgZMoQGJhaXBpYW9qaWVkaWFuKSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxMjAuMjMyLjE2My4xMjUiLCJhaWQiOiIyIiwiaG9zdCI6IiIsImlkIjoiMTMxZThmZjEtYTQyMy0zZjFjLThhY2YtZGFmYTVjMmIzOTNjIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIxMTA5IiwicHMiOiLpppnmuK8xfFRH6aKR6YGTKEBiYWlwaWFvamllZGlhbikiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 
 ---
