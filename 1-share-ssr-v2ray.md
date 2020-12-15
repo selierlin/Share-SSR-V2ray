@@ -14,7 +14,7 @@
 
 由于临时存在时效性，且分享的节点占用空间过多，所以我将使用文档的形式分享。
 
-[查看节点分享](https://docs.qq.com/doc/DZHZKdlN6V3BrSll2)
+[查看节点分享](https://sourl.cn/rnXnck)
 
 
 ### 注册站点
