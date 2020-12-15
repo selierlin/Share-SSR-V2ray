@@ -31,6 +31,7 @@
 | [SockBoom](https://sockboom.mobi/auth/register?affid=96955)         | 1       | ✅        | ❌        | 白菜价套餐 |
 | [筋斗云](https://jdycloud.xyz/auth/register?code=k56R)     | 无       | ✅        | ❌       | 注册送30G，每天签到送1GB-5GB流量         |
 | [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ❌       | 注册送10G，每日签到送1-7G流量         |
+| [土狗云](http://inv.tudog.vip/0Vg5yO)     | 30       | ✅        | ❌       | 注册送一个月会员，节点挺多，先嫖起来         |
 
 
 
