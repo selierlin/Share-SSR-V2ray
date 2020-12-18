@@ -32,6 +32,8 @@
 | [筋斗云](https://jdycloud.xyz/auth/register?code=k56R)     | 无       | ✅        | ❌       | 注册送30G，每天签到送1GB-5GB流量         |
 | [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ❌       | 注册送10G，每日签到送1-7G流量         |
 | [土狗云](http://inv.tudog.vip/0Vg5yO)     | 30       | ✅        | ❌       | 注册送一个月会员，节点挺多，先嫖起来         |
+| [iKuuu](https://ikuuu.co/)     | 无       | ✅        | ❌       | 注册50G，每月重置一次，账号不过期         |
+
 
 
 
