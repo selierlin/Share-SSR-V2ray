@@ -27,7 +27,7 @@
 | [速鹰666(极客云)](https://jike0.com/auth/register?code=kP24)         | 无       | ✅        | ❌        | 注册送10G |
 | [西部世界](https://xbsj9895.xyz/i/iv201207/exxp8Un)         | 6       | ✅        | ❌        | 验证邮箱送6天会员，推荐        |
 | [飞鸟云](https://yy-vm.yuyu.cool/auth/register?code=HN8t)         | 无       | ✅        | ❌        | 原：箭鱼云         |
-| [凿壁偷光](https://hi.ssrcf.top/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，用户多         |
+| [凿壁偷光](https://v2.freeyes.xyz/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，用户多         |
 | [SockBoom](https://sockboom.mobi/auth/register?affid=96955)         | 1       | ✅        | ❌        | 白菜价套餐，节点多 |
 | [筋斗云](https://jdycloud.xyz/auth/register?code=k56R)     | 30       | ✅        | ❌       | 注册送30G，每天签到送1GB-5GB流量         |
 | [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ❌       | 注册送10G，每日签到送1-7G流量         |
