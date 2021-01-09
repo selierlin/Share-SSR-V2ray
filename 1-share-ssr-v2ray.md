@@ -34,6 +34,7 @@
 | [木瓜云](http://invcode.mugua.pro/0Vg69P)     | 无       | ✅        | ❌       | 注册后可0.50元购买青铜套餐，或者共享文档中有分享         |
 | [土狗云](http://inv.tudog.vip/0Vg5yO)     | 30       | ✅        | ❌       | 注册送一个月会员，节点挺多，先嫖起来         |
 | [iKuuu](https://ikuuu.co/)     | 无       | ✅        | ❌       | 注册50G，每月重置一次，账号不过期         |
+| [Miaona](https://miaona.xyz/#/register?code=ZG7cXgnE)     | 无       | ✅        | ❌       | 相对稳定         |
 
 
 
