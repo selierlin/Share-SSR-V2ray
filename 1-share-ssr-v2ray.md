@@ -31,10 +31,8 @@
 | [SockBoom](https://sockboom.mobi/auth/register?affid=96955)         | 1       | ✅        | ❌        | 白菜价套餐，节点多 |
 | [筋斗云](https://jdycloud.xyz/auth/register?code=k56R)     | 30       | ✅        | ❌       | 注册送30G，每天签到送1GB-5GB流量         |
 | [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ❌       | 注册送10G，每日签到送1-7G流量         |
-| [木瓜云](http://invcode.mugua.pro/0Vg69P)     | 无       | ✅        | ❌       | 注册后可0.50元购买青铜套餐，或者共享文档中有分享         |
-| [土狗云](http://inv.tudog.vip/0Vg5yO)     | 30       | ✅        | ❌       | 注册送一个月会员，节点挺多，先嫖起来         |
-| [iKuuu](https://ikuuu.co/)     | 无       | ✅        | ❌       | 注册50G，每月重置一次，账号不过期         |
 | [Miaona](https://miaona.xyz/#/register?code=ZG7cXgnE)     | 无       | ✅        | ❌       | 相对稳定         |
+| [Inss Cloud](https://inss.xyz/#/register?code=eVq3FHeO)     | 7       | ✅        | ❌       | 注册送20G         |
 
 
 
