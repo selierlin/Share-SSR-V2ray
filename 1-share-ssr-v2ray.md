@@ -33,8 +33,7 @@
 | [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ❌       | 注册送10G，每日签到送1-7G流量         |
 | [Miaona](https://miaona.xyz/#/register?code=ZG7cXgnE)     | 无       | ✅        | ❌       | 相对稳定         |
 | [Inss Cloud](https://inss.xyz/#/register?code=eVq3FHeO)     | 7       | ✅        | ❌       | 注册送20G         |
-
-
+| [闪电](https://freemycloud.me/auth/register?code=RCob)     | 0       | ✅        | ❌       | 注册送10G，无免费套餐         |
 
 
 ---
