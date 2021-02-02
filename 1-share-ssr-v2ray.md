@@ -30,7 +30,6 @@
 | [凿壁偷光](https://v2.freeyes.xyz/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，用户多         |
 | [SockBoom](https://sockboom.mobi/auth/register?affid=96955)         | 1       | ✅        | ❌        | 白菜价套餐，节点多 |
 | [Miaona](https://miaona.xyz/#/register?code=ZG7cXgnE)     | 无       | ✅        | ❌       | 相对稳定         |
-| [闪电](https://freemycloud.me/auth/register?code=RCob)     | 0       | ✅        | ❌       | 注册送10G，无免费套餐         |
 | [筋斗云](https://jdycloud.xyz/auth/register?code=k56R)     | 30       | ✅        | ❌       | 注册送30G，每天签到送1GB-5GB流量         |
 | [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ❌       | 注册送10G，每日签到送1-7G流量         |
 | [Inss Cloud](https://inss.xyz/#/register?code=eVq3FHeO)     | 7       | ✅        | ❌       | 注册送20G，白菜价         |
