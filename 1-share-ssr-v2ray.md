@@ -26,8 +26,8 @@
 | [中信加速器](https://api.233fly.com:39786/main_page?aff=XYKZ9&c=1)     | 无       | ✅        | ❌       | 速度延迟稳定，每月签到能有3G左右，送500M邀请码：XYKZ9         |
 | [极客云](https://jike0.com/auth/register?code=kP24)         | 无       | ✅        | ❌        | 注册送10G |
 | [西部世界](https://xbsj9895.xyz/i/iv201207/exxp8Un)         | 6       | ✅        | ❌        | 验证邮箱送会员，推荐        |
-| [飞鸟云](https://yy-vm.yuyu.cool/auth/register?code=HN8t)         | 无       | ✅        | ❌        | 稳定的机场         |
-| [凿壁偷光](https://v2.freeyes.xyz/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，用户多         |
+| [飞鸟云](https://yy-vm.yuyu.cool/auth/register?code=HN8t)         | 无       | ✅        | ❌        | 付费机场，速度稳定         |
+| [凿壁偷光](https://v2.freeyes.xyz/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，节点多，用户多速度不稳定，不建议充值         |
 | [SockBoom](https://sockboom.mobi/auth/register?affid=96955)         | 1       | ✅        | ❌        | 白菜价套餐，节点多 |
 | [Miaona](https://miaona.xyz/#/register?code=ZG7cXgnE)     | 无       | ✅        | ❌       | 相对稳定         |
 | [筋斗云](https://jdycloud.xyz/auth/register?code=k56R)     | 30       | ✅        | ❌       | 注册送30G，每天签到送1GB-5GB流量         |
@@ -35,6 +35,7 @@
 | [Inss Cloud](https://inss.xyz/#/register?code=eVq3FHeO)     | 7       | ✅        | ❌       | 注册送20G，白菜价         |
 | [土狗云](http://inv.tudog.vip/0VAxZo)     | 30       | ✅        | ❌       | 白嫖机场，容易跑路，建议不充值         |
 | [养殖场](https://yangzhichang.buzz/#/register?code=fypTK7zs)     | 1       | ✅        | ❌       | 白嫖，注册送1T         |
+| [FRANXX](https://www.franxx.cloud/auth/register?code=eeey)     | 15       | ✅        | ❌       | 等级提示到期无视，可正常用         |
 
 
 ---
