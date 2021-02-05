@@ -77,6 +77,7 @@
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [放牧的风](https://www.youneed.win/free-v2ray)               | 天       | ❌        | ✅        | 推荐                |
 | [FreeV2ray](https://view.freev2ray.org/)               | 天       | ❌        | ❌        | 推荐                |
+| [Free Proxies](https://proxypoolsstest.herokuapp.com/)               | 天       | ❌        | ❌        | 推荐                |
 
 
 ---
