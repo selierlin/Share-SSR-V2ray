@@ -36,7 +36,7 @@
 | [土狗云](http://inv.tudog.vip/0VAxZo)     | 30       | ✅        | ❌       | 白嫖机场，容易跑路，建议不充值         |
 | [养殖场](https://yangzhichang.buzz/#/register?code=fypTK7zs)     | 1       | ✅        | ❌       | 白嫖，注册送1T         |
 | [FRANXX](https://www.franxx.cloud/auth/register?code=eeey)     | 15       | ✅        | ❌       | 等级提示到期无视，可正常用         |
-| [AntLint蚁链](https://antlink.cc/register?aff=847)     | 30       | ✅        | ❌       | 注册可白嫖1元套餐50G         |
+| [AntLint蚁链](https://antlink.cc/register?aff=847)     | 30       | ✅        | ❌       | 注册可白嫖1元套餐送50G         |
 
 
 ---
