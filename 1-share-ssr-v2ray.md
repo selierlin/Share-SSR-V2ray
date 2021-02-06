@@ -45,8 +45,6 @@
 
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [the0demiurge爬虫账号](http://ss.pythonic.life/)         | 天       | ❌        | ✅       | 推荐         |
-| [FreeSS](https://my.freess.info/)         | 天       | ❌        | ✅        | 推荐         |
 | [free-ss](https://free-ss.site/)                           | 时       | ❌        | ✅        | ss@rohankdd.com |
 | [放牧的风](https://www.youneed.win/free-ss)         | 天       | ❌        | ✅        | 推荐         |
 | [iShadow](https://get.ishadowx.biz/)                           | 6小时    | ❌        | ❌        | 位于页面中间 |
@@ -58,15 +56,12 @@
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [Free Proxies](https://proxypoolsstest.herokuapp.com/)               | 天       | ❌        | ❌        | 推荐                |
-| [Get SSR](https://jichangdaquan.com/node/429.html)         | 天       | ❌        | ✅        | 推荐         |
 | [放牧的风](https://www.youneed.win/free-ssr)         | 天       | ❌        | ✅        | 推荐         |
 | [免费节点 Incn](https://lncn.org/)                           | 周       | ❌        | ✅        |            |
-| [Github/gfw-breaker](https://github.com/gfw-breaker/ssr-accounts) | 周       | ❌        | ❌        |              |
+| [Github/Alvin9999](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) | 周       | ❌        | ❌        |              |
 | [ssrshare.com分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/) | 天       | ❌        | ✅       |              |
-| [ssrshare.com分享网站](https://www.ssrtool.com/tool/free_ssr) | 天       | ❌        | ✅        |              |
+| [ssrshare.com分享网站](https://ssrtool.us/tool/free_ssr) | 天       | ❌        | ✅        |              |
 | [翻墙党论坛](https://fanqiangdang.com/)                      | 天       | ✅        | ✅        |              |
-| [逗比根据地分享](https://doubibackup.com/95f80__8.html)   | 3天      | ❌        | ✅        |                                      |
-| [GRIGOR'S](https://gdmi.weebly.com/3118523398online.html) | 未知     | ❌        | ✅       | 包含教程                             |
 
 
 ---
@@ -77,8 +72,8 @@
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [放牧的风](https://www.youneed.win/free-v2ray)               | 天       | ❌        | ✅        | 推荐                |
-| [FreeV2ray](https://view.freev2ray.org/)               | 天       | ❌        | ❌        | 推荐                |
 | [Free Proxies](https://proxypoolsstest.herokuapp.com/)               | 天       | ❌        | ❌        | 推荐                |
+| [FreeV2ray](https://view.freev2ray.org/)               | 天       | ❌        | ❌        |                 |
 
 
 ---
@@ -96,27 +91,27 @@
 3. 登录账号，添加下面的群组
 4. 添加一个 **TG代理** 后可不用翻就可以上网了
 
-[SS/SSR/TG代理分享](https://t.me/SSRSUB)
+[SS/SSR/V2ray/Trojan/TG代理订阅分享](https://t.me/SSRSUB)
 
-[SSR节点国际共享](https://t.me/ShadowsocksRssr)
+[SSR节点国际共享🚀](https://t.me/ShadowsocksRssr)
 
-[SS节点公益发放](https://t.me/ssList)
+[SS节点公益发放🚀](https://t.me/ssList)
 
-[SSR节点公益发放](https://t.me/ssrList)
+[SSR节点免费发放🚀](https://t.me/ssrList)
 
-[2ray,Vmess节点免费发放](https://t.me/V2List)
+[V2ray,Vmess节点免费发放🚀](https://t.me/V2List)
 
-[Share-SSR-V2ray](https://t.me/Share-SSR-V2ray)
-
-[SSR V2ray Share](https://t.me/freeshadowsock)
+[SSR V2ray Share ✈️](https://t.me/freeshadowsock)
 
 [TG代理（直连telegram）](https://t.me/socks5list)
 
-[SSR SHARE | 免费SSR](https://t.me/gyjclub)
+[SSR SHARE | 免费SSR](https://t.me/ssrshares)
 
-[MTPROTO公益TG代理发放频道](https://t.me/onessr)
+[MTPROTO公益TG代理发布频道](https://t.me/onessr)
 
 [每天白嫖节点订阅](https://t.me/baipiaojiedian)
+
+[全球互联网节点中心✈️](https://t.me/ShareCentre)
 
 
 注：如果需要相关工具，请 [点击此处](https://github.com/selierlin/Share-SSR-V2ray/blob/master/tools.md)
