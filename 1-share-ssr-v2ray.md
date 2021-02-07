@@ -9,6 +9,7 @@
 
 使用方法参考：[使用教程](README.md#使用教程)
 
+---
 
 ### 节点分享
 
@@ -16,6 +17,7 @@
 
 [共享节点](http://mtw.so/6paLum)
 
+---
 
 ### 注册站点
 
@@ -115,6 +117,8 @@
 
 [全球互联网节点中心✈️](https://t.me/ShareCentre)
 
+
+---
 
 注：如果需要相关工具，请 [点击此处](https://github.com/selierlin/Share-SSR-V2ray/blob/master/tools.md)
 
