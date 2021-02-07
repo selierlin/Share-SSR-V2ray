@@ -39,7 +39,7 @@
 | [养殖场](https://yangzhichang.buzz/#/register?code=fypTK7zs)     | 1       | ✅        | ❌       | 白嫖，注册送1T         |
 | [FRANXX](https://www.franxx.cloud/auth/register?code=eeey)     | 15       | ✅        | ❌       | 等级提示到期无视，可正常用         |
 | [AntLint蚁链](https://antlink.cc/register?aff=847)     | 30       | ✅        | ❌       | 注册可白嫖1元套餐送50G         |
-
+| [橘子Cloud](http://www.orange88.xyz//auth/register?code=uoMn)     | 1       | ✅        | ❌       | 新开的机场人少速度不错，可以嫖一天         |
 
 ---
 
