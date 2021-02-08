@@ -95,6 +95,8 @@
 
 ### 工具下载
 
+> 收集有多种平台的工具及官网
+
 [工具下载](tools.md)
 
 
@@ -119,12 +121,17 @@
 
 [Windows](V2ray/V2rayN_Windows.md)  |  [Android](V2ray/V2ray_Android.md) 
 
+#### QV2ray 使用教程
+
+[TODO:Windows](QV2ray/QV2ray_Windows.md)
 
 #### 其它教程
 
-[Firefox Quantum 设置教程 (Proxy SwitchyOmega)](Other/7-1-firefox-setup-guide-cn.md)
+##### Proxy SwitchyOmega设置教程
 
-[Chrome 设置教程 (Proxy SwitchyOmega) ](Other/7-2-chrome-setup-guide-cn.md)  
+[Chrome](Other/7-2-chrome-setup-guide-cn.md)  |  [Firefox](Other/7-1-firefox-setup-guide-cn.md)
+
+
 
 [Proxifier 设置教程](Other/8-proxifier-settings.md)
 
