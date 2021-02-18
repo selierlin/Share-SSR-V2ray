@@ -38,7 +38,6 @@
 | [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ❌       | 注册送10G，每日签到送1-7G流量         |
 | [Inss Cloud](https://inss.xyz/#/register?code=eVq3FHeO)     | 7       | ✅        | ❌       | 注册送20G，白菜价         |
 | [土狗云](http://inv.tudog.vip/0VAxZo)     | 30       | ✅        | ❌       | 白嫖机场，容易跑路，建议不充值         |
-| [养殖场](https://yangzhichang.buzz/#/register?code=fypTK7zs)     | 1       | ✅        | ❌       | 白嫖，注册送1T         |
 | [FRANXX](https://www.franxx.cloud/auth/register?code=eeey)     | 15       | ✅        | ❌       | 等级提示到期无视，可正常用         |
 | [AntLint蚁链](https://antlink.cc/register?aff=847)     | 30       | ✅        | ❌       | 注册可白嫖1元套餐送50G         |
 | [橘子Cloud](http://8010.xyz/auth/register?code=uoMn) | 1       | ✅        | ❌       | 新开的机场人少速度不错，可以嫖一天         |
