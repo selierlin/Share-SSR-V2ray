@@ -40,7 +40,6 @@
 | [土狗云](http://inv.tudog.vip/0VAxZo)     | 30       | ✅        | ❌       | 白嫖机场，容易跑路，建议不充值         |
 | [FRANXX](https://www.franxx.cloud/auth/register?code=eeey)     | 15       | ✅        | ❌       | 等级提示到期无视，可正常用         |
 | [AntLint蚁链](https://antlink.cc/register?aff=847)     | 30       | ✅        | ❌       | 注册可白嫖1元套餐送50G         |
-| [橘子Cloud](http://8010.xyz/auth/register?code=uoMn) | 1       | ✅        | ❌       | 新开的机场人少速度不错，可以嫖一天         |
 
 ---
 
