@@ -35,7 +35,7 @@
 | [飞鸟云](https://yy-vm.yuyu.cool/auth/register?code=HN8t)         | 无       | ✅        | ❌        | 付费机场，速度稳定         |
 | [凿壁偷光](https://v2.freeyes.xyz/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，节点多，用户多速度不稳定，不建议充值         |
 | [Miaona](https://miaona.xyz/#/register?code=ZG7cXgnE)     | 无       | ✅        | ❌       | 相对稳定         |
-| [筋斗云](https://jdycloud.xyz/auth/register?code=k56R)     | 30       | ✅        | ❌       | 注册送30G，每天签到送1GB-5GB流量         |
+| [筋斗云](https://jdy666.xyz/auth/register?code=k56R)     | 30       | ✅        | ❌       | 注册送30G，每天签到送1GB-5GB流量         |
 | [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ❌       | 注册送10G，每日签到送1-7G流量         |
 | [土狗云](http://inv.tudog.vip/0VAxZo)     | 30       | ✅        | ❌       | 白嫖机场，容易跑路，建议不充值         |
 | [FRANXX](https://www.franxx.cloud/auth/register?code=eeey)     | 15       | ✅        | ❌       | 等级提示到期无视，可正常用         |
