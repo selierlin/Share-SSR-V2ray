@@ -32,7 +32,6 @@
 | [西部世界](https://xbsj9895.xyz/i/iv201207/exxp8Un)         | 6       | ✅        | ❌        | 验证邮箱送会员，推荐        |
 | [SockBoom](https://sockboom.lol/auth/register?affid=96955)         | 1       | ✅        | ❌        | 白菜价套餐，节点多 |
 | [Inss Cloud](https://inss.xyz/#/register?code=eVq3FHeO)     | 7       | ✅        | ❌       | 注册送20G，白菜价         |
-| [飞鸟云](https://yy-vm.yuyu.cool/auth/register?code=HN8t)         | 无       | ✅        | ❌        | 付费机场，速度稳定         |
 | [凿壁偷光](https://v2.freeyes.xyz/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，节点多，用户多速度不稳定，不建议充值         |
 | [Miaona](https://miaona.xyz/#/register?code=ZG7cXgnE)     | 无       | ✅        | ❌       | 相对稳定         |
 | [筋斗云](https://jdy666.xyz/auth/register?code=k56R)     | 30       | ✅        | ❌       | 注册送30G，每天签到送1GB-5GB流量         |
