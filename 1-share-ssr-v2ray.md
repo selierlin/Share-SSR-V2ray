@@ -36,7 +36,8 @@
 | [Miaona](https://miaona.xyz/#/register?code=ZG7cXgnE)     | 无       | ✅        | ❌       | 相对稳定         |
 | [筋斗云](https://jdy666.xyz/auth/register?code=k56R)     | 30       | ✅        | ❌       | 注册送30G，每天签到送1GB-5GB流量         |
 | [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ❌       | 注册送10G，每日签到送1-7G流量         |
-| [速蛙云](https://i.ok7.icu/2jj )     | 1       | ✅        | ❌       | 注册送1天会员，速度快，小流量年费套餐性价比高         |
+| [速蛙云](https://i.ok7.icu/2jj)     | 1       | ✅        | ❌       | 注册送1天会员，速度快，小流量年费套餐性价比高         |
+| [iKuuu](https://ikuuu.org/auth/register)     | 无限       | ✅        | ❌       | 每月50G         |
 
 ---
 
