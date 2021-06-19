@@ -38,7 +38,7 @@
 | [速蛙云](https://i.ok7.icu/2jj)     | 1       | ✅        | ❌       | 注册送1天会员，速度快，小流量年费套餐性价比高         |
 | [iKuuu](https://ikuuu.org/auth/register)     | 无限       | ✅        | ❌       | 每月50G         |
 | [在人间](https://www.lovefromgelifen.xyz/#/register?code=8PJFt15j)     | 无       | ✅        | ❌       | 无试用，节点质量高且不满意可全额退         |
-| [BITEB](https://biteb.me/auth/register?code=PJsT)     | 7       | ✅        | ❌       | 注册送7天100G         |
+| [BITEB](https://biteb.me/auth/register?code=PJsT)     | 7       | ✅        | ❌       | 注册送7天100G，不验证邮箱         |
 
 
 ---
