@@ -31,8 +31,6 @@
 | [极客云](https://jike138.com/auth/register?code=kP24)         | 无       | ✅        | ❌        | 注册送10G |
 | [西部世界](https://xbsj9895.xyz/i/iv201207/exxp8Un)         | 6       | ✅        | ❌        | 验证邮箱送会员，推荐        |
 | [SockBoom](https://sockboom.lol/auth/register?affid=96955)         | 1       | ✅        | ❌        | 白菜价套餐，节点多 |
-| [凿壁偷光](https://v2.freeyes.xyz/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，节点多，用户多速度不稳定，不建议充值         |
-| [Miaona](https://miaona.xyz/#/register?code=ZG7cXgnE)     | 无       | ✅        | ❌       | 相对稳定         |
 | [筋斗云](https://jdycloud.xyz/auth/register?code=k56R)     | 30       | ✅        | ❌       | 注册送30G，每天签到送1GB-5GB流量         |
 | [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ❌       | 注册送10G，每日签到送1-7G流量         |
 | [速蛙云](https://i.ok7.icu/2jj)     | 1       | ✅        | ❌       | 注册送1天会员，速度快，小流量年费套餐性价比高         |
