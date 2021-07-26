@@ -49,7 +49,7 @@
 
 > 临时访问谷歌，且不需要使用任何工具，缺点无法访问非谷歌站点
 
-[https://g.luciaz.me/extdomains/www.google.com](https://g.luciaz.me/extdomains/www.google.com)：【推荐】，需要验证答案，答案分别为【心灵之约】【水朝夕】【csxy@123】
+[https://g.luciaz.me/extdomains/www.google.com](https://g.luciaz.me/extdomains/www.google.com)：需要验证答案，答案分别为【心灵之约】【水朝夕】【csxy@123】，完成后会跳转google,然后收藏地址即可。
 
 [http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)：【推荐】
 
