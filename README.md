@@ -51,9 +51,9 @@
 
 [https://g.luciaz.me](https://g.luciaz.me/extdomains/www.google.com)：需要验证答案，答案分别为【心灵之约】【水朝夕】【csxy@123】，完成后会跳转google,然后收藏地址即可。
 
-[http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)：【推荐】
+[http://ac.scmor.com/](http://ac.scmor.com/)：【推荐】
 
-[http://ac.scmor.com/](http://ac.scmor.com/)
+[http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)：【推荐】
 
 
 其它镜像：
