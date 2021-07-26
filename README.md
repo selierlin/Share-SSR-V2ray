@@ -51,7 +51,6 @@
 
 [http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)：【推荐】
 
-[https://g.louqunhua.top/](https://g.louqunhua.top/)：【推荐】
 
 [http://ac.scmor.com/](http://ac.scmor.com/)
 
