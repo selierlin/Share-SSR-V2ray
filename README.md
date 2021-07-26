@@ -51,10 +51,8 @@
 
 [http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)：【推荐】
 
-
 [http://ac.scmor.com/](http://ac.scmor.com/)
 
-[https://google987.azurewebsites.net/](https://google987.azurewebsites.net/)
 
 其它镜像：
 
