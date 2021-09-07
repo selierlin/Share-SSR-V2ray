@@ -36,6 +36,7 @@
 | [iKuuu](https://ikuuu.org/auth/register)     | 无限       | ✅        | ✅       | 每月50G         |
 | [在人间](https://www.lovefromgelifen.xyz/#/register?code=8PJFt15j)     | 无       | ✅        | ❌       | 无试用，节点质量高且不满意可全额退         |
 | [BITEB](https://biteb.me/auth/register?code=PJsT)     | 7       | ✅        | ❌       | 注册送7天100G，不验证邮箱         |
+| [魔戒](https://www.mojie.me/)     | 无       | ✅        | ❌       | 1元套餐10流量不限时间         |
 
 
 ---
