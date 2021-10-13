@@ -37,6 +37,9 @@
 | [在人间](https://www.lovefromgelifen.xyz/#/register?code=8PJFt15j)     | 无       | ✅        | ❌       | 无试用，节点质量高且不满意可全额退         |
 | [Mianna](https://miaona.org/#/register?code=eemcSfbz)     | 无       | ✅        | ❌       | 百来节点在线，无试用，备选付费方案         |
 | [BITEB](https://biteb.me/auth/register?code=PJsT)     | 7       | ✅        | ❌       | 注册送7天100G，不验证邮箱         |
+| [闪电](https://sdyun.cc/) | 无 | ✅ | ❌ | 月费最低3.5 |
+| [Foxicloud](https://geilicloud.com/#/register?code=T2lvqwUp) | 无 | ✅ | ❌ | 4.88试用价 |
+| [小强云]() | 1 | ✅ | ❌ | 试用1天，月费3，66G流量 |
 | [魔戒](https://www.mojie.me/)     | 无       | ✅        | ❌       | 1元套餐10流量不限时间         |
 | [小白云](https://ninihao.xyz/auth/register?code=F0nX)     | 无       | ✅        | ❌       | 注册送100G及三个免费节点，套餐最低5元/月，备选         |
 | [蒲云](http://invcode.puyun.me/0VBEw7)     | 无       | ✅        | ❌       | 注册送100G，40+服务器，月费5元         |
