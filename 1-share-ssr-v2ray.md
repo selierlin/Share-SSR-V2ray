@@ -37,7 +37,6 @@
 | [速鹰666](https://suying222.net/auth/register?code=MwSm)     | 无       | ✅        | ❌       | 有推荐过，无免费节点，节点质量还可以 |
 | [BITEB](https://biteb.me/auth/register?code=PJsT)     | 7       | ✅        | ❌       | 注册送7天100G，不验证邮箱         |
 | [小强云](https://xqcloud.net/#/register?code=B9i21kYv) | 1 | ✅ | ❌ | 试用1天，月费3，66G流量 |
-| [魔戒](https://www.mojie.me/)     | 无       | ✅        | ❌       | 1元套餐10流量不限时间         |
 | [小白云](https://ninihao.xyz/auth/register?code=F0nX)     | 无       | ✅        | ❌       | 注册送100G及三个免费节点，套餐最低5元/月，备选         |
 
 ---
