@@ -33,8 +33,8 @@
 | [筋斗云(飞速云)](https://feisucloud.com/auth/register?code=CYgU)     | 30       | ✅        | ❌       | 注册送500M，每天签到最高送200M         |
 | [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ✅       | 注册送10G，每日签到送1-7G流量         |
 | [速蛙云](https://i.ok7.icu/2jj)     | 1       | ✅        | ❌       | 注册送1天会员，速度快，小流量年费套餐性价比高         |
-| [iKuuu](https://ikuuu.org/auth/register)     | 无限       | ✅        | ✅       | 每月50G         |
-| [在人间](https://www.lovefromgelifen.xyz/#/register?code=8PJFt15j)     | 无       | ✅        | ❌       | 无试用，节点质量高且不满意可全额退         |
+| [在人间](https://www.lovefromgelifen.xyz/#/register?code=8PJFt15j)     | 无       | ✅        | ❌       | 无试用，节点质量高         |
+| [速鹰666](https://suying222.net/auth/register?code=MwSm)     | 无       | ✅        | ❌       | 有推荐过，无免费节点，节点质量还可以 |
 | [Mianna](https://miaona.org/#/register?code=eemcSfbz)     | 无       | ✅        | ❌       | 百来节点在线，无试用，备选付费方案         |
 | [BITEB](https://biteb.me/auth/register?code=PJsT)     | 7       | ✅        | ❌       | 注册送7天100G，不验证邮箱         |
 | [闪电](https://sdyun.cc/) | 无 | ✅ | ❌ | 月费最低3.5 |
@@ -43,7 +43,6 @@
 | [魔戒](https://www.mojie.me/)     | 无       | ✅        | ❌       | 1元套餐10流量不限时间         |
 | [小白云](https://ninihao.xyz/auth/register?code=F0nX)     | 无       | ✅        | ❌       | 注册送100G及三个免费节点，套餐最低5元/月，备选         |
 | [蒲云](http://invcode.puyun.me/0VBEw7)     | 无       | ✅        | ❌       | 注册送100G，40+服务器，月费5元         |
-
 
 ---
 
