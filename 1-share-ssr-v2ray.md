@@ -28,16 +28,19 @@
 | 名称                                                         | 试用天数 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [中信加速器](https://api.233fly.com:39786/main_page?aff=XYKZ9&c=1)     | 无       | ✅        | ❌       | 速度延迟稳定，每月签到能有3G左右，送500M邀请码：XYKZ9         |
+| [速蛙云](https://i.ok7.icu/2jj)     | 1       | ✅        | ❌       | 注册送1天会员，速度快，年费套餐性价比高         |
 | [极客云](https://jike138.com/auth/register?code=kP24)         | 无       | ✅        | ❌        | 注册送10G |
 | [西部世界](https://xbsj6148.xyz/i/iv210923/exxp8Un)         | 6       | ✅        | ❌        | 验证邮箱送会员，推荐        |
 | [筋斗云(飞速云)](https://feisucloud.com/auth/register?code=CYgU)     | 30       | ✅        | ❌       | 注册送500M，每天签到最高送200M         |
-| [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ✅       | 注册送10G，每日签到送1-7G流量         |
-| [速蛙云](https://i.ok7.icu/2jj)     | 1       | ✅        | ❌       | 注册送1天会员，速度快，小流量年费套餐性价比高         |
-| [在人间](https://www.lovefromgelifen.xyz/#/register?code=8PJFt15j)     | 无       | ✅        | ❌       | 无试用，节点质量高         |
+| [优云666](https://youyun222.net/auth/register?code=8G2d) | 无       | ✅        | ❌      | 注册送10G，每日签到送1-7G流量         |
+| [飞鸟云](https://feiniaoyun.tk/#/register?code=03lzB4ck) | 1 | ✅ | ❌ | 试用1天1G，不验证邮箱 |
 | [速鹰666](https://suying222.net/auth/register?code=MwSm)     | 无       | ✅        | ❌       | 有推荐过，无免费节点，节点质量还可以 |
-| [BITEB](https://biteb.me/auth/register?code=PJsT)     | 7       | ✅        | ❌       | 注册送7天100G，不验证邮箱         |
-| [小强云](https://xqcloud.net/#/register?code=B9i21kYv) | 1 | ✅ | ❌ | 试用1天，月费3，66G流量 |
-| [小白云](https://ninihao.xyz/auth/register?code=F0nX)     | 无       | ✅        | ❌       | 注册送100G及三个免费节点，套餐最低5元/月，备选         |
+| [在人间](https://www.lovefromgelifen.xyz/#/register?code=8PJFt15j)     | 无       | ✅        | ❌       | 无试用         |
+| [小强云](https://xqcloud.net/#/register?code=B9i21kYv) | 1 | ✅ | ❌ | 试用1天，月费3，66G流量，不验证邮箱 |
+| [小白云](https://ninihao.xyz/auth/register?code=F0nX)     | 无       | ✅        | ❌       | 注册送100G及三个免费节点，不验证邮箱，备选   |
+| [灵魂云](https://www.linghunyun.com/#/register?code=19FjW9p4) | 2/24 | ✅ | ❌ | 只试用两小时，节点质量不错 |
+| [极简](https://www.wogg.site/auth/register?code=2saR) | 1 | ✅ | ❌ | 试用一天VIP1节点，不验证邮箱 |
+| [Teacat](https://teacat.cloud/#/register?code=U5wQIWFk) | 7 | ✅ | ❌ | 试用7天1G，流量有点少 |
 
 ---
 
@@ -47,7 +50,8 @@
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [free-ss](https://free-ss.site/)                           | 时       | ❌        | ✅        | ss@rohankdd.com |
 | [放牧的风](https://www.youneed.win/free-ss)         | 天       | ❌        | ✅        | 推荐         |
-| [iShadow](https://get.ishadowx.biz/)                           | 6小时    | ❌        | ❌        | 位于页面中间 |
+| [iShadow](https://get.ishadowx.biz/)                           | 6小时    | ❌        | ❌        | 位于图片中 |
+| [免费ss账号分享](https://freefq.com/free-ss/) | 天 | ❌ | ✅ |  |
 
 ---
 
@@ -55,12 +59,12 @@
 
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [Free Proxies](https://proxypoolsstest.herokuapp.com/)               | 天       | ❌        | ❌        | 推荐                |
+| ~~[Free Proxies](https://proxypoolsstest.herokuapp.com/)~~           | 天       | ❌        | ❌        | 推荐                |
 | [放牧的风](https://www.youneed.win/free-ssr)         | 天       | ❌        | ✅        | 推荐         |
 | [免费节点 Incn](https://lncn.org/)                           | 周       | ❌        | ✅        |            |
 | [Github/Alvin9999](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) | 周       | ❌        | ❌        |              |
-| [ssrshare.com分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/) | 天       | ❌        | ✅       |              |
-| [ssrshare.com分享网站](https://ssrtool.us/tool/free_ssr) | 天       | ❌        | ✅        |              |
+| ~~[ssrshare分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/)~~ | 天       | ❌        | ✅       |              |
+| [ssrshare分享网站](https://ssrtool.us/tool/free_ssr) | 天       | ❌        | ✅        |              |
 | [翻墙党论坛](https://fanqiangdang.com/)                      | 天       | ✅        | ✅        |              |
 
 
@@ -72,7 +76,7 @@
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [放牧的风](https://www.youneed.win/free-v2ray)               | 天       | ❌        | ✅        | 推荐                |
-| [Free Proxies](https://proxypoolsstest.herokuapp.com/)               | 天       | ❌        | ❌        | 推荐                |
+| ~~[Free Proxies](https://proxypoolsstest.herokuapp.com/)~~           | 天       | ❌        | ❌        | 推荐                |
 | [FreeV2ray](https://view.freev2ray.org/)               | 天       | ❌        | ❌        |                 |
 
 
