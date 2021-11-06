@@ -41,6 +41,8 @@
 | [灵魂云](https://www.linghunyun.com/#/register?code=19FjW9p4) | 2/24 | ✅ | ❌ | 只试用两小时，节点质量不错 |
 | [极简](https://www.wogg.site/auth/register?code=2saR) | 1 | ✅ | ❌ | 试用一天VIP1节点，不验证邮箱 |
 | [Teacat](https://teacat.cloud/#/register?code=U5wQIWFk) | 7 | ✅ | ❌ | 试用7天1G，流量有点少 |
+| [小鸟云](https://niaoyun.fun/auth/register?code=qmUm) | 30 | ✅ | ❌ | 白嫖，不验证邮箱，不建议充值 |
+| [上网课](https://shangwangke.org/auth/register?code=hRWc) | N | ✅ | ✅ | 白嫖无限制时间，需要绑定TG，不建议充值 |
 
 ---
 
