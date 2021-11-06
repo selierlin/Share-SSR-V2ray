@@ -125,9 +125,6 @@
 
 [Windows](V2ray/V2rayN_Windows.md)  |  [Android](V2ray/V2ray_Android.md) 
 
-#### QV2ray 使用教程
-
-[TODO:Windows](QV2ray/QV2ray_Windows.md)
 
 #### 其它教程
 
