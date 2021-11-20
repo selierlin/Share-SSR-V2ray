@@ -27,4 +27,4 @@
 
 [Stair SpeedTest](https://github.com/tindy2013/stairspeedtest-reborn/releases)：批量节点检测工具，支持单链接、订阅地址，支持SS\SSR\V2ray协议
 
-临时存储网盘：[城通网盘](https://url86.ctfile.com/d/34115386-45461308-909fa7)  密码: *ssrr*
+临时存储网盘：[OneDrive网盘](https://xiaobing-my.sharepoint.com/:f:/g/personal/if404_blay_tw/EjuJCuQm4DJCryNZxHi9wjsBDDJucpDVPL1OAu8Sb1OnuQ?e=BkkIJz)
