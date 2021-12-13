@@ -1,5 +1,7 @@
 **本文档仅为学习交流使用**
 
+![stars](https://img.shields.io/github/stars/selierlin/Share-SSR-V2ray.svg?style=social&label=Stars)
+
 本文档只保证可科学上网，并不保证稳定、速度。
 
 通过本文档您可以解决科学上网问题，但是这并不意味着是长期使用的方法，当你成功上网后，请另寻更加稳定的方法
