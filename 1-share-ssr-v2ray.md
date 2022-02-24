@@ -38,7 +38,7 @@
 | [在人间](https://www.lovefromgelifen.xyz/#/register?code=8PJFt15j)     | 无       | ✅        | ❌       | 无试用         |
 | [小强云](https://xqcloud.net/#/register?code=B9i21kYv) | 1 | ✅ | ❌ | 试用1天，月费3，66G流量，不验证邮箱 |
 | [灵魂云](https://www.linghunyun.com/#/register?code=19FjW9p4) | 2/24 | ✅ | ✅ | 只试用两小时，节点质量不错 |
-| [极简](https://www.wogg.site/auth/register?code=2saR) | 1 | ✅ | ✅ | 试用一天VIP1节点，不验证邮箱 |
+| [极简](https://www.wogg.site/auth/register?code=2saR) | 1 | ✅ | ❌ | 试用一天VIP1节点，不验证邮箱 |
 | [Teacat](https://teacat.cloud/#/register?code=U5wQIWFk) | 7 | ✅ | ❌ | 试用7天1G，流量有点少 |
 | [上网课](https://shangwangke.org/auth/register?code=hRWc) | N | ✅ | ✅ | 白嫖无限制时间，需要绑定TG，不建议充值 |
 
