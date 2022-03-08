@@ -47,7 +47,7 @@
 
 无法访问的可以点击这里，[下载地址](http://suo.im/5A56zM)  密码: *6j5h*
 
-安装方法：[百度经验](https://jingyan.baidu.com/article/a681b0de7ddd313b19434661.html)
+[插件安装方法](https://zhuanlan.zhihu.com/p/57484771)
 
 ---
 
