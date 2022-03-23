@@ -44,6 +44,7 @@
 | [蜂巢](https://666yun.men/#/register?code=iRQeBbd0) | 1 | ✅ | ❌ | 低价套餐 |
 | [TAG](https://user.taggood-5.xyz/#/register?code=vHc1PiPr) | 无 | ✅ | ❌ | 收费，年费性价比高 |
 | [ikuuu](https://ikuuu.co/user) | N | ✅ | ❌ | 注册送50G，免费5+节点 |
+| [澜云](https://ep.0318.cyou/#/register?code=Prr72kPG) | 2 | ✅ | ❌ | 注册送8G，有免费节点 |
 
 
 
