@@ -23,7 +23,7 @@ Proxifier 是一款功能非常强大的 socks5 客户端，可以让不支持�
 
 #### Windows 版本
 
-软件分为 Standard Edition 和 Portable Edition 版本，请自行购买注册码
+软件分为 Standard Edition 和 Portable Edition 版本，可在“工具下载”中找到对应工具
 
 #### macOS 版本
 
