@@ -45,7 +45,7 @@
 | [TAG](https://user.taggood-5.xyz/#/register?code=vHc1PiPr) | 无 | ✅ | ❌ | 收费，年费性价比高 |
 | [ikuuu](https://ikuuu.co/user) | N | ✅ | ❌ | 注册送50G，免费5+节点 |
 | [澜云](https://ep.0318.cyou/#/register?code=Prr72kPG) | 2 | ✅ | ❌ | 注册送8G，有免费节点 |
-| [VPROXY](https://vproxy.us/#/register?code=JDQZCQyc) | 365 | ✅ | ❌ | 注册送1T，免费5条节点 |
+| [VPROXY](https://vproxy.us/#/register?code=JDQZCQyc) | 365 | ✅ | ❌ | 注册送1T，免费2条节点 |
 | [魔戒](https://www.mojie.cyou/#/register?code=bpuw3ZbF) | 无 | ✅ | ❌ | 一元套餐10G永久流量,节点20+ |
 
 
