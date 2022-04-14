@@ -30,7 +30,6 @@
 | [速蛙云](https://i.ok7.icu/2jj)     | 1       | ✅        | ❌       | 注册送1天会员，速度快，年费套餐性价比高         |
 | [极客云](https://jike138.com/auth/register?code=kP24)         | 无       | ✅        | ❌        | 注册送10G |
 | [西部世界](https://wwsj1783.xyz/i/iv220329/nyj4nhA)         | 6       | ✅        | ❌        | 验证邮箱送会员，推荐        |
-| [筋斗云(飞速云)](https://feisucloud.net/auth/register?code=CYgU)     | 30       | ✅        | ❌       | 注册送500M，每天签到最高送200M         |
 | [优云666](https://youyun222.net/auth/register?code=8G2d) | 无       | ✅        | ❌      | 注册送10G，每日签到送1-7G流量         |
 | [飞鸟云](https://feiniaoyun.tk/#/register?code=03lzB4ck) | 1 | ✅ | ❌ | 试用1天1G，不验证邮箱 |
 | [速鹰666](https://suying222.net/auth/register?code=MwSm)     | 无       | ✅        | ❌       | 有推荐过，无免费节点，节点质量还可以 |
