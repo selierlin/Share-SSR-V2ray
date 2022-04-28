@@ -93,6 +93,8 @@
 
 [-jsproxy-](https://proxy.fan.workers.dev/)
 
+[-siteproxy-](https://linproxy.fan.workers.dev/)
+
 [-jsproxy1-](https://gamedun.github.io/)
 
 
