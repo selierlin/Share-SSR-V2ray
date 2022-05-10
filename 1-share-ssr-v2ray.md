@@ -29,22 +29,21 @@
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [速蛙云](https://i.ok7.icu/2jj)     | 1       | ✅        | ❌       | 注册送1天会员，速度快，年费套餐性价比高         |
 | [极客云](https://jike138.com/auth/register?code=kP24)         | 无       | ✅        | ❌        | 注册送10G |
-| [西部世界](https://wwsj1783.xyz/i/iv220329/nyj4nhA)         | 6       | ✅        | ❌        | 验证邮箱送会员，推荐        |
+| [西部世界](https://wwsj1783.xyz/i/iv220329/nyj4nhA)         | 6       | ✅        | ❌        | 验证邮箱试用会员6天，邮箱多的上 |
+| [速鹰666](https://suying222.net/auth/register?code=MwSm)     | 无       | ✅        | ❌       | 无免费节点，节点质量还可以 |
 | [优云666](https://youyun222.net/auth/register?code=8G2d) | 无       | ✅        | ❌      | 注册送10G，每日签到送1-7G流量         |
-| [飞鸟云](https://feiniaoyun.tk/#/register?code=03lzB4ck) | 1 | ✅ | ❌ | 试用1天1G，不验证邮箱 |
-| [速鹰666](https://suying222.net/auth/register?code=MwSm)     | 无       | ✅        | ❌       | 有推荐过，无免费节点，节点质量还可以 |
-| [在人间](https://www.lovefromgelifen.xyz/#/register?code=8PJFt15j)     | 无       | ✅        | ❌       | 无试用         |
+| [在人间](https://www.lovefromgelifen.xyz/#/register?code=8PJFt15j)     | 无       | ✅        | ❌       | 无试用，几年的机场 |
 | [小强云](https://xqcloud.net/#/register?code=B9i21kYv) | 1 | ✅ | ❌ | 试用1天，月费3，66G流量，不验证邮箱 |
-| [灵魂云](https://www.linghunyun.com/#/register?code=19FjW9p4) | 2/24 | ✅ | ✅ | 只试用两小时，节点质量不错 |
+| [Thired](https://www.51ssrr.cn/auth/register?code=YnwD) | 无 | ✅ | ❌ | 送2G流量，免费5节点，不验证邮箱 |
+| [飞鸟云](https://feiniaoyun.tk/#/register?code=03lzB4ck) | 1 | ✅ | ❌ | 试用1天1G，不验证邮箱 |
 | [极简](https://www.wogg.site/auth/register?code=2saR) | 1 | ✅ | ❌ | 试用一天VIP1节点，不验证邮箱 |
 | [Teacat](https://teacat.cloud/#/register?code=U5wQIWFk) | 7 | ✅ | ❌ | 试用7天1G，流量有点少 |
-| [上网课](https://shangwangke.org/auth/register?code=hRWc) | N | ✅ | ✅ | 白嫖无限制时间，需要绑定TG，不建议充值 |
-| [蜂巢](https://666yun.men/#/register?code=iRQeBbd0) | 1 | ✅ | ❌ | 低价套餐 |
-| [TAG](https://user.taggood-5.xyz/#/register?code=vHc1PiPr) | 无 | ✅ | ❌ | 收费，年费性价比高 |
+| [上网课](https://shangwangke.org/auth/register?code=eEYi) | N | ✅ | ✅ | 长久免费试用，不限制时间，绑定TG避免被删除 |
 | [ikuuu](https://ikuuu.co/user) | N | ✅ | ❌ | 注册送50G，免费5+节点 |
 | [澜云](https://ep.0318.cyou/#/register?code=Prr72kPG) | 2 | ✅ | ❌ | 注册送8G，有免费节点 |
-| [VPROXY](https://vproxy.us/#/register?code=JDQZCQyc) | 365 | ✅ | ❌ | 注册送1T，免费2条节点 |
 | [魔戒](https://www.mojie.cyou/#/register?code=bpuw3ZbF) | 无 | ✅ | ❌ | 一元套餐10G永久流量,节点20+ |
+| [泡泡Dog](https://www.paopao.dog/index.php#/register?code=0tGRqVWN) | 365 | ✅ | ❌ | 送11G，免费5+节点 |
+| [VPROXY](https://vproxy.us/#/register?code=JDQZCQyc) | 365 | ✅ | ❌ | 注册送1T，免费2条节点 |
 
 
 
