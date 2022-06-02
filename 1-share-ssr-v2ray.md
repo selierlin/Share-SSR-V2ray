@@ -34,7 +34,6 @@
 | [优云666](https://youyun222.net/auth/register?code=8G2d) | 无       | ✅        | ❌      | 注册送10G，每日签到送1-7G流量         |
 | [在人间](https://www.lovefromgelifen.xyz/#/register?code=8PJFt15j)     | 无       | ✅        | ❌       | 无试用，几年的机场 |
 | [小强云](https://xqcloud.net/#/register?code=B9i21kYv) | 1 | ✅ | ❌ | 试用1天，月费3，66G流量，不验证邮箱 |
-| [Thired](https://www.51ssrr.cn/auth/register?code=YnwD) | 无 | ✅ | ❌ | 送2G流量，免费5节点，不验证邮箱 |
 | [飞鸟云](https://feiniaoyun.tk/#/register?code=03lzB4ck) | 1 | ✅ | ❌ | 试用1天1G，不验证邮箱 |
 | [极简](https://www.wogg.site/auth/register?code=2saR) | 1 | ✅ | ❌ | 试用一天VIP1节点，不验证邮箱 |
 | [Teacat](https://teacat.cloud/#/register?code=U5wQIWFk) | 7 | ✅ | ❌ | 试用7天1G，流量有点少 |
