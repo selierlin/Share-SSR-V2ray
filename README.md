@@ -45,7 +45,7 @@
 
 [Google Helper](http://googlehelper.net/)
 
-无法访问的可以点击这里，[下载地址](http://suo.im/5A56zM)  密码: *6j5h*
+无法访问的可以打开网盘下载
 
 [插件安装方法](https://zhuanlan.zhihu.com/p/57484771)
 
