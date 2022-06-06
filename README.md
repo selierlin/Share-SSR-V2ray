@@ -7,7 +7,10 @@
 通过本文档您可以解决科学上网问题，但是这并不意味着是长期使用的方法，当你成功上网后，请另寻更加稳定的方法
 
 
-临时存储网盘：[OneDrive网盘](https://xiaobing-my.sharepoint.com/:f:/g/personal/if404_blay_tw/EjuJCuQm4DJCryNZxHi9wjsBDDJucpDVPL1OAu8Sb1OnuQ?e=BkkIJz)
+临时存储网盘：
+- [阿里云盘](https://www.aliyundrive.com/s/ZCjqydLAxhH)
+
+- [OneDrive网盘](https://xiaobing-my.sharepoint.com/:f:/g/personal/if404_blay_tw/EjuJCuQm4DJCryNZxHi9wjsBDDJucpDVPL1OAu8Sb1OnuQ?e=BkkIJz)
 
 
 ---
