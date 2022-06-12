@@ -84,11 +84,13 @@
 
 [老王猥屁恩](https://play.google.com/store/apps/details?id=com.findtheway)：自称永久免费，目前确实好用，支持安卓
 
-[UPX浏览器](https://play.google.com/store/apps/details?id=net.upx.proxy.browser&hl=zh)：一款自带科学上网的安卓浏览器
+[UPX浏览器](https://play.google.com/store/apps/details?id=net.upx.proxy.browser&hl=zh)：[APKPure](https://apkpure.com/cn/upx-unblock-sites-vpn-browser/net.upx.proxy.browser)一款自带科学上网的安卓浏览器
 
 [龙卷风浏览器](http://s1.longs1.vip/)：Windows端解决科学上网的浏览器
 
 [Chromium浏览器](https://github.com/jjqqkk/jjqqkk)：解决科学上网的浏览器（支持Windows和macOS），与上面的区别就是此浏览器的版本较高，现安装包名为：JJQQKK-2.6.7 ，安装的时候可能需要.net 4.6的环境，可以在网盘中下载安装
+
+[网易UU](https://uu.163.com/)：支持访问国外的学术网站，学生党可以上，需要注册以及实名认证，目前没有限制时间，具体可以 [查看教程](https://uu.baike.163.com/gonglue/320.html)
 
 ---
 
