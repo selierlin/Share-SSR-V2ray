@@ -29,7 +29,7 @@
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [速蛙云](https://i.sw6.red/2jj)     | 1       | ✅        | ❌       | 注册送1天会员，速度快，年费套餐性价比高         |
 | [极客云](https://jike138.com/auth/register?code=kP24)         | 无       | ✅        | ❌        | 注册送10G |
-| [西部世界](https://wwsj1783.xyz/i/iv220329/nyj4nhA)         | 6       | ✅        | ❌        | 验证邮箱试用会员6天，邮箱多的上 |
+| [西部世界](https://wwsj1783.xyz/i/iv220718/NYyp0Iw) | 6       | ✅        | ❌        | 验证邮箱试用会员6天，邮箱多的上 |
 | [速鹰666](https://suying222.net/auth/register?code=MwSm)     | 无       | ✅        | ❌       | 无免费节点，节点质量还可以 |
 | [优云666](https://youyun222.net/auth/register?code=8G2d) | 无       | ✅        | ❌      | 注册送10G，每日签到送1-7G流量         |
 | [SockBoom](https://sockboom.asia/auth/register?affid=96955) | 1       | ✅        | ❌        | 白菜价套餐，节点多 |
