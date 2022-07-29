@@ -35,7 +35,6 @@
 | [SockBoom](https://sockboom.asia/auth/register?affid=96955) | 1       | ✅        | ❌        | 白菜价套餐，节点多 |
 | [在人间](https://www.lovefromgelifen.xyz/#/register?code=8PJFt15j)     | 无       | ✅        | ❌       | 无试用，几年的机场 |
 | [小强云](https://xqcloud.net/#/register?code=B9i21kYv) | 1 | ✅ | ❌ | 试用1天，月费3，66G流量，不验证邮箱 |
-| [飞鸟云](https://feiniaoyun.tk/#/register?code=03lzB4ck) | 1 | ✅ | ❌ | 试用1天1G，不验证邮箱 |
 | [极简](https://www.wogg.site/auth/register?code=2saR) | 1 | ✅ | ❌ | 试用一天VIP1节点，不验证邮箱 |
 | [Teacat](https://teacat.cloud/#/register?code=U5wQIWFk) | 7 | ✅ | ❌ | 试用7天1G，流量有点少 |
 | [上网课](https://shangwangke.org/auth/register?code=eEYi) | N | ✅ | ✅ | 长久免费试用，不限制时间，绑定TG避免被删除 |
