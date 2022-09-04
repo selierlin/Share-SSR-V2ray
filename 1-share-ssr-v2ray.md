@@ -27,10 +27,11 @@
 
 | 名称                                                         | 试用天数 | 注册 | 需要翻墙 | 节点图 | 测速图     | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [比特云](https://bityun.org/#/register?code=5YL8siKE) | 🈚️ | ✅ | ✅ | [45元/季](files/speedtest/image-20220814140106143.png) | [20220816](files/speedtest/20220816-175612.png) | 节点多, 性价比高 |
-| [西部世界](https://wwsj1783.xyz/i/iv220807/NYyp0Iw) | 6       | ✅      | ❌        | [试用套餐](files/speedtest/image-20220808102753597.png) | [20220816](files/speedtest/20220816-093324.png) | 验证邮箱试用会员6天, 邮箱多的上, 不建议购买 |
-| [忍者云](https://renzhe.cloud/auth/register?code=i8bF) | 🈚️ | ✅ | ❌ | [12元/月](files/speedtest/image-20220808132331792.png) | [20220816](files/speedtest/20220816-153902.png) | 3年机场, 12元/月, 用户数8K+, 节点质量高 |
-| [小强云](https://xqcloud.net/#/register?code=B9i21kYv) | 1 | ✅ | ❌ | [5元/月](files/speedtest/image-20220808103008868.png) | [20220815](files/speedtest/20220815-154926.png) | ~~3元~~5元/月66G流量, 不验证邮箱 |
+| [TAG](https://tagss.pro#/register?invite=QKixodaz) | 🈚️ | ✅ | ❌ | [140元/年](files/speedtest/image-20220904125116322.png) |  | 知名机场, 维护多年, 节点地区多, 最便宜140元/年, 平均12元/月16G |
+| [比特云](https://bityun.org/#/register?code=5YL8siKE) | 🈚️ | ✅ | ✅ | [45元/季](files/speedtest/image-20220904132013710.png) | [20220816](files/speedtest/20220816-175612.png) | 节点多, 性价比高 |
+| [西部世界](https://wwsj1783.xyz/i/iv220807/NYyp0Iw) | 6       | ✅      | ❌        | [试用套餐](files/speedtest/image-20220904132430300.png) | [20220816](files/speedtest/20220816-093324.png) | 验证邮箱试用会员6天, 邮箱多的上, 不建议购买 |
+| [忍者云](https://renzhe.cloud/auth/register?code=i8bF) | 🈚️ | ✅ | ❌ | [12元/月](files/speedtest/image-20220904132721793.png) | [20220816](files/speedtest/20220816-153902.png) | 3年机场, 12元/月, 用户数8K+, 节点质量高 |
+| [小强云](https://xqcloud.net/#/register?code=B9i21kYv) | 1 | ✅ | ❌ | [5元/月](files/speedtest/image-20220904132615692.png) | [20220815](files/speedtest/20220815-154926.png) | ~~3元~~5元/月66G流量, 不验证邮箱 |
 | [极客云](https://jike138.com/auth/register?code=kP24)         | 🈚️    | ✅   | ✅       |  |  | 注册送10G |
 | [速鹰666](https://suying222.net/auth/register?code=MwSm)     | 🈚️    | ✅   | ❌       |  |  | 无免费节点, 节点质量还可以 |
 | [速云梯](https://suyunti.com/auth/register?code=CrDU) | 🈚️ | ✅ | ❌ | [旗舰版套餐](files/speedtest/image-20220808104622235.png) | [20220808](files/speedtest/image-20220808114021275.png) | 速鹰家分站, 无免费节点 |
@@ -38,14 +39,14 @@
 | [在人间](https://www.lovefromgelifen.xyz/#/register?code=8PJFt15j)     | 🈚️    | ✅   | ❌       |  |  | 无试用, 几年的机场 |
 | [SockBoom](https://sockboom.asia/auth/register?affid=96955) | 1       | ✅      | ❌        |  |  | 白菜价套餐, 节点多 |
 | [泡泡Dog](https://www.paopao.dog/index.php#/register?code=0tGRqVWN) | 🈚️ | ✅ | ❌ | [3元/月](files/speedtest/image-20220809120751170.png) | [20220808](files/speedtest/image-20220808102018864.png) | ~~送11G, 免费5+节点~~ 3元/月10G 节点80+ |
-| [VPROXY](https://vproxy.us/#/register?code=JDQZCQyc) | 🈚️ | ✅ | ❌ | [11元/月](files/speedtest/image-20220808153235376.png) | [20220816](files/speedtest/20220816-124138.png) | 11元/月192G 节点20+ |
+| [VPROXY](https://vproxy.us/#/register?code=JDQZCQyc) | 🈚️ | ✅ | ❌ | [11元/月](files/speedtest/image-20220904132840419.png) | [20220816](files/speedtest/20220816-124138.png) | 11元/月192G 节点20+ |
 | [Glados](https://github.com/glados-network/GLaDOS) | 3 | ✅ | ❌ | [试用套餐](files/speedtest/image-20220808105234258.png) | [20220808](files/speedtest/image-20220808104947281.png) | 使用邀请码注册送1天, 每天签到随机延期, 邀请码:FF1UH-4UMQ7-8UU9Y-62TTD |
 | [魔戒](https://www.mojie.cyou/#/register?code=bpuw3ZbF) | 🈚️ | ✅ | ❌ |  | [20220808](./files/speedtest/image-20220808090729609.png) | ~~1元10G~~12元/130G不限时间, 节点~~20~~100+ **备选** |
 | [ikuuu](https://ikuuu.co/user) | 不限 | ✅ | ❌ | [免费套餐](files/speedtest/image-20220808102647377.png) | [20220816](files/speedtest/20220816-161119.png) | 注册送50G, 免费5+节点, 适合轻度使用 **推荐** **备选** |
 | [上网课](https://shangwangke.org/auth/register?code=eEYi) | 不限 | ✅ | ✅ | [免费套餐](files/speedtest/image-20220808112557604.png) |  | 长久免费试用, 2+节点, 适合轻度使用, 绑定TG激活 **推荐** **备选** |
-| [我们所向往的](https://wmsxwd-e.men/auth/register?code=PCv3) | 🈚️ | ✅ | ❌ | [59元/半年](files/speedtest/image-20220810095703530.png) | [20220816](files/speedtest/20220816-161449.png) | 性价比还行 |
+| [我们所向往的](https://wmsxwd-e.men/auth/register?code=PCv3) | 🈚️ | ✅ | ❌ | [59元/半年](files/speedtest/image-20220904132802821.png) | [20220816](files/speedtest/20220816-161449.png) | 性价比还行 |
 | [PortX](https://portx.cc/auth/register?code=7SWq) | 不限 | ✅ | ❌ | [免费套餐](files/speedtest/image-20220808114207283.png) |  | 免费使用, 通过签到获取流量 |
-| [Teacat](https://teacat.cloud/#/register?code=U5wQIWFk) | 🈚️ | ✅ | ✅ | [12元/月](files/speedtest/image-20220810094309768.png) | [20220816](files/speedtest/20220816-164534.png) |  |
+| [Teacat](https://teacat.cloud/#/register?code=U5wQIWFk) | 🈚️ | ✅ | ✅ | [12元/月](files/speedtest/image-20220904132650600.png) | [20220816](files/speedtest/20220816-164534.png) |  |
 
 
 
