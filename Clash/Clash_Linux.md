@@ -23,7 +23,7 @@
 
 ![image-20230404182144107](../files/images/image-20230404182144107.png)
 
-> 这里可能需要设置一下代理才可以将 Country.mmdb 文件下载下来，你可以从其他地方下载后拷贝到服务器，或者需要你有科学上网权限，可以执行下面命令
+> 这里可能需要设置一下代理才可以将 Country.mmdb 文件下载下来，你可以从其他地方下载后拷贝到服务器，或者需要你有科学上网条件，可以执行下面命令
 >
 > export http_proxy=http://192.168.1.7:7890
 >
@@ -76,7 +76,7 @@
 
 4. 打开：http://localhost:5773 即可完成
 
-
+![image-20230404204653131](../files/images/image-20230404204653131.png)
 
 > 如果需要其他局域网访问的话，需要在 `package.json` 文件中增加 `--host` 的配置
 
@@ -106,4 +106,46 @@ TODO
 #### 1. 订阅不成功
 
 可能是订阅的链接是一个加密的，需要通过base64解密，这里可以使用第三方的订阅转化链接，如：https://acl4ssr.netlify.app/ 。需要注意的是，他们仍然需要科学上网。
+
+#### 2. 配置文件内容是啥
+
+```yaml
+# HTTP 代理端口
+port: 7890 
+
+# SOCKS5 代理端口
+socks-port: 7891 
+
+# Linux 和 macOS 的 redir 代理端口
+redir-port: 7892 
+
+# 允许局域网的连接
+allow-lan: true
+
+# 规则模式：Rule（规则） / Global（全局代理）/ Direct（全局直连）
+mode: Rule
+
+# 设置日志输出级别 (默认级别：silent，即不输出任何内容，以避免因日志内容过大而导致程序内存溢出）。
+# 5 个级别：silent / info / warning / error / debug。级别越高日志输出量越大，越倾向于调试，若需要请自行开启。
+log-level: silent
+# Clash 的 RESTful API
+external-controller: '0.0.0.0:9090'
+
+# 测试延迟的网站
+cfw-latency-url: 'www.google.com'
+
+# RESTful API 的口令
+secret: '' 
+
+# 您可以将静态网页资源（如 clash-dashboard）放置在一个目录中，clash 将会服务于 `RESTful API/ui`
+# 参数应填写配置目录的相对路径或绝对路径。
+# external-ui: folder
+
+
+proxies:
+  - *****
+  - *****
+```
+
+
 
