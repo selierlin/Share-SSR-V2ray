@@ -1,6 +1,6 @@
-**此文档仅供学习和交流之用，不得用于商业目的。请勿将此文档用于非法活动。**
+## Share-SSR-V2ray
 
-![stars](https://img.shields.io/github/stars/selierlin/Share-SSR-V2ray.svg?style=social&label=Stars)
+**此文档仅供学习和交流之用，不得用于商业目的。请勿将此文档用于非法活动。**
 
 本文仅提供一种科学上网方法，不能保证其稳定性和速度。我们建议您寻找更加可靠的科学上网方式，以确保长期稳定的网络访问。
 
