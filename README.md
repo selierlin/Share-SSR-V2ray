@@ -5,9 +5,7 @@
 本文仅提供一种科学上网方法，不能保证其稳定性和速度。我们建议您寻找更加可靠的科学上网方式，以确保长期稳定的网络访问。
 
 临时存储网盘：
-- [阿里云盘](https://www.aliyundrive.com/s/ZCjqydLAxhH)
-
-- [OneDrive网盘](https://xiaobing-my.sharepoint.com/:f:/g/personal/if404_blay_tw/EjuJCuQm4DJCryNZxHi9wjsBDDJucpDVPL1OAu8Sb1OnuQ?e=BkkIJz)
+- [阿里云盘](https://www.aliyundrive.com/s/FFkFcyVqQrr)
 
 
 ---
@@ -18,8 +16,8 @@
 
 
 - [上网方式](#上网方式)
-	- [1. 浏览器插件](#1-浏览器插件)
-	- [2. 镜像网站](#2-镜像网站)
+	- [1. 镜像网站](#1-镜像网站)
+	- [2. 浏览器插件](#2-浏览器插件)
 	- [3. SS/SSR/V2ray分享账号](#3-ssssrv2ray分享账号)
 	- [4. 直连网站](#4-直连)
 - [工具下载](#工具下载)
@@ -33,33 +31,25 @@
 
 ### 💻上网方式
 
-#### 1. 🌰浏览器插件
-
-> 建议使用Chrome浏览器安装以下插件
-
-[集装箱](https://chrome.google.com/webstore/detail/%E9%9B%86%E8%A3%85%E7%AE%B1/kbgigmcnifmaklccibmlepmahpfdhjch) 【推荐】
-
-[谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka/)【推荐】
-
-[Setup $$](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp?hl=zh-CN)
-
-[Google Helper](http://googlehelper.net/)
-
-无法访问的可以打开网盘下载
-
-[插件安装方法](https://zhuanlan.zhihu.com/p/57484771)
-
----
-
-#### 2. 🍆镜像网站
+#### 1. 🍆镜像网站
 
 > 临时访问谷歌，且不需要使用任何工具，缺点无法访问非谷歌站点
 
 [https://g.luciaz.me](https://g.luciaz.me/extdomains/www.google.com)：需要验证答案，答案分别为【心灵之约】【水朝夕】【csxy@123】，完成后会跳转google,然后收藏地址即可。
 
-[http://ac.scmor.com/](http://ac.scmor.com/)：【推荐】
+[Google (power365.ml)](https://google.power365.ml/)
 
-[http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)：【推荐】
+[note.cm](https://note.cm/)
+
+[Google (qinai.blog)](https://google.qinai.blog/)
+
+[Google (googlehnzyc.azurewebsites.net)](https://googlehnzyc.azurewebsites.net/)
+
+[Google (ecnu.cf)](https://search.ecnu.cf/)
+
+[http://ac.scmor.com/](http://ac.scmor.com/)：学术镜像【推荐】
+
+[http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)：学术镜像【推荐】
 
 
 其它镜像：
@@ -68,6 +58,26 @@
 
 
 ---
+
+
+#### 2. 🌰浏览器插件
+
+> 建议使用Chrome浏览器安装以下插件
+
+集装箱: [官网渠道](https://a.newday.me/?scene=one_index_index)【推荐】、[插件商店](https://chrome.google.com/webstore/detail/%E9%9B%86%E8%A3%85%E7%AE%B1/kbgigmcnifmaklccibmlepmahpfdhjch)
+
+[谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka/)【推荐】
+
+[Setup $$](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp?hl=zh-CN)
+
+[Google Helper](http://googlehelper.net/)
+
+无法访问的可以打开临时存储网盘下载
+
+[插件安装方法](https://zhuanlan.zhihu.com/p/57484771)
+
+---
+
 
 #### 3. 🍄SS/SSR/V2ray分享账号
 
