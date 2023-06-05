@@ -45,6 +45,7 @@
 | [魔戒](https://www.mojie.cyou/#/register?code=bpuw3ZbF)      | 🈚️        | ✅    | ❌        |                                                              | [20220808](./files/speedtest/image-20220808090729609.png) | ~~¥1/10G~~¥12/130G不限时间, 节点~~20~~100+ **备选**          |
 | [上网课](https://shangwangke.org/auth/register?code=eEYi)    | 不限     | ✅    | ✅        | [免费套餐](files/speedtest/image-20220808112557604.png)      |                                                           | 长久免费试用, 2+节点, 适合轻度使用, **不建议购买**，绑定TG激活 **备选** |
 | [PortX](https://portx.cc/auth/register?code=7SWq)            | 不限     | ✅    | ❌        | [免费套餐](files/speedtest/image-20220808114207283.png)      |                                                           | 免费使用, 通过签到获取流量，**不建议购买**                   |
+| [FSCloud](https://dash.996cloud.top/#/register?code=rNTdFlvB) | 3        | ✅    | ❌        | [¥3/月](files/images/image-20230517183207406.png)            |                                                           | 白菜价套餐                                                   |
 | [白月光](https://www.bygcloud.com/#/register?code=DFB87gm4)  | 🈚️        | ✅    | ❌        |                                                              |                                                           | 最近比较火的机场，¥66/季度                                   |
 
 
