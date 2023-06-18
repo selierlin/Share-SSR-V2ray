@@ -1,16 +1,16 @@
 简介
 --
 
-Clash for Mac 可能是Mac 上最好用的代理工具。
+ClashX 可能是Mac 上最好用的代理工具。
 
 下载及安装
 -----
 
-[Clash下载](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+[Clash下载](https://github.com/yichengchen/clashX/releases)
 
 > 注意需要下载 dmg 格式的文件！
 
-1.  打开刚刚下载的 Clash.for.Windows-X.XX.X.dmg 文件，将「Clash 图标」拖到"Applicatitons" 文件夹内。
+1.  打开刚刚下载的 ClashX.dmg 文件，将「Clash 图标」拖到"Applicatitons" 文件夹内。
 2.  前往"应用程序"文件夹，双击「Clash图标」，打开应用。（也可在安装时候直接双击图标打开）
 3.  如果提示Clash 是从互联网下载的应用。您确定要打开它吗？请轻点"打开" 。
 4.  如果提示Clash 需要使用管理员权限安装一个帮助程序来帮助设置系统代理。请轻点"安装" 。
@@ -19,12 +19,12 @@ Clash for Mac 可能是Mac 上最好用的代理工具。
 设置
 --
 
-*   **获取订阅地址**  
+*   **获取订阅地址**
     1.  购买相关服务套餐后获取配置文件。
-    2.  如已购买，前往用户后台，登入后即可进入您的管理产品页面。    
+    2.  如已购买，前往用户后台，登入后即可进入您的管理产品页面。
     3.  在管理产品页面上，依次点击「Mac」>「Clash」>「复制订阅地址」。
 *   **导入订阅地址**
-    
+
     1.  打开Clash 应用程序。
     2.  轻点菜单栏Clash 图标> "配置" > "托管配置" > "管理" 。
     3.  轻点"添加" ，在Url 处粘贴刚刚复制的"订阅地址" ，在Config Name 处输入"自定义名称" ，然后轻点"确定" 。
