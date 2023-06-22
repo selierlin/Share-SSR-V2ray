@@ -7,6 +7,8 @@ Clash/SS/SSR/V2ray使用教程/机场推荐/直连网站/镜像网站/科学上�
 本文仅提供一种科学上网方法，不能保证其稳定性和速度。我们建议您寻找更加可靠的科学上网方式，以确保长期稳定的网络访问。
 
 临时存储网盘：
+
+- [Github仓库](https://github.com/selierlin/fq/tree/tools)
 - [阿里云盘](https://www.aliyundrive.com/s/FFkFcyVqQrr)
 
 
