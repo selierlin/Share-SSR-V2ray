@@ -158,6 +158,6 @@ Proxy SwitchyOmega设置教程：[Chrome](Other/7-2-chrome-setup-guide-cn.md)  |
 如果本项目对您有所帮助，欢迎 [Star](https://github.com/selierlin/Share-SSR-V2ray)
 
 
-## Star History
+## Star 历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=selierlin/Share-SSR-V2ray&type=Date)](https://star-history.com/#selierlin/Share-SSR-V2ray&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=selierlin/Share-SSR-V2ray&type=Date)
