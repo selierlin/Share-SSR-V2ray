@@ -9,7 +9,6 @@ Clash/SS/SSR/V2ray使用教程/机场推荐/直连网站/镜像网站/科学上�
 临时存储网盘：
 
 - [Github仓库](https://github.com/selierlin/fq/tree/tools)
-- [阿里云盘](https://www.aliyundrive.com/s/FFkFcyVqQrr)
 
 
 ---
