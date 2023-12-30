@@ -57,9 +57,9 @@
 
 | 名称                                          | 更新频率 | 注册登录 | 需要翻墙 | 备注            |
 | --------------------------------------------- | -------- | -------- | -------- | --------------- |
-| [free-ss](https://free-ss.site/)              | 时       | ❌        | ✅        | ss@rohankdd.com |
+| [free-ss](https://free-ss.site/)              | 时       | ❌        | ❌        | ss@rohankdd.com |
 | [放牧的风](https://www.youneed.win/free-ss)   | 天       | ❌        | ✅        | 推荐            |
-| [iShadow](https://get.ishadowx.biz/)          | 6小时    | ❌        | ❌        | 位于图片中      |
+| ~~[iShadow](https://get.ishadowx.biz/)~~          | 6小时    | ❌        | ❌        | 位于图片中      |
 | [免费ss账号分享](https://freefq.com/free-ss/) | 天       | ❌        | ✅        |                 |
 
 ---
@@ -73,8 +73,8 @@
 | [免费节点 Incn](https://lncn.org/)                           | 周       | ❌        | ✅        |      |
 | [Github/Alvin9999](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) | 周       | ❌        | ❌        |      |
 | ~~[ssrshare分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/)~~ | 天       | ❌        | ✅        |      |
-| [ssrshare分享网站](https://ssrtool.us/tool/free_ssr)         | 天       | ❌        | ✅        |      |
-| [翻墙党论坛](https://fanqiangdang.com/)                      | 天       | ✅        | ✅        |      |
+| ~~[ssrshare分享网站](https://ssrtool.us/tool/free_ssr)~~         | 天       | ❌        | ✅        |      |
+| ~~[翻墙党论坛](https://fanqiangdang.com/)~~                      | 天       | ✅        | ✅        |      |
 
 
 ---
@@ -86,7 +86,7 @@
 | ---------------------------------------------------------- | -------- | -------- | -------- | ---- |
 | [放牧的风](https://www.youneed.win/free-v2ray)             | 天       | ❌        | ✅        | 推荐 |
 | ~~[Free Proxies](https://proxypoolsstest.herokuapp.com/)~~ | 天       | ❌        | ❌        | 推荐 |
-| [FreeV2ray](https://view.freev2ray.org/)                   | 天       | ❌        | ❌        |      |
+| ~~[FreeV2ray](https://view.freev2ray.org/)~~                   | 天       | ❌        | ❌        |      |
 
 
 ---
