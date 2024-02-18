@@ -25,10 +25,10 @@ Clash/SS/SSR/V2ray使用教程/机场推荐/直连网站/镜像网站/科学上�
 	- [4. 直连网站](#4-直连)
 - [工具下载](#工具下载)
 - [使用教程](#使用教程)
-	- [Clash 使用教程](#Clash-使用教程)
-	- [Shadowsocks 使用教程](#shadowsocks-使用教程)
-	- [ShadowsockR 使用教程](#shadowsockR-使用教程)
-	- [V2ray 使用教程](#v2ray-使用教程)
+	- [Clash教程](#Clash-使用教程)
+	- [Shadowsocks/SS教程](#shadowsocks-使用教程)
+	- [ShadowsockR/SSR教程](#shadowsockR-使用教程)
+	- [V2ray教程](#v2ray-使用教程)
 	- [其它教程](#其它教程)
 
 
