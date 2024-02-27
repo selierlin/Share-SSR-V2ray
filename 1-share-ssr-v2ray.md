@@ -63,7 +63,6 @@
 | [Speedy](https://cloud.speedypro.xyz/#/register?code=sXxszHqH) | 7        | ✅    | ❌        | [白嫖10G](files/speedtest/image-20240218143205918.png)     |                                                 | 注册送7 天 10G，需要验证邮箱                       |
 | [DPDP](https://www.dpdp.cc/#/register?code=wPU8Yaqq)         | 1        | ✅    | ❌        | [50G¥3.98/月](files/speedtest/image-20231230130718139.png) |                                                 | 新机场，速度不错，建议只按月买                         |
 | [FSCloud](https://dash.996cloud.top/#/register?code=rNTdFlvB) | 3        | ✅    | ✅        | [¥3/月](files/images/image-20230517183207406.png)          |                                                 | 白菜价套餐                                   |
-| [甜品机场](https://xn--jvr80dc3xeqn.com/#/register?code=yXTHfp2F) | 🈚️        | ✅    | ❌        | [¥1/月](files/speedtest/image-20231230131528436.png)       |                                                 | 白嫖价格，建议用多个小号注册                        |
 
 ---
 
