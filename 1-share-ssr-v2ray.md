@@ -42,7 +42,7 @@
 | [Teacat](https://teacat2.com/#/register?code=U5wQIWFk)       | 🈚️        | ✅    | ✅        | [¥12/月](files/speedtest/image-20220904132650600.png)        | [20220816](files/speedtest/20220816-164534.png)           |                                                              |
 | [魔戒](https://www.mojie.cyou/#/register?code=bpuw3ZbF)      | 🈚️        | ✅    | ❌        |                                                              | [20220808](./files/speedtest/image-20220808090729609.png) | ~~¥1/10G~~¥12/130G不限时间, 节点~~20~~100+ **备选**          |
 | [白月光](https://www.bygcloud.com/#/register?code=DFB87gm4)  | 🈚️        | ✅    | ❌        |                                                              |                                                           | 最近比较火的机场，¥66/季度                                   |
-| [DJ机场](https://xn--mes358a9urctx.com/#/register?code=vAeyB5yp) | 🈚️        | ✅    | ❌        | [¥12/年](files/speedtest/image-20240218141957867.png)        |                                                           | 白嫖价格，建议哪个便宜买哪个                                 |
+| [肥猫云](https://fccfweb20240306.fatcatcf.com/#/register?code=1eeIv9wA) | 🈚️        | ✅    | ❌        | [¥72/年](files/speedtest/image-20240311154803329.png)        |                                                           | 新机场，节点延迟低                                           |
 
 
 
