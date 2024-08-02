@@ -45,7 +45,7 @@
 | [DJ机场](https://xn--mes358a9urctx.com/#/register?code=vAeyB5yp) | 🈚️        | ✅    | ❌        | [¥12/年](files/speedtest/image-20240218141957867.png)        |                                                           | 白嫖价格，建议哪个便宜买哪个                                 |
 | [我们所向往的](https://wmsxwd-g.men/auth/register?code=PCv3) | 🈚️        | ✅    | ❌        | [¥59/半年](files/speedtest/image-20220904132802821.png)      | [20220816](files/speedtest/20220816-161449.png)           | 性价比还行                                                   |
 | [肥猫云](https://fccfweb20240306.fatcatcf.com/#/register?code=1eeIv9wA) | 🈚️        | ✅    | ❌        | [¥72/年](files/speedtest/image-20240311154803329.png)        |                                                           | 折合每月 60GB，新机场，节点延迟低                            |
-| [比心云](https://www.bixiny.ltd/index.php#/register?code=UQC2zXeL) | 🈚️        | ✅    | ❌        | [¥80/年](files/speedtest/image-20240311154803329.png)        |                                                           | 特点流量多，带宽大                                           |
+| [比心云](https://www.bixiny.ltd/index.php#/register?code=UQC2zXeL) | 🈚️        | ✅    | ❌        | [¥80/年]()                                                   |                                                           | 特点流量多，带宽大                                           |
 
 
 
