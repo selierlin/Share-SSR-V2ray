@@ -48,7 +48,6 @@
 | [比心云](https://www.bixiny.ltd/#/register?code=JUKnmMi9) | 🈚️        | ✅    | ❌        | [¥45/一次性150G]()                                                   |                                                           | 特点流量多，带宽大                                           |
 | [TAG](https://tagss11.pro/#/auth/QKixodaz)                   | 🈚️        | ✅    | ✅        | ~~¥140~~[¥154/年](files/speedtest/image-20220904125116322.png) |                                                           | 知名机场, 维护多年, 节点地区多, 推荐¥154/年, 平均¥13/月16G   |
 | [光速云](https://huifre78ur.gsyvipaff.com/#/?code=QNWo85MP)                   | 🈚️        | ✅    | ✅        | ¥17/月 |                                                           | 新机场，可以试试   |
-| [狗狗加速](https://huifre78ur.gsyvipaff.com/#/?code=QNWo85MP)                   | 🈚️        | ✅    | ✅        | ¥17/月 |                                                           | 新机场，可以试试   |
 
 
 ### 白嫖机场
