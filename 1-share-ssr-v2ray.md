@@ -47,7 +47,7 @@
 | [肥猫云](https://fccfweb20240306.fatcatcf.com/#/register?code=1eeIv9wA) | 🈚️        | ✅    | ❌        | [¥72/年](files/speedtest/image-20240311154803329.png)        |                                                           | 折合每月 60GB，新机场，节点延迟低                            |
 | [比心云](https://www.bixiny.ltd/#/register?code=4N25nE26) | 🈚️        | ✅    | ❌        | [¥80/年]()                                                   |                                                           | 特点流量多，带宽大                                           |
 | [TAG](https://tagss11.pro/#/auth/QKixodaz)                   | 🈚️        | ✅    | ✅        | ~~¥140~~[¥154/年](files/speedtest/image-20220904125116322.png) |                                                           | 知名机场, 维护多年, 节点地区多, 推荐¥154/年, 平均¥13/月16G   |
-
+| [光速云](https://kjsdi8fd.gsaat.my/#/?code=QNWo85MP)                   | 🈚️        | ✅    | ✅        | ~~¥140~~[¥17/月]() |                                                           | 新机场，可以试试   |
 
 
 
