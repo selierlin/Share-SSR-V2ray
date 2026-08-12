@@ -149,4 +149,4 @@ Proxy SwitchyOmega设置教程：[Chrome](Other/7-2-chrome-setup-guide-cn.md)  |
 
 ## Star 历史
 
-![Star History Chart](https://api.star-history.com/svg?repos=selierlin/Share-SSR-V2ray&type=Date)
+![Star History Chart](https://star-history.dera.page/svg?repos=selierlin/Share-SSR-V2ray&type=Date)
