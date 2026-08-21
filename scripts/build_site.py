@@ -20,10 +20,10 @@ SOURCE_URL = f"{REPO_URL}/blob/master/1-share-ssr-v2ray.md"
 class Service:
     name: str
     url: str
-    price: str
-    traffic: str
-    trial: str
-    proxy: str
+    annual_plan: str
+    monthly_plan: str
+    other_plan: str
+    direct_access: str
     note: str
 
 
@@ -67,7 +67,7 @@ def parse_table(lines: list[str], start: int) -> tuple[list[Service], int]:
         if len(cells) != 6:
             index += 1
             continue
-        if index == start or all(set(cell) <= {"-", ":", " "} for cell in cells):
+        if index == start or all(set(cell) <= {"-", ":", " "} for cell in cells) or "~~" in cells[0]:
             index += 1
             continue
         name, url = parse_link(cells[0])
@@ -90,7 +90,7 @@ def parse_source(source: str) -> tuple[list[Service], list[Service]]:
             current = low_cost
         elif line.startswith("## "):
             current = None
-        if current is not None and line.startswith("| 机场 |"):
+        if current is not None and line.startswith("| 机场 | 年付套餐 |"):
             rows, index = parse_table(lines, index)
             current.extend(rows)
             continue
@@ -100,10 +100,10 @@ def parse_source(source: str) -> tuple[list[Service], list[Service]]:
 
 def render_card(service: Service) -> str:
     details = [
-        ("价格参考", service.price),
-        ("流量 / 套餐", service.traffic),
-        ("试用 / 赠送", service.trial),
-        ("需要代理", service.proxy),
+        ("年付套餐", service.annual_plan),
+        ("月付套餐", service.monthly_plan),
+        ("其它套餐", service.other_plan),
+        ("注册页访问", service.direct_access),
     ]
     detail_html = "".join(
         f'<div class="detail"><span>{html.escape(label)}</span><strong>{html.escape(value)}</strong></div>'
