@@ -38,6 +38,7 @@
 | 机场 | 价格参考 | 流量/套餐 | 试用/赠送 | 需要代理 | 备注 |
 | --- | --- | --- | --- | --- | --- |
 | [唯兔云](https://kdupyn.v2cvipaff.cc/#/?code=6DuzM2z0) | ¥79.9/年 | 45G/月 | 🈚️ | ❌ | 新机场，延迟低 |
+| [光速云](https://huifre78ur.gsyvipaff.com/#/?code=QNWo85MP) | ¥17/月 | — | 🈚️ | ✅ | 新机场，可以自行试用判断 |
 | [飞鸟云](https://feiniaoyun11.life/#/register?code=03lzB4ck) | ¥10/不限时 | 200G | 🈚️ | ❌ | 老牌机场 |
 | [魔戒](https://www.mojie.cyou/#/register?code=bpuw3ZbF) | ¥19.9/不限时 | 130G | 🈚️ | ❌ | 节点数量以官网为准 |
 | [小强云](https://xn--yetq7e.xyz/#/register?code=huOsrMlJ) | ¥5/月 | 66G/月 | 🈚️ | ✅ | 不验证邮箱；对速度有要求可查看更高档套餐 |
@@ -53,7 +54,6 @@
 | [肥猫云](https://fccfweb20240306.fatcatcf.com/#/register?code=1eeIv9wA) | ¥72/年 | 约 60G/月 | 🈚️ | ❌ | 原记录称为新机场，延迟较低 |
 | [比心云](https://www.bixiny.ltd/#/register?code=JUKnmMi9) | ¥45/一次性 | 150G | 🈚️ | ❌ | 流量较多、带宽较大（原记录） |
 | [TAG](https://tagss11.pro/#/auth/QKixodaz) | ¥154/年 | 约 16G/月 | 🈚️ | ✅ | 维护时间较长，地区较多（原记录） |
-| [光速云](https://huifre78ur.gsyvipaff.com/#/?code=QNWo85MP) | ¥17/月 | — | 🈚️ | ✅ | 新机场，可以自行试用判断 |
 
 ## 免费与低价机场
 
