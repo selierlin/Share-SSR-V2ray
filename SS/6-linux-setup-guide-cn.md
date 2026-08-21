@@ -175,11 +175,13 @@ kill 相应的 pid 即可
 
 ## 	配置 Firefox 的代理
 
-**如需使用 Firefox 浏览器	通过代理浏览网页，请参考下面链接：**  
+**如需使用 Firefox 浏览器	通过代理浏览网页，请参考下面链接**：
+
 [Firefox上设置代理](../Other/7-1-firefox-setup-guide-cn.md)
 
 
 ## 配置 Chrome 的代理
 
-**如需使用 Chrome 浏览器通过代理浏览网页，请参考下面链接：**  
+**如需使用 Chrome 浏览器通过代理浏览网页，请参考下面链接**：
+
 [Chrome + Proxy SwitchyOmega 设置](../Other/7-2-chrome-setup-guide-cn.md)
