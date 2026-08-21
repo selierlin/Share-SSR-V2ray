@@ -1,151 +1,128 @@
-# Share-SSR-V2ray
+# 机场推荐与 Clash、V2ray 客户端配置指南
 
-Clash/SS/SSR/V2ray使用教程/机场推荐/直连网站/镜像网站/科学上网插件
+Clash、Shadowsocks、V2ray 使用教程，机场推荐，以及跨平台代理工具配置资料。
 
-**此文档仅供学习和交流之用，不得用于商业目的。请勿将此文档用于非法活动。**
+> 面向 Windows、macOS、iOS、Android 和 Linux 用户，提供机场选择、代理客户端配置及常见问题排查资料。
+>
+> **文档用途：**仅供学习和交流使用，不得用于商业目的或违法活动。项目中的第三方链接不保证长期有效，请自行判断风险。
+>
+> **最近整理：**2026-08-21
 
-本文仅提供一种科学上网方法，不能保证其稳定性和速度。我们建议您寻找更加可靠的科学上网方式，以确保长期稳定的网络访问。
+## 快速开始
 
-临时存储网盘：
+不知道从哪里开始时，可以按下面的顺序操作：
 
-- [Github仓库](https://github.com/selierlin/fq/tree/tools)
+1. 先查看[机场与订阅推荐](1-share-ssr-v2ray.md)，选择适合自己的服务。
+2. 根据设备选择对应的[客户端使用教程](#客户端使用教程)。
+3. 如果遇到连接、DNS 或浏览器代理问题，再查看[其它配置教程](#其它配置教程)。
+4. 发现链接失效、内容过期或教程有误，欢迎提交 Issue 或建议。
 
+## 目录
 
----
-
-
-
-### 目录
-
-
-- [上网方式](#上网方式)
-	- [1. 镜像网站](#1-镜像网站)
-	- [2. 浏览器插件](#2-浏览器插件)
-	- [3. SS/SSR/V2ray分享账号【推荐】](#3-ssssrv2ray分享账号推荐)
-	- [4. 直连网站](#4-直连)
+- [快速开始](#快速开始)
+- [机场与订阅推荐](#机场与订阅推荐)
+- [客户端使用教程](#客户端使用教程)
+  - [Clash](#clash)
+  - [Shadowsocks](#shadowsocks)
+  - [V2ray](#v2ray)
 - [工具下载](#工具下载)
-- [使用教程](#使用教程)
-	- [Clash教程](#Clash-使用教程)
-	- [Shadowsocks/SS教程](#shadowsocks-使用教程)
-	- [ShadowsockR/SSR教程](#shadowsockR-使用教程)
-	- [V2ray教程](#v2ray-使用教程)
-	- [其它教程](#其它教程)
+- [历史资料](#历史资料)
+- [其它配置教程](#其它配置教程)
+- [临时访问方式](#临时访问方式)
+- [联系与反馈](#联系与反馈)
 
+## 机场与订阅推荐
 
-### 💻上网方式
+机场和订阅信息变化较快，使用前请自行确认官网、价格、协议支持和退款规则。**不建议在不了解服务商的情况下购买长期套餐。**
 
-#### 1. 🍆镜像网站
+- [查看机场、套餐与订阅说明](1-share-ssr-v2ray.md)
 
-> 临时访问谷歌，且不需要使用任何工具，缺点无法访问非谷歌站点
+## 客户端使用教程
 
-[https://g.luciaz.me](https://g.luciaz.me/extdomains/www.google.com)：需要验证答案，答案分别为【心灵之约】【水朝夕】【csxy@123】，完成后会跳转google,然后收藏地址即可。
+请根据操作系统选择教程。若你是第一次使用，建议先选择自己设备对应的 Clash 或 V2ray 教程。
 
-[note.cm](https://note.cm/)
+### Clash
 
-[Google (qinai.blog)](https://google.qinai.blog/)
+- [Windows](Clash/Clash_Windows.md)
+- [macOS](Clash/Clash_Mac.md)
+- [Android](Clash/Clash_Android.md)
+- [Linux](Clash/Clash_Linux.md)
 
-[Google (googlehnzyc.azurewebsites.net)](https://googlehnzyc.azurewebsites.net/)
+### Shadowsocks
 
-[Google (ecnu.cf)](https://search.ecnu.cf/)
+- [Windows](SS/2-windows-setup-guide-cn.md)
+- [macOS](SS/3-macos-setup-guide-cn.md)
+- [iOS](SS/4-ios-setup-guide-cn.md)
+- [Android](SS/5-android-setup-guide-cn.md)
+- [Linux](SS/6-linux-setup-guide-cn.md)
 
-[http://ac.scmor.com/](http://ac.scmor.com/)：学术镜像【推荐】
+### V2ray
 
-[http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)：学术镜像【推荐】
+- [Windows：V2rayN](V2ray/V2rayN_Windows.md)
+- [Android](V2ray/V2ray_Android.md)
 
+## 工具下载
 
----
+- [多平台工具下载与官网整理](tools.md)
 
+下载客户端时，优先选择项目官网、官方 GitHub 仓库或设备应用商店。第三方下载站的文件请自行确认来源和完整性。
 
-#### 2. 🌰浏览器插件
+## 历史资料
 
-> 建议使用Chrome浏览器安装以下插件
+> 以下内容仅为已有旧订阅的用户保留，不作为新用户的推荐路径；客户端界面和可用性可能已经变化。
 
-集装箱: [官网渠道](https://a.newday.me/?scene=one_index_index)【推荐】、[插件商店](https://chrome.google.com/webstore/detail/%E9%9B%86%E8%A3%85%E7%AE%B1/kbgigmcnifmaklccibmlepmahpfdhjch)
+- [ShadowsocksR（SSR）历史教程](SSR/README.md)
 
-[谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka/)【推荐】
+## 其它配置教程
 
-[Setup $$](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp?hl=zh-CN)
+- 浏览器代理： [Chrome](Other/7-2-chrome-setup-guide-cn.md) | [Firefox](Other/7-1-firefox-setup-guide-cn.md)
+- [Proxifier 设置](Other/8-proxifier-settings.md)
+- [自定义 DNS 设置](Other/9-dns-setup-guide-cn.md)
 
-[Google Helper](http://googlehelper.net/)
+## 临时访问方式
 
-无法访问的可以打开临时存储网盘下载
+以下内容仅适合作为临时方案或资料补充，链接可用性和安全性无法保证。
 
-[插件安装方法](https://zhuanlan.zhihu.com/p/57484771)
+### 临时存储
 
----
+- [临时工具与文件仓库](https://github.com/selierlin/fq/tree/tools)
 
-#### 3. 🍄SS/SSR/V2ray分享账号【推荐】
+### 镜像网站
 
-这种方案长久有效，第一次使用建议先找一个有效的“**注册站点**”，然后跟着下面👇“使用教程” 使用。如果文档中有讲解不到的地方欢迎提建议
+> 这类网站通常只能访问部分站点，不能替代稳定的代理工具。
 
-[SS-SSR-V2ray 分享账号](1-share-ssr-v2ray.md)
+- [Google 镜像（luciaz）](https://g.luciaz.me/extdomains/www.google.com)
+- [note.cm](https://note.cm/)
+- [Google（qinai.blog）](https://google.qinai.blog/)
+- [Google（googlehnzyc.azurewebsites.net）](https://googlehnzyc.azurewebsites.net/)
+- [Google（ecnu.cf）](https://search.ecnu.cf/)
+- [学术镜像（scmor）](http://ac.scmor.com/)
+- [学术镜像（hedasudi）](http://scholar.hedasudi.com/)
 
----
+### 浏览器插件
 
-#### 4. 🥒直连
+> 浏览器插件的权限、隐私和可用性可能发生变化，安装前请查看来源和评价。
 
-> 以下工具可在临时网盘中获取
+- [集装箱：官网渠道](https://a.newday.me/?scene=one_index_index) | [Chrome 商店](https://chrome.google.com/webstore/detail/%E9%9B%86%E8%A3%85%E7%AE%B1/kbgigmcnifmaklccibmlepmahpfdhjch)
+- [谷歌上网助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E4%B8%8A%E7%BD%91%E5%8A%A9%E6%89%8B/nonmafimegllfoonjgplbabhmgfanaka/)
+- [SetupVPN](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp?hl=zh-CN)
+- [Google Helper](http://googlehelper.net/)
+- [插件安装方法](https://zhuanlan.zhihu.com/p/57484771)
 
-[UPX浏览器](https://play.google.com/store/apps/details?id=net.upx.proxy.browser&hl=zh)：[APKPure](https://apkpure.com/cn/upx-unblock-sites-vpn-browser/net.upx.proxy.browser)一款自带科学上网的安卓浏览器
+### 直连工具与临时网页代理
 
-[Chromium浏览器](https://github.com/jjqqkk/jjqqkk)：解决科学上网的浏览器（支持Windows和macOS），与上面的区别就是此浏览器的版本较高，现安装包名为：JJQQKK-2.6.7 ，安装的时候可能需要.net 4.6的环境，可以在网盘中下载安装
+- [UPX 浏览器](https://play.google.com/store/apps/details?id=net.upx.proxy.browser&hl=zh) | [APKPure](https://apkpure.com/cn/upx-unblock-sites-vpn-browser/net.upx.proxy.browser)
+- [Chromium 浏览器（JJQQKK）](https://github.com/jjqqkk/jjqqkk)
+- [网易 UU](https://uu.163.com/) | [使用教程](https://uu.baike.163.com/gonglue/320.html)
+- [jsproxy](https://proxy.fan.workers.dev/)
+- [siteproxy](https://linproxy.fan.workers.dev/)
+- [jsproxy1](https://gamedun.github.io/)
 
-[网易UU](https://uu.163.com/)：支持访问国外的学术网站，学生党可以上，需要注册以及实名认证，目前没有限制时间，具体可以 [查看教程](https://uu.baike.163.com/gonglue/320.html)
+## 联系与反馈
 
----
+如果你发现链接失效、教程无法复现、软件停止维护，或有其它建议，欢迎提交 Issue 或发送邮件：[aselierlin@gmail.com](mailto:aselierlin@gmail.com)。
 
-【推荐】打开网站即可使用，可以访问所有的站点：
-
-[-jsproxy-](https://proxy.fan.workers.dev/)
-
-[-siteproxy-](https://linproxy.fan.workers.dev/)
-
-[-jsproxy1-](https://gamedun.github.io/)
-
-
----
-
-### 工具下载
-
-您可以在这里下载多种平台的工具及官网：[工具下载](tools.md)
-
----
-
-### 使用教程
-
-以下是一些常用工具使用教程：
-
-#### Clash 使用教程
-
-[Windows](Clash/Clash_Windows.md)  |  [Mac](Clash/Clash_Mac.md) |  [Android](Clash/Clash_Android.md)  |  [Linux](Clash/Clash_Linux.md)
-
-#### Shadowsocks 使用教程
-
-[Windows](SS/2-windows-setup-guide-cn.md)  |  [macOS](SS/3-macos-setup-guide-cn.md)  |  [iOS](SS/4-ios-setup-guide-cn.md)  |  [Android](SS/5-android-setup-guide-cn.md)  |  [Linux](SS/6-linux-setup-guide-cn.md)
-
-#### ShadowsockR 使用教程
-
-[Windows](SSR/11-windows-setup-guide-cn.md)  |  [macOS](SSR/12-macos-setup-guide-cn.md)  |  [iOS](SSR/13-ios-setup-guide-cn.md)  |  [Android](SSR/14-android-setup-guide-cn.md)  |  [Linux](SSR/15-linux-setup-guide-cn.md)
-
-#### V2ray 使用教程
-
-[Windows](V2ray/V2rayN_Windows.md)  |  [Android](V2ray/V2ray_Android.md) 
-
-
-#### 其它教程
-
-Proxy SwitchyOmega设置教程：[Chrome](Other/7-2-chrome-setup-guide-cn.md)  |  [Firefox](Other/7-1-firefox-setup-guide-cn.md)
-
-[Proxifier 设置教程](Other/8-proxifier-settings.md)
-
-[设置自定义 DNS 服务器](Other/9-dns-setup-guide-cn.md)
-
----
-
-如果您有任何需求、问题或建议，欢迎提出。您也可以发送邮件至：[aselierlin@gmail.com](Mailto://aselierlin@gmail.com)
-
-如果本项目对您有所帮助，欢迎 [Star](https://github.com/selierlin/Share-SSR-V2ray)
-
+如果本项目对你有帮助，欢迎点右上角的 **Star**，这会帮助更多人发现这份资料，也会鼓励项目持续维护。
 
 ## Star 历史
 

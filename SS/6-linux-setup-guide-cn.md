@@ -1,9 +1,9 @@
 # Shadowsocks 设置方法 (Linux)
 
-* [GUI 客户端 Shadowsocks-QT5](#Shadowosocks-QT5)
+* [GUI 客户端 Shadowsocks-Qt5](#shadowsocks-qt5)
 * [命令行客户端](#命令行客户端)
 
-## Shadowosocks-QT5
+## Shadowsocks-Qt5
 
 下面以 Ubuntu 64 位系统做参考，其他系统请参考 [安装指南](https://github.com/shadowsocks/shadowsocks-qt5/wiki/%E5%AE%89%E8%A3%85%E6%8C%87%E5%8D%97)
 
@@ -46,7 +46,7 @@ sudo apt-get install shadowsocks-qt5
 * 单击 “服务” > "我的服务" > 选择 "你可用的产品/服务"。
 * 查看你的节点信息。
 
->  以上操作可能不相同，主要目的就是从分享节点的网站中获取节点配置信息。
+> 不同服务商后台的页面可能不同，主要是获取节点配置信息、二维码或订阅地址。
 
 ![查看你的节点信息。](../files/images/int-portal-productdetail.png)
 
