@@ -15,6 +15,11 @@ from pathlib import Path
 REPO_URL = "https://github.com/selierlin/Share-SSR-V2ray"
 SOURCE_URL = f"{REPO_URL}/blob/master/1-share-ssr-v2ray.md"
 
+ANALYTICS_SNIPPET = (
+    '<script async src="https://tongji.linliang.top/script.js" '
+    'data-website-id="b8b50806-c8aa-42c4-98e7-a630e13b7004"></script>'
+)
+
 
 @dataclass
 class Service:
@@ -162,6 +167,7 @@ def render_page(normal: list[Service], low_cost: list[Service]) -> str:
   <meta name="theme-color" content="#f7f8fc">
   <title>机场推荐与代理订阅注册入口</title>
   <link rel="stylesheet" href="style.css">
+  {ANALYTICS_SNIPPET}
 </head>
 <body>
   <header class="hero">
@@ -339,6 +345,7 @@ def render_guide_page(guide: Guide, title: str, body: str) -> str:
   <meta name="theme-color" content="#f7f8fc">
   <title>{html.escape(title)}｜Share SSR V2ray</title>
   <link rel="stylesheet" href="../../style.css">
+  {ANALYTICS_SNIPPET}
 </head>
 <body>
   <nav class="nav shell" aria-label="主导航">
@@ -379,6 +386,7 @@ def render_guides_index() -> str:
   <meta name="theme-color" content="#f7f8fc">
   <title>客户端使用教程｜Share SSR V2ray</title>
   <link rel="stylesheet" href="../style.css">
+  {ANALYTICS_SNIPPET}
 </head>
 <body>
   <nav class="nav shell" aria-label="主导航">
