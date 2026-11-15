@@ -2,6 +2,8 @@
 
 Clash、Shadowsocks、V2ray 使用教程，机场推荐，以及跨平台代理工具配置资料。
 
+**在线阅读**：<https://selierlin.github.io/Share-SSR-V2ray/>
+
 > 面向 Windows、macOS、iOS、Android 和 Linux 用户，提供机场选择、代理客户端配置及常见问题排查资料。
 >
 > **文档用途**：仅供学习和交流使用，不得用于商业目的或违法活动。项目中的第三方链接不保证长期有效，请自行判断风险。

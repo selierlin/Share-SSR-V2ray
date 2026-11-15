@@ -15,6 +15,14 @@ from pathlib import Path
 REPO_URL = "https://github.com/selierlin/Share-SSR-V2ray"
 SOURCE_URL = f"{REPO_URL}/blob/master/1-share-ssr-v2ray.md"
 
+# 站点绝对地址（含尾斜杠）。迁移自定义域名时只改这一处：
+# canonical、og:url、sitemap.xml、robots.txt 全部由它推导。
+SITE_BASE = "https://selierlin.github.io/Share-SSR-V2ray/"
+SITE_NAME = "Share SSR V2ray"
+
+# Google Search Console「HTML 标记」验证。删除本行会导致 GSC 掉所有权。
+GOOGLE_SITE_VERIFICATION = "O_76VXLiuuWKoZ7mVEi3XaKBPBZdt0diYCyNwaTeArY"
+
 ANALYTICS_SNIPPET = (
     '<script async src="https://tongji.linliang.top/script.js" '
     'data-website-id="b8b50806-c8aa-42c4-98e7-a630e13b7004"></script>'
@@ -48,6 +56,25 @@ GUIDES = (
     Guide("v2rayn-windows", "V2ray/V2rayN_Windows.md", "v2rayN Windows", "Windows", "在 Windows 上导入订阅、更新节点并配置代理模式。"),
     Guide("v2rayng-android", "V2ray/V2ray_Android.md", "v2rayNG Android", "Android", "在 Android 上导入订阅、更新节点并开启 VPN。"),
 )
+
+
+def render_meta(title: str, description: str, path: str, og_type: str = "website") -> str:
+    url = SITE_BASE + path
+    title_attr = html.escape(title, quote=True)
+    description_attr = html.escape(description, quote=True)
+    return "\n  ".join(
+        [
+            f'<meta name="description" content="{description_attr}">',
+            f'<link rel="canonical" href="{url}">',
+            f'<meta property="og:type" content="{og_type}">',
+            f'<meta property="og:site_name" content="{SITE_NAME}">',
+            f'<meta property="og:title" content="{title_attr}">',
+            f'<meta property="og:description" content="{description_attr}">',
+            f'<meta property="og:url" content="{url}">',
+            '<meta property="og:locale" content="zh_CN">',
+            '<meta name="twitter:card" content="summary">',
+        ]
+    )
 
 
 def clean_cell(value: str) -> str:
@@ -156,6 +183,8 @@ def guide_cards(base: str = "") -> str:
 
 def render_page(normal: list[Service], low_cost: list[Service]) -> str:
     generated = date.today().isoformat()
+    title = "机场推荐与代理订阅注册入口"
+    description = "整理机场与代理订阅注册信息，以及 Clash Party、v2rayN 和 v2rayNG 客户端配置教程入口。"
     normal_group = render_group("注册站点", normal, "适合希望直接注册并自行选择套餐的用户。")
     low_group = render_group("免费与低价机场", low_cost, "适合轻度使用或临时备用；购买前请先核对服务商当前规则。")
     return f"""<!doctype html>
@@ -163,9 +192,10 @@ def render_page(normal: list[Service], low_cost: list[Service]) -> str:
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="整理机场与代理订阅注册信息，以及 Clash Party、v2rayN 和 v2rayNG 客户端配置教程入口。">
+  <meta name="google-site-verification" content="{GOOGLE_SITE_VERIFICATION}">
+  {render_meta(title, description, "")}
   <meta name="theme-color" content="#f7f8fc">
-  <title>机场推荐与代理订阅注册入口</title>
+  <title>{title}</title>
   <link rel="stylesheet" href="style.css">
   {ANALYTICS_SNIPPET}
 </head>
@@ -336,14 +366,15 @@ def copy_guide_assets(source: Path, output: Path) -> dict[str, str]:
 
 
 def render_guide_page(guide: Guide, title: str, body: str) -> str:
+    page_title = f"{title}｜{SITE_NAME}"
     return f"""<!doctype html>
 <html lang="zh-CN">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="{html.escape(guide.summary, quote=True)}">
+  {render_meta(page_title, guide.summary, f"guides/{guide.slug}/", "article")}
   <meta name="theme-color" content="#f7f8fc">
-  <title>{html.escape(title)}｜Share SSR V2ray</title>
+  <title>{html.escape(page_title)}</title>
   <link rel="stylesheet" href="../../style.css">
   {ANALYTICS_SNIPPET}
 </head>
@@ -377,14 +408,16 @@ def render_guide_page(guide: Guide, title: str, body: str) -> str:
 
 
 def render_guides_index() -> str:
+    page_title = f"客户端使用教程｜{SITE_NAME}"
+    description = "Clash Party、Clash Meta for Android、v2rayN 与 v2rayNG 的订阅导入和基础配置教程。"
     return f"""<!doctype html>
 <html lang="zh-CN">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Clash Party、Clash Meta for Android、v2rayN 与 v2rayNG 的订阅导入和基础配置教程。">
+  {render_meta(page_title, description, "guides/")}
   <meta name="theme-color" content="#f7f8fc">
-  <title>客户端使用教程｜Share SSR V2ray</title>
+  <title>{html.escape(page_title)}</title>
   <link rel="stylesheet" href="../style.css">
   {ANALYTICS_SNIPPET}
 </head>
@@ -424,6 +457,20 @@ def build_guides(output: Path) -> None:
     (output / "guides" / "index.html").write_text(render_guides_index(), encoding="utf-8")
 
 
+def build_seo_files(output: Path) -> None:
+    urls = [SITE_BASE, f"{SITE_BASE}guides/"] + [f"{SITE_BASE}guides/{guide.slug}/" for guide in GUIDES]
+    entries = "\n".join(f"  <url>\n    <loc>{url}</loc>\n  </url>" for url in urls)
+    sitemap = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        f"{entries}\n"
+        "</urlset>\n"
+    )
+    (output / "sitemap.xml").write_text(sitemap, encoding="utf-8")
+    robots = f"User-agent: *\nAllow: /\n\nSitemap: {SITE_BASE}sitemap.xml\n"
+    (output / "robots.txt").write_text(robots, encoding="utf-8")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--source", default="1-share-ssr-v2ray.md")
@@ -442,7 +489,11 @@ def main() -> None:
     (output / "index.html").write_text(render_page(normal, low_cost), encoding="utf-8")
     (output / "style.css").write_text(Path("site/style.css").read_text(encoding="utf-8"), encoding="utf-8")
     build_guides(output)
-    print(f"Generated {output}: {len(normal)} registered + {len(low_cost)} low-cost services + {len(GUIDES)} guides")
+    build_seo_files(output)
+    print(
+        f"Generated {output}: {len(normal)} registered + {len(low_cost)} low-cost services "
+        f"+ {len(GUIDES)} guides + sitemap/robots"
+    )
 
 
 if __name__ == "__main__":
